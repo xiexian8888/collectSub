@@ -8,7 +8,7 @@ def extract_nodes(text):
     过滤并提取有效的节点信息
     支持Base64编码和普通文本的节点
     """
-    valid_node_prefixes = ['ss://', 'ssr://', 'vmess://', 'vless://', 'trojan://', 'hysteria://']
+    valid_node_prefixes = ['ss://', 'ssr://', 'vmess://', 'vless://', 'trojan://', 'hysteria://','hy://','hy2://']
     nodes = []
     
     # 尝试解码Base64编码的订阅内容
