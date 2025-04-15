@@ -1,25 +1,31 @@
 -- play_list --
 
-可用流量: 346.28 GB https://bailian.uk/s/4c22f5dbc9b60b3d0c8dbdfd0c93f1bf
-可用流量: 500.0 GB https://1rzy6c5.wxll4.cfd/api/v1/client/subscribe?token=aaeeafc2936e179b5b88430677a401d9
-可用流量: 4025.11 GB https://www.ckckssl.top/api/v1/client/subscribe?token=cdc96d354d96b6e6e2670c7611611bdf
-可用流量: 9119.23 GB https://wanmeiwl4.xyz/s/4beffddcec37b72fb688a21b7c9da54b
-可用流量: 999584.79 GB http://15.197.234.117:40329/sub/66981cd05be137cf/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
-可用流量: 4025.11 GB https://www.ckckssl.top/api/v1/client/subscribe?token=cdc96d354d96b6e6e2670c7611611bdf#/
-可用流量: 529.17 GB https://epclub.xyz/api/epclub?token=f42ab4d5ef84c8eec3f2ffd947021205
-可用流量: 314.58 GB https://sub.666676666.xyz/api/v1/client/subscribe?token=55349bfe004287a927dd7be428a0c30f#subscribe?token=55349bfe004287a927dd7be428a0c30f
-可用流量: 647.47 GB https://ansuyun.xyz/api/as?token=cea3a2304260289e15036fffb5676cca
-可用流量: 79.25 GB https://sub.mogufan.com/s/6e8d29f1830e592c7b142da2cf74e0f2
+可用流量: 9115.5 GB https://wanmeiwl4.xyz/s/4beffddcec37b72fb688a21b7c9da54b
+可用流量: 310.8 GB https://sub.xn--4gqvd492adjr.com/s/ba964c6c4c927b6c19862a935b92996d
+可用流量: 436.64 GB https://bailian.uk/s/55195c15c9cb48b29a37e1ad26b98610
+可用流量: 282.09 GB http://nuxyun.v2rayflash.top/api/v1/client/subscribe?token=be30e81980997f794f9b4660ed1bbd5d#/2.2mb/s
+可用流量: 10.0 GB https://link08.shanhai.one/api/v1/client/subscribe?token=8d4c465fd37cb8db170036cf00be9dbc#
+可用流量: 95.83 GB https://ch.owokkvsxks.store/api/v1/client/subscribe?token=61082ab5100fc1be791eb15cf942b2a2
+可用流量: 500.0 GB https://n063ww4.wxll4.cfd/api/v1/client/subscribe?token=676782dc6736a2f0d89f4f42b7e884e8
+可用流量: 226.96 GB https://666676666.xyz/api/v1/client/subscribe?token=f701ce71294b488eebc00937d841bebb
+可用流量: 529.16 GB https://epclub.xyz/api/epclub?token=f42ab4d5ef84c8eec3f2ffd947021205
+可用流量: 79.13 GB https://sub.mogufan.com/s/6e8d29f1830e592c7b142da2cf74e0f2
+可用流量: 98.45 GB https://ch.owokkvsxks.store/api/v1/client/subscribe?token=3b000590951e6a7e3e83cc720d6b6eda
+可用流量: 237.69 GB https://sub.xn--4gqvd492adjr.com/s/8b84ef754365bdd9fdc29f27e1896029
+可用流量: 10.0 GB https://ai.jiedianxielou.workers.dev/
 
 -- sub_list --
 
-https://bailian.uk/s/4c22f5dbc9b60b3d0c8dbdfd0c93f1bf
-https://1rzy6c5.wxll4.cfd/api/v1/client/subscribe?token=aaeeafc2936e179b5b88430677a401d9
-https://www.ckckssl.top/api/v1/client/subscribe?token=cdc96d354d96b6e6e2670c7611611bdf
 https://wanmeiwl4.xyz/s/4beffddcec37b72fb688a21b7c9da54b
-http://15.197.234.117:40329/sub/66981cd05be137cf/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
-https://www.ckckssl.top/api/v1/client/subscribe?token=cdc96d354d96b6e6e2670c7611611bdf#/
+https://sub.xn--4gqvd492adjr.com/s/ba964c6c4c927b6c19862a935b92996d
+https://bailian.uk/s/55195c15c9cb48b29a37e1ad26b98610
+http://nuxyun.v2rayflash.top/api/v1/client/subscribe?token=be30e81980997f794f9b4660ed1bbd5d#/2.2mb/s
+https://link08.shanhai.one/api/v1/client/subscribe?token=8d4c465fd37cb8db170036cf00be9dbc#
+https://ch.owokkvsxks.store/api/v1/client/subscribe?token=61082ab5100fc1be791eb15cf942b2a2
+https://n063ww4.wxll4.cfd/api/v1/client/subscribe?token=676782dc6736a2f0d89f4f42b7e884e8
+https://666676666.xyz/api/v1/client/subscribe?token=f701ce71294b488eebc00937d841bebb
 https://epclub.xyz/api/epclub?token=f42ab4d5ef84c8eec3f2ffd947021205
-https://sub.666676666.xyz/api/v1/client/subscribe?token=55349bfe004287a927dd7be428a0c30f#subscribe?token=55349bfe004287a927dd7be428a0c30f
-https://ansuyun.xyz/api/as?token=cea3a2304260289e15036fffb5676cca
 https://sub.mogufan.com/s/6e8d29f1830e592c7b142da2cf74e0f2
+https://ch.owokkvsxks.store/api/v1/client/subscribe?token=3b000590951e6a7e3e83cc720d6b6eda
+https://sub.xn--4gqvd492adjr.com/s/8b84ef754365bdd9fdc29f27e1896029
+https://ai.jiedianxielou.workers.dev/
