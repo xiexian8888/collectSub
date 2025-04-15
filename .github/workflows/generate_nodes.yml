@@ -34,5 +34,6 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add all_nodes.txt
+          git add . 
           git commit -m "Update Nodes List [skip ci]" || echo "No changes to commit"
           git push
