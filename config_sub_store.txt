@@ -1,21 +1,21 @@
 -- play_list --
 
-可用流量: 343.25 GB https://bailian.uk/s/4c22f5dbc9b60b3d0c8dbdfd0c93f1bf
-可用流量: 307.17 GB https://sub.xn--4gqvd492adjr.com/s/9ccbdc4b137c348c6e2cf814e5719aa9
-可用流量: 321.62 GB https://666676666.xyz/api/v1/client/subscribe?token=45d4a6d5581d24b01e390da627b860d6
-可用流量: 3576.71 GB https://www.ckckssl.top/api/v1/client/subscribe?token=cdc96d354d96b6e6e2670c7611611bdf
-可用流量: 289.22 GB https://sub.xn--4gqvd492adjr.com/s/ba964c6c4c927b6c19862a935b92996d
-可用流量: 108.42 GB https://666676666.xyz/api/v1/client/subscribe?token=f701ce71294b488eebc00937d841bebb
-可用流量: 954.69 GB https://ch.vfkum.website/api/v1/client/subscribe?token=9227f541e3d700d7f86386b8c851f299#@Ammar_Taraz
-可用流量: 8823.08 GB https://wanmeiwl4.xyz/s/4beffddcec37b72fb688a21b7c9da54b
+可用流量: 36.81 GB https://sub.yume.cyou/s/11bc77ca71a98e8429ec1493336455c4
+可用流量: 8819.83 GB https://wanmeiwl4.xyz/s/4beffddcec37b72fb688a21b7c9da54b
+可用流量: 126.62 GB https://xn--9kqx21a0sv.com/api/bpyun?token=2a9711aa018b6f90b4ae8f2ce7b90cc6
+可用流量: 358.55 GB https://bailian.uk/s/00110c2062e70367e8ee745444ee8369
+可用流量: 428.97 GB https://ansuyun.xyz/api/as?token=84a8bd92ef0ac3e8dc0df111eb2a4e08
+可用流量: 621.73 GB https://ansuyun.xyz/api/as?token=cea3a2304260289e15036fffb5676cca
+可用流量: 113.47 GB https://xn--9kqx21a0sv.com/api/bpyun?token=e0d739f9d724001fe8b25dc59de9f22e
+可用流量: 523.24 GB https://epclub.xyz/api/epclub?token=f42ab4d5ef84c8eec3f2ffd947021205
 
 -- sub_list --
 
-https://bailian.uk/s/4c22f5dbc9b60b3d0c8dbdfd0c93f1bf
-https://sub.xn--4gqvd492adjr.com/s/9ccbdc4b137c348c6e2cf814e5719aa9
-https://666676666.xyz/api/v1/client/subscribe?token=45d4a6d5581d24b01e390da627b860d6
-https://www.ckckssl.top/api/v1/client/subscribe?token=cdc96d354d96b6e6e2670c7611611bdf
-https://sub.xn--4gqvd492adjr.com/s/ba964c6c4c927b6c19862a935b92996d
-https://666676666.xyz/api/v1/client/subscribe?token=f701ce71294b488eebc00937d841bebb
-https://ch.vfkum.website/api/v1/client/subscribe?token=9227f541e3d700d7f86386b8c851f299#@Ammar_Taraz
+https://sub.yume.cyou/s/11bc77ca71a98e8429ec1493336455c4
 https://wanmeiwl4.xyz/s/4beffddcec37b72fb688a21b7c9da54b
+https://xn--9kqx21a0sv.com/api/bpyun?token=2a9711aa018b6f90b4ae8f2ce7b90cc6
+https://bailian.uk/s/00110c2062e70367e8ee745444ee8369
+https://ansuyun.xyz/api/as?token=84a8bd92ef0ac3e8dc0df111eb2a4e08
+https://ansuyun.xyz/api/as?token=cea3a2304260289e15036fffb5676cca
+https://xn--9kqx21a0sv.com/api/bpyun?token=e0d739f9d724001fe8b25dc59de9f22e
+https://epclub.xyz/api/epclub?token=f42ab4d5ef84c8eec3f2ffd947021205
