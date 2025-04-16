@@ -1,37 +1,29 @@
 -- play_list --
 
-可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G
-可用流量: 399.9 GB https://bailian.uk/s/be72481ddf5cafd9a247fa2e5acd0ca1
-可用流量: 275.94 GB https://bailian.uk/s/ec5eeb318e13013d0dedcc6077fa3af4
-可用流量: 415.47 GB https://xn--9kqx21a0sv.com/api/bpyun?token=a7f5ba0020ebd5c0f97eb6c2d40e2265
+可用流量: 643.59 GB https://ansuyun.xyz/api/as?token=cea3a2304260289e15036fffb5676cca
+可用流量: 60.58 GB https://sub.pumcloud.net/s/f0e58738f2657dba08e69bc600a425d3
+可用流量: 500.0 GB https://1rzy6c5.wxll4.cfd/api/v1/client/subscribe?token=aaeeafc2936e179b5b88430677a401d9
+可用流量: 73.16 GB https://sub.mogufan.com/s/6e8d29f1830e592c7b142da2cf74e0f2
+可用流量: 8924.05 GB https://wanmeiwl4.xyz/s/4beffddcec37b72fb688a21b7c9da54b
+可用流量: 999485.19 GB http://15.197.234.117:40329/sub/66981cd05be137cf/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
+可用流量: 31.51 GB https://sub.pumcloud.net/s/7046f2f1e64492f8cd64276be835be5b
+可用流量: 9004.99 GB https://wanmeiwl1.xyz/s/6c893e6e5c1ba9c0da763e91f466c32f
+可用流量: 415.69 GB https://xn--9kqx21a0sv.com/api/bpyun?token=437a253fa2adff3b500308444a2eafab
 可用流量: 500.0 GB https://n063ww4.wxll4.cfd/api/v1/client/subscribe?token=676782dc6736a2f0d89f4f42b7e884e8
-可用流量: 525.83 GB https://epclub.xyz/api/epclub?token=f42ab4d5ef84c8eec3f2ffd947021205
-可用流量: 999998003.43 GB https://202503212313501.chibaba.ggff.net/api/v1/client/subscribe?token=eee1b58c52d8e656bc6b729a182cf49b
-可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-可用流量: 10.0 GB https://ai.jiedianxielou.workers.dev/dwfb2a876gmpnfgiv8g9u5j2x
-可用流量: 430.39 GB https://ansuyun.xyz/api/as?token=84a8bd92ef0ac3e8dc0df111eb2a4e08
-可用流量: 999486.06 GB http://15.197.234.117:40329/sub/66981cd05be137cf/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
-可用流量: 644.29 GB https://ansuyun.xyz/api/as?token=cea3a2304260289e15036fffb5676cca
-可用流量: 8931.57 GB https://wanmeiwl4.xyz/s/4beffddcec37b72fb688a21b7c9da54b
-可用流量: 10.0 GB https://ai.jiedianxielou.workers.dev/7i8lpf5cg3vpw9g4hkzikseqv
-可用流量: 360.08 GB https://666676666.xyz/api/v1/client/subscribe?token=45d4a6d5581d24b01e390da627b860d6
-可用流量: 180.08 GB https://666676666.xyz/api/v1/client/subscribe?token=f701ce71294b488eebc00937d841bebb
+可用流量: 296.02 GB https://sub.xn--4gqvd492adjr.com/s/ba964c6c4c927b6c19862a935b92996d
+可用流量: 525.76 GB https://epclub.xyz/api/epclub?token=f42ab4d5ef84c8eec3f2ffd947021205
 
 -- sub_list --
 
-https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G
-https://bailian.uk/s/be72481ddf5cafd9a247fa2e5acd0ca1
-https://bailian.uk/s/ec5eeb318e13013d0dedcc6077fa3af4
-https://xn--9kqx21a0sv.com/api/bpyun?token=a7f5ba0020ebd5c0f97eb6c2d40e2265
-https://n063ww4.wxll4.cfd/api/v1/client/subscribe?token=676782dc6736a2f0d89f4f42b7e884e8
-https://epclub.xyz/api/epclub?token=f42ab4d5ef84c8eec3f2ffd947021205
-https://202503212313501.chibaba.ggff.net/api/v1/client/subscribe?token=eee1b58c52d8e656bc6b729a182cf49b
-https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-https://ai.jiedianxielou.workers.dev/dwfb2a876gmpnfgiv8g9u5j2x
-https://ansuyun.xyz/api/as?token=84a8bd92ef0ac3e8dc0df111eb2a4e08
-http://15.197.234.117:40329/sub/66981cd05be137cf/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
 https://ansuyun.xyz/api/as?token=cea3a2304260289e15036fffb5676cca
+https://sub.pumcloud.net/s/f0e58738f2657dba08e69bc600a425d3
+https://1rzy6c5.wxll4.cfd/api/v1/client/subscribe?token=aaeeafc2936e179b5b88430677a401d9
+https://sub.mogufan.com/s/6e8d29f1830e592c7b142da2cf74e0f2
 https://wanmeiwl4.xyz/s/4beffddcec37b72fb688a21b7c9da54b
-https://ai.jiedianxielou.workers.dev/7i8lpf5cg3vpw9g4hkzikseqv
-https://666676666.xyz/api/v1/client/subscribe?token=45d4a6d5581d24b01e390da627b860d6
-https://666676666.xyz/api/v1/client/subscribe?token=f701ce71294b488eebc00937d841bebb
+http://15.197.234.117:40329/sub/66981cd05be137cf/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
+https://sub.pumcloud.net/s/7046f2f1e64492f8cd64276be835be5b
+https://wanmeiwl1.xyz/s/6c893e6e5c1ba9c0da763e91f466c32f
+https://xn--9kqx21a0sv.com/api/bpyun?token=437a253fa2adff3b500308444a2eafab
+https://n063ww4.wxll4.cfd/api/v1/client/subscribe?token=676782dc6736a2f0d89f4f42b7e884e8
+https://sub.xn--4gqvd492adjr.com/s/ba964c6c4c927b6c19862a935b92996d
+https://epclub.xyz/api/epclub?token=f42ab4d5ef84c8eec3f2ffd947021205
