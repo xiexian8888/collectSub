@@ -1,9 +1,6 @@
-https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
-https://sub.pumcloud.net/s/a4685c51227db029da9d81bbf5129fc0
-https://speedx2net.postshup.ir:2096/sub/S3VyZFZwbl8zMEdiLDE3NDE0MDkyNzcO4PFMVZoWk
 https://super.jack991.filegear-sg.me/
-https://www.now61.com/f/wDdNCa/dyy5.9.yaml
-https://mc.jiedianxielou.workers.dev/
+https://sub.pumcloud.net/s/a4685c51227db029da9d81bbf5129fc0
 https://sdk.bhqt.fun
 https://mc.jiedianxielou.workers.dev
+https://mc.jiedianxielou.workers.dev/
