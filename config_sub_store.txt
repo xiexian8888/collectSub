@@ -1,25 +1,21 @@
 -- play_list --
 
-可用流量: 404.9 GB https://xn--9kqx21a0sv.com/api/bpyun?token=c099a0f220e8023c5032f8c67ef0b649
-可用流量: 523.24 GB https://epclub.xyz/api/epclub?token=f42ab4d5ef84c8eec3f2ffd947021205
-可用流量: 10.0 GB https://ai.jiedianxielou.workers.dev/
-可用流量: 419.69 GB https://bailian.uk/s/55195c15c9cb48b29a37e1ad26b98610
-可用流量: 500.0 GB https://1rzy6c5.wxll4.cfd/api/v1/client/subscribe?token=aaeeafc2936e179b5b88430677a401d9
-可用流量: 954.71 GB https://ch.vfkum.website/api/v1/client/subscribe?token=9227f541e3d700d7f86386b8c851f299#@Ammar_Taraz
-可用流量: 24.69 GB https://sub.pumcloud.net/s/7046f2f1e64492f8cd64276be835be5b
-可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-可用流量: 999999691.09 GB http://202504081152261.chibaba.ggff.net/api/v1/client/subscribe?token=051c04e9267e21b120fcce358401472e
-可用流量: 99.08 GB https://ch.owokkvsxks.store/api/v1/client/subscribe?token=9743a3cf100d2ebbde71a012d812746c
+可用流量: 343.25 GB https://bailian.uk/s/4c22f5dbc9b60b3d0c8dbdfd0c93f1bf
+可用流量: 307.17 GB https://sub.xn--4gqvd492adjr.com/s/9ccbdc4b137c348c6e2cf814e5719aa9
+可用流量: 321.62 GB https://666676666.xyz/api/v1/client/subscribe?token=45d4a6d5581d24b01e390da627b860d6
+可用流量: 3576.71 GB https://www.ckckssl.top/api/v1/client/subscribe?token=cdc96d354d96b6e6e2670c7611611bdf
+可用流量: 289.22 GB https://sub.xn--4gqvd492adjr.com/s/ba964c6c4c927b6c19862a935b92996d
+可用流量: 108.42 GB https://666676666.xyz/api/v1/client/subscribe?token=f701ce71294b488eebc00937d841bebb
+可用流量: 954.69 GB https://ch.vfkum.website/api/v1/client/subscribe?token=9227f541e3d700d7f86386b8c851f299#@Ammar_Taraz
+可用流量: 8823.08 GB https://wanmeiwl4.xyz/s/4beffddcec37b72fb688a21b7c9da54b
 
 -- sub_list --
 
-https://xn--9kqx21a0sv.com/api/bpyun?token=c099a0f220e8023c5032f8c67ef0b649
-https://epclub.xyz/api/epclub?token=f42ab4d5ef84c8eec3f2ffd947021205
-https://ai.jiedianxielou.workers.dev/
-https://bailian.uk/s/55195c15c9cb48b29a37e1ad26b98610
-https://1rzy6c5.wxll4.cfd/api/v1/client/subscribe?token=aaeeafc2936e179b5b88430677a401d9
+https://bailian.uk/s/4c22f5dbc9b60b3d0c8dbdfd0c93f1bf
+https://sub.xn--4gqvd492adjr.com/s/9ccbdc4b137c348c6e2cf814e5719aa9
+https://666676666.xyz/api/v1/client/subscribe?token=45d4a6d5581d24b01e390da627b860d6
+https://www.ckckssl.top/api/v1/client/subscribe?token=cdc96d354d96b6e6e2670c7611611bdf
+https://sub.xn--4gqvd492adjr.com/s/ba964c6c4c927b6c19862a935b92996d
+https://666676666.xyz/api/v1/client/subscribe?token=f701ce71294b488eebc00937d841bebb
 https://ch.vfkum.website/api/v1/client/subscribe?token=9227f541e3d700d7f86386b8c851f299#@Ammar_Taraz
-https://sub.pumcloud.net/s/7046f2f1e64492f8cd64276be835be5b
-https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-http://202504081152261.chibaba.ggff.net/api/v1/client/subscribe?token=051c04e9267e21b120fcce358401472e
-https://ch.owokkvsxks.store/api/v1/client/subscribe?token=9743a3cf100d2ebbde71a012d812746c
+https://wanmeiwl4.xyz/s/4beffddcec37b72fb688a21b7c9da54b
