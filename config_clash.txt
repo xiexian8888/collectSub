@@ -1,5 +1,6 @@
-https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
-https://sub.yume.cyou/s/d5cf854d9e388537defa7654345f3876
+https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
 https://super.jack991.filegear-sg.me/
+https://raw.githubusercontent.com/WearestandTelegram/ClashMeta/refs/heads/main/wearestand.yml
+https://sub.yume.cyou/s/d5cf854d9e388537defa7654345f3876
+https://sub.pumcloud.net/s/6dd93568bcde0d9d65cb4f017d4ad1fe
 https://speedx2net.postshup.ir:2096/sub/S3VyZFZwbl8zMEdiLDE3NDE0MDkyNzcO4PFMVZoWk
-https://sdk.bhqt.fun
