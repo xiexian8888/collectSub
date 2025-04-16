@@ -1,19 +1,29 @@
 -- play_list --
 
-可用流量: 419.42 GB https://bailian.uk/s/55195c15c9cb48b29a37e1ad26b98610
-可用流量: 8817.5 GB https://wanmeiwl4.xyz/s/4beffddcec37b72fb688a21b7c9da54b
-可用流量: 339.92 GB https://xn--9kqx21a0sv.com/api/bpyun?token=437a253fa2adff3b500308444a2eafab
-可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G
-可用流量: 36.68 GB https://sub.yume.cyou/s/11bc77ca71a98e8429ec1493336455c4
-可用流量: 104.08 GB https://sub.xn--4gqvd492adjr.com/s/9d728e61d208bf5a5ed51d4a77d05219
-可用流量: 999999688.67 GB http://202504081152261.chibaba.ggff.net/api/v1/client/subscribe?token=051c04e9267e21b120fcce358401472e
+可用流量: 367.0 GB https://bailian.uk/s/5f9b934a7aa9e26132bf084f7afd100d
+可用流量: 239.29 GB https://sub.xn--4gqvd492adjr.com/s/58984ac0f3d9d1f07639f35983c79b91
+可用流量: 523.05 GB https://epclub.xyz/api/epclub?token=f42ab4d5ef84c8eec3f2ffd947021205
+可用流量: 954.6 GB https://ch.vfkum.website/api/v1/client/subscribe?token=9227f541e3d700d7f86386b8c851f299#@Ammar_Taraz
+可用流量: 39.68 GB https://sub.pumcloud.net/s/f0e58738f2657dba08e69bc600a425d3
+可用流量: 99.02 GB https://ch.owokkvsxks.store/api/v1/client/subscribe?token=9743a3cf100d2ebbde71a012d812746c
+可用流量: 264.47 GB https://xn--9kqx21a0sv.com/api/bpyun?token=6f2e6f43bf7087861d386810e0020b10
+可用流量: 373.81 GB https://xn--9kqx21a0sv.com/api/bpyun?token=71381df2a4c89241bc7698efbe0931dd
+可用流量: 999997988.86 GB https://202503212313501.chibaba.ggff.net/api/v1/client/subscribe?token=eee1b58c52d8e656bc6b729a182cf49b
+可用流量: 288.68 GB https://sub.xn--4gqvd492adjr.com/s/ba964c6c4c927b6c19862a935b92996d
+可用流量: 306.56 GB https://sub.xn--4gqvd492adjr.com/s/9ccbdc4b137c348c6e2cf814e5719aa9
+可用流量: 320.56 GB https://666676666.xyz/api/v1/client/subscribe?token=45d4a6d5581d24b01e390da627b860d6
 
 -- sub_list --
 
-https://bailian.uk/s/55195c15c9cb48b29a37e1ad26b98610
-https://wanmeiwl4.xyz/s/4beffddcec37b72fb688a21b7c9da54b
-https://xn--9kqx21a0sv.com/api/bpyun?token=437a253fa2adff3b500308444a2eafab
-https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G
-https://sub.yume.cyou/s/11bc77ca71a98e8429ec1493336455c4
-https://sub.xn--4gqvd492adjr.com/s/9d728e61d208bf5a5ed51d4a77d05219
-http://202504081152261.chibaba.ggff.net/api/v1/client/subscribe?token=051c04e9267e21b120fcce358401472e
+https://bailian.uk/s/5f9b934a7aa9e26132bf084f7afd100d
+https://sub.xn--4gqvd492adjr.com/s/58984ac0f3d9d1f07639f35983c79b91
+https://epclub.xyz/api/epclub?token=f42ab4d5ef84c8eec3f2ffd947021205
+https://ch.vfkum.website/api/v1/client/subscribe?token=9227f541e3d700d7f86386b8c851f299#@Ammar_Taraz
+https://sub.pumcloud.net/s/f0e58738f2657dba08e69bc600a425d3
+https://ch.owokkvsxks.store/api/v1/client/subscribe?token=9743a3cf100d2ebbde71a012d812746c
+https://xn--9kqx21a0sv.com/api/bpyun?token=6f2e6f43bf7087861d386810e0020b10
+https://xn--9kqx21a0sv.com/api/bpyun?token=71381df2a4c89241bc7698efbe0931dd
+https://202503212313501.chibaba.ggff.net/api/v1/client/subscribe?token=eee1b58c52d8e656bc6b729a182cf49b
+https://sub.xn--4gqvd492adjr.com/s/ba964c6c4c927b6c19862a935b92996d
+https://sub.xn--4gqvd492adjr.com/s/9ccbdc4b137c348c6e2cf814e5719aa9
+https://666676666.xyz/api/v1/client/subscribe?token=45d4a6d5581d24b01e390da627b860d6
