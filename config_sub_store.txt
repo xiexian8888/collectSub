@@ -1,29 +1,23 @@
 -- play_list --
 
-可用流量: 8736.8 GB https://wanmeiwl1.xyz/s/6c893e6e5c1ba9c0da763e91f466c32f
-可用流量: 192.13 GB https://update.glados-config.com/clash/582110/5da687e/94787/glados.yaml
-可用流量: 392.41 GB https://xn--9kqx21a0sv.com/api/bpyun?token=a7f5ba0020ebd5c0f97eb6c2d40e2265
-可用流量: 8749.5 GB https://wanmeiwl4.xyz/s/4beffddcec37b72fb688a21b7c9da54b
-可用流量: 519.79 GB https://epclub.xyz/api/epclub?token=f42ab4d5ef84c8eec3f2ffd947021205
-可用流量: 99.75 GB https://ch.owokkvsxks.store/api/v1/client/subscribe?token=b6fd235a7d116b4ff5033705fa377220
-可用流量: 999997959.69 GB https://202503212313501.chibaba.ggff.net/api/v1/client/subscribe?token=eee1b58c52d8e656bc6b729a182cf49b
+可用流量: 73.26 GB https://xn--9kqx21a0sv.com/api/bpyun?token=e0d739f9d724001fe8b25dc59de9f22e
+可用流量: 999997957.14 GB https://202503212313501.chibaba.ggff.net/api/v1/client/subscribe?token=eee1b58c52d8e656bc6b729a182cf49b
+可用流量: 286.21 GB https://sub.xn--4gqvd492adjr.com/s/ba964c6c4c927b6c19862a935b92996d
 可用流量: 500.0 GB https://n063ww4.wxll4.cfd/api/v1/client/subscribe?token=676782dc6736a2f0d89f4f42b7e884e8
-可用流量: 500.0 GB https://1rzy6c5.wxll4.cfd/api/v1/client/subscribe?token=aaeeafc2936e179b5b88430677a401d9
-可用流量: 43119.68 GB https://cf-workers-sub-9s8.pages.dev/CSDN
-可用流量: 43119.68 GB http://vless.809098.xyz/
-可用流量: 20.79 GB https://bayoeorescentpossessicoanseparateuneforescenphacommitte.adoptangelaboradvacotionclwonthorughconfrmcompimentdeseertaltar.org/link/W5LGcE4tTlHiocq3?clash=1
+可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=pro@ak22RsujzCYUkcqv_cU6ILMA
+可用流量: 279.47 GB https://666676666.xyz/api/v1/client/subscribe?token=45d4a6d5581d24b01e390da627b860d6
+可用流量: 1409.86 GB http://api.miloli.cc/api/v1/client/subscribe?token=794cccfe111b2522747cf9bc2c36dffd
+可用流量: 8736.8 GB https://wanmeiwl1.xyz/s/6c893e6e5c1ba9c0da763e91f466c32f
+可用流量: 10.0 GB https://ai.jiedianxielou.workers.dev/
 
 -- sub_list --
 
-https://wanmeiwl1.xyz/s/6c893e6e5c1ba9c0da763e91f466c32f
-https://update.glados-config.com/clash/582110/5da687e/94787/glados.yaml
-https://xn--9kqx21a0sv.com/api/bpyun?token=a7f5ba0020ebd5c0f97eb6c2d40e2265
-https://wanmeiwl4.xyz/s/4beffddcec37b72fb688a21b7c9da54b
-https://epclub.xyz/api/epclub?token=f42ab4d5ef84c8eec3f2ffd947021205
-https://ch.owokkvsxks.store/api/v1/client/subscribe?token=b6fd235a7d116b4ff5033705fa377220
+https://xn--9kqx21a0sv.com/api/bpyun?token=e0d739f9d724001fe8b25dc59de9f22e
 https://202503212313501.chibaba.ggff.net/api/v1/client/subscribe?token=eee1b58c52d8e656bc6b729a182cf49b
+https://sub.xn--4gqvd492adjr.com/s/ba964c6c4c927b6c19862a935b92996d
 https://n063ww4.wxll4.cfd/api/v1/client/subscribe?token=676782dc6736a2f0d89f4f42b7e884e8
-https://1rzy6c5.wxll4.cfd/api/v1/client/subscribe?token=aaeeafc2936e179b5b88430677a401d9
-https://cf-workers-sub-9s8.pages.dev/CSDN
-http://vless.809098.xyz/
-https://bayoeorescentpossessicoanseparateuneforescenphacommitte.adoptangelaboradvacotionclwonthorughconfrmcompimentdeseertaltar.org/link/W5LGcE4tTlHiocq3?clash=1
+https://xship.top/v1/subscribe?starlink=pro@ak22RsujzCYUkcqv_cU6ILMA
+https://666676666.xyz/api/v1/client/subscribe?token=45d4a6d5581d24b01e390da627b860d6
+http://api.miloli.cc/api/v1/client/subscribe?token=794cccfe111b2522747cf9bc2c36dffd
+https://wanmeiwl1.xyz/s/6c893e6e5c1ba9c0da763e91f466c32f
+https://ai.jiedianxielou.workers.dev/
