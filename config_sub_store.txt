@@ -1,27 +1,25 @@
 -- play_list --
 
-可用流量: 520.98 GB https://epclub.xyz/api/epclub?token=f42ab4d5ef84c8eec3f2ffd947021205
-可用流量: 75.12 GB https://xn--9kqx21a0sv.com/api/bpyun?token=2a9711aa018b6f90b4ae8f2ce7b90cc6
-可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G_#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
-可用流量: 12.57 GB https://666676666.xyz/api/v1/client/subscribe?token=f701ce71294b488eebc00937d841bebb
-可用流量: 20.42 GB https://sub.yume.cyou/s/11bc77ca71a98e8429ec1493336455c4
-可用流量: 954.28 GB https://ch.vfkum.website/api/v1/client/subscribe?token=9227f541e3d700d7f86386b8c851f299#@Ammar_Taraz
 可用流量: 305.87 GB https://sub.xn--4gqvd492adjr.com/s/9ccbdc4b137c348c6e2cf814e5719aa9
-可用流量: 3411.29 GB https://www.ckckssl.top/api/v1/client/subscribe?token=cdc96d354d96b6e6e2670c7611611bdf
-可用流量: 1015.97 GB https://bayoeorescentpossessicoanseparateuneforescenphacommitte.adoptangelaboradvacotionclwonthorughconfrmcompimentdeseertaltar.org/link/W5LGcE4tTlHiocq3?clash=1
-可用流量: 10.0 GB https://ai.jiedianxielou.workers.dev/
-可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G
+可用流量: 99.14 GB https://xn--9kqx21a0sv.com/api/bpyun?token=e0d739f9d724001fe8b25dc59de9f22e
+可用流量: 1069.67 GB https://bayoeorescentpossessicoanseparateuneforescenphacommitte.adoptangelaboradvacotionclwonthorughconfrmcompimentdeseertaltar.org/link/W5LGcE4tTlHiocq3?clash=1
+可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G_#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
+可用流量: 307.9 GB https://666676666.xyz/api/v1/client/subscribe?token=45d4a6d5581d24b01e390da627b860d6
+可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=pro@ak22RsujzCYUkcqv_cU6ILMA#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
+可用流量: 10.0 GB https://ai.jiedianxielou.workers.dev/7i8lpf5cg3vpw9g4hkzikseqv
+可用流量: 8754.23 GB https://wanmeiwl1.xyz/s/6c893e6e5c1ba9c0da763e91f466c32f
+可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=pro@ak22RsujzCYUkcqv_cU6ILMA
+可用流量: 398.2 GB https://xn--9kqx21a0sv.com/api/bpyun?token=a7f5ba0020ebd5c0f97eb6c2d40e2265
 
 -- sub_list --
 
-https://epclub.xyz/api/epclub?token=f42ab4d5ef84c8eec3f2ffd947021205
-https://xn--9kqx21a0sv.com/api/bpyun?token=2a9711aa018b6f90b4ae8f2ce7b90cc6
-https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G_#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
-https://666676666.xyz/api/v1/client/subscribe?token=f701ce71294b488eebc00937d841bebb
-https://sub.yume.cyou/s/11bc77ca71a98e8429ec1493336455c4
-https://ch.vfkum.website/api/v1/client/subscribe?token=9227f541e3d700d7f86386b8c851f299#@Ammar_Taraz
 https://sub.xn--4gqvd492adjr.com/s/9ccbdc4b137c348c6e2cf814e5719aa9
-https://www.ckckssl.top/api/v1/client/subscribe?token=cdc96d354d96b6e6e2670c7611611bdf
+https://xn--9kqx21a0sv.com/api/bpyun?token=e0d739f9d724001fe8b25dc59de9f22e
 https://bayoeorescentpossessicoanseparateuneforescenphacommitte.adoptangelaboradvacotionclwonthorughconfrmcompimentdeseertaltar.org/link/W5LGcE4tTlHiocq3?clash=1
-https://ai.jiedianxielou.workers.dev/
-https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G
+https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G_#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
+https://666676666.xyz/api/v1/client/subscribe?token=45d4a6d5581d24b01e390da627b860d6
+https://xship.top/v1/subscribe?starlink=pro@ak22RsujzCYUkcqv_cU6ILMA#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
+https://ai.jiedianxielou.workers.dev/7i8lpf5cg3vpw9g4hkzikseqv
+https://wanmeiwl1.xyz/s/6c893e6e5c1ba9c0da763e91f466c32f
+https://xship.top/v1/subscribe?starlink=pro@ak22RsujzCYUkcqv_cU6ILMA
+https://xn--9kqx21a0sv.com/api/bpyun?token=a7f5ba0020ebd5c0f97eb6c2d40e2265
