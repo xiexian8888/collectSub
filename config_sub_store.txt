@@ -1,21 +1,29 @@
 -- play_list --
 
-可用流量: 363.1 GB https://xn--9kqx21a0sv.com/api/bpyun?token=c099a0f220e8023c5032f8c67ef0b649
-可用流量: 75.23 GB https://m7s.457.pp.ua:443/huangshang2024/u3Kl4Mei
-可用流量: 171798681.79 GB https://bujidao.cc/sub?key=aggyu9f3pU8TKX47Hd5heYshCDviM5N0
-可用流量: 215.59 GB https://x2.ziyouniao.site/s/f47b2e6ae5bc245ffd24045441e9dda8
-可用流量: 36864.0 GB https://bh.jiedianxielou.workers.dev
+可用流量: 10.0 GB https://ai.jiedianxielou.workers.dev/dwfb2a876gmpnfgiv8g9u5j2x
+可用流量: 53.17 GB https://sub.mogufan.com/s/6e8d29f1830e592c7b142da2cf74e0f2
+可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G_#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
+可用流量: 10.0 GB https://ai.jiedianxielou.workers.dev/7i8lpf5cg3vpw9g4hkzikseqv
 可用流量: 8736.8 GB https://wanmeiwl1.xyz/s/6c893e6e5c1ba9c0da763e91f466c32f
-可用流量: 269.57 GB https://xn--9kqx21a0sv.com/api/bpyun?token=71381df2a4c89241bc7698efbe0931dd
-可用流量: 364.13 GB https://xn--9kqx21a0sv.com/api/bpyun?token=a7f5ba0020ebd5c0f97eb6c2d40e2265
+可用流量: 75.11 GB https://m7s.457.pp.ua:443/huangshang2024/u3Kl4Mei
+可用流量: 8749.5 GB https://wanmeiwl4.xyz/s/4beffddcec37b72fb688a21b7c9da54b
+可用流量: 36864.0 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+可用流量: 36864.0 GB https://mc.jiedianxielou.workers.dev
+可用流量: 187.08 GB https://666676666.xyz/api/v1/client/subscribe?token=45d4a6d5581d24b01e390da627b860d6
+可用流量: 171798681.79 GB https://bujidao.cc/sub?key=aggyu9f3pU8TKX47Hd5heYshCDviM5N0
+可用流量: 999406.08 GB http://15.197.234.117:40329/sub/66981cd05be137cf/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
 
 -- sub_list --
 
-https://xn--9kqx21a0sv.com/api/bpyun?token=c099a0f220e8023c5032f8c67ef0b649
-https://m7s.457.pp.ua:443/huangshang2024/u3Kl4Mei
-https://bujidao.cc/sub?key=aggyu9f3pU8TKX47Hd5heYshCDviM5N0
-https://x2.ziyouniao.site/s/f47b2e6ae5bc245ffd24045441e9dda8
-https://bh.jiedianxielou.workers.dev
+https://ai.jiedianxielou.workers.dev/dwfb2a876gmpnfgiv8g9u5j2x
+https://sub.mogufan.com/s/6e8d29f1830e592c7b142da2cf74e0f2
+https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G_#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
+https://ai.jiedianxielou.workers.dev/7i8lpf5cg3vpw9g4hkzikseqv
 https://wanmeiwl1.xyz/s/6c893e6e5c1ba9c0da763e91f466c32f
-https://xn--9kqx21a0sv.com/api/bpyun?token=71381df2a4c89241bc7698efbe0931dd
-https://xn--9kqx21a0sv.com/api/bpyun?token=a7f5ba0020ebd5c0f97eb6c2d40e2265
+https://m7s.457.pp.ua:443/huangshang2024/u3Kl4Mei
+https://wanmeiwl4.xyz/s/4beffddcec37b72fb688a21b7c9da54b
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://mc.jiedianxielou.workers.dev
+https://666676666.xyz/api/v1/client/subscribe?token=45d4a6d5581d24b01e390da627b860d6
+https://bujidao.cc/sub?key=aggyu9f3pU8TKX47Hd5heYshCDviM5N0
+http://15.197.234.117:40329/sub/66981cd05be137cf/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
