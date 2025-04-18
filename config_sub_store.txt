@@ -1,23 +1,21 @@
 -- play_list --
 
-可用流量: 171798681.79 GB https://bujidao.cc/sub?key=aggyu9f3pU8TKX47Hd5heYshCDviM5N0
-可用流量: 999997691.36 GB https://202503212313501.chibaba.ggff.net/api/v1/client/subscribe?token=eee1b58c52d8e656bc6b729a182cf49b
-可用流量: 494.7 GB https://sub.xn--4gqvd492adjr.com/s/cfb9427614a57a09c922b88e0925d9f4
-可用流量: 103.23 GB https://sub.xn--4gqvd492adjr.com/s/9d728e61d208bf5a5ed51d4a77d05219
-可用流量: 198.32 GB https://666676666.xyz/api/v1/client/subscribe?token=45d4a6d5581d24b01e390da627b860d6
-可用流量: 8736.8 GB https://wanmeiwl1.xyz/s/6c893e6e5c1ba9c0da763e91f466c32f
+可用流量: 367.48 GB https://xn--9kqx21a0sv.com/api/bpyun?token=c099a0f220e8023c5032f8c67ef0b649
+可用流量: 367.94 GB https://xn--9kqx21a0sv.com/api/bpyun?token=a7f5ba0020ebd5c0f97eb6c2d40e2265
+可用流量: 486.05 GB https://ansuyun.xyz/api/as?token=1745a1185bcf03368229445e4d8981bf
 可用流量: 509.7 GB https://epclub.xyz/api/epclub?token=f42ab4d5ef84c8eec3f2ffd947021205
-可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=pro@ak22RsujzCYUkcqv_cU6ILMA#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
-可用流量: 36864.0 GB https://bh.jiedianxielou.workers.dev
+可用流量: 171798681.79 GB https://bujidao.cc/sub?key=aggyu9f3pU8TKX47Hd5heYshCDviM5N0
+可用流量: 43122.17 GB http://vless.809098.xyz/
+可用流量: 123.54 GB https://x2.ziyouniao.site/s/1c3987d45c9c36108e9b15051bf137d5
+可用流量: 8736.8 GB https://wanmeiwl1.xyz/s/6c893e6e5c1ba9c0da763e91f466c32f
 
 -- sub_list --
 
-https://bujidao.cc/sub?key=aggyu9f3pU8TKX47Hd5heYshCDviM5N0
-https://202503212313501.chibaba.ggff.net/api/v1/client/subscribe?token=eee1b58c52d8e656bc6b729a182cf49b
-https://sub.xn--4gqvd492adjr.com/s/cfb9427614a57a09c922b88e0925d9f4
-https://sub.xn--4gqvd492adjr.com/s/9d728e61d208bf5a5ed51d4a77d05219
-https://666676666.xyz/api/v1/client/subscribe?token=45d4a6d5581d24b01e390da627b860d6
-https://wanmeiwl1.xyz/s/6c893e6e5c1ba9c0da763e91f466c32f
+https://xn--9kqx21a0sv.com/api/bpyun?token=c099a0f220e8023c5032f8c67ef0b649
+https://xn--9kqx21a0sv.com/api/bpyun?token=a7f5ba0020ebd5c0f97eb6c2d40e2265
+https://ansuyun.xyz/api/as?token=1745a1185bcf03368229445e4d8981bf
 https://epclub.xyz/api/epclub?token=f42ab4d5ef84c8eec3f2ffd947021205
-https://xship.top/v1/subscribe?starlink=pro@ak22RsujzCYUkcqv_cU6ILMA#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
-https://bh.jiedianxielou.workers.dev
+https://bujidao.cc/sub?key=aggyu9f3pU8TKX47Hd5heYshCDviM5N0
+http://vless.809098.xyz/
+https://x2.ziyouniao.site/s/1c3987d45c9c36108e9b15051bf137d5
+https://wanmeiwl1.xyz/s/6c893e6e5c1ba9c0da763e91f466c32f
