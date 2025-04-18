@@ -1,27 +1,29 @@
 -- play_list --
 
-可用流量: 36864.0 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G
+可用流量: 2921.56 GB https://www.ckckssl.top/api/v1/client/subscribe?token=cdc96d354d96b6e6e2670c7611611bdf
+可用流量: 8736.8 GB https://wanmeiwl1.xyz/s/6c893e6e5c1ba9c0da763e91f466c32f
+可用流量: 250.46 GB https://x2.ziyouniao.site/s/f47b2e6ae5bc245ffd24045441e9dda8
+可用流量: 85.13 GB https://ch.owokkvsxks.store/api/v1/client/subscribe?token=61082ab5100fc1be791eb15cf942b2a2
 可用流量: 500.0 GB https://1rzy6c5.wxll4.cfd/api/v1/client/subscribe?token=aaeeafc2936e179b5b88430677a401d9
-可用流量: 380.51 GB http://api.miloli.cc/api/v1/client/subscribe?token=794cccfe111b2522747cf9bc2c36dffd
-可用流量: 951.91 GB https://ch.vfkum.website/api/v1/client/subscribe?token=9227f541e3d700d7f86386b8c851f299#@Ammar_Taraz
-可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G_#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
-可用流量: 2927.21 GB https://www.ckckssl.top/api/v1/client/subscribe?token=cdc96d354d96b6e6e2670c7611611bdf
-可用流量: 2927.21 GB https://www.ckckssl.top/api/v1/client/subscribe?token=cdc96d354d96b6e6e2670c7611611bdf#/
-可用流量: 500.0 GB https://n063ww4.wxll4.cfd/api/v1/client/subscribe?token=676782dc6736a2f0d89f4f42b7e884e8
-可用流量: 252.89 GB https://666676666.xyz/api/v1/client/subscribe?token=45d4a6d5581d24b01e390da627b860d6
-可用流量: 82.7 GB https://m7s.457.pp.ua:443/huangshang2024/u3Kl4Mei
-可用流量: 385.67 GB https://xn--9kqx21a0sv.com/api/bpyun?token=a7f5ba0020ebd5c0f97eb6c2d40e2265
+可用流量: 171798685.7 GB https://bujidao.cc/sub?key=aggyu9f3pU8TKX47Hd5heYshCDviM5N0
+可用流量: 297.01 GB http://api.miloli.cc/api/v1/client/subscribe?token=794cccfe111b2522747cf9bc2c36dffd
+可用流量: 36864.0 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+可用流量: 414.72 GB https://ansuyun.xyz/api/as?token=84a8bd92ef0ac3e8dc0df111eb2a4e08
+可用流量: 252.1 GB https://666676666.xyz/api/v1/client/subscribe?token=45d4a6d5581d24b01e390da627b860d6
+可用流量: 103.23 GB https://sub.xn--4gqvd492adjr.com/s/9d728e61d208bf5a5ed51d4a77d05219
 
 -- sub_list --
 
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://1rzy6c5.wxll4.cfd/api/v1/client/subscribe?token=aaeeafc2936e179b5b88430677a401d9
-http://api.miloli.cc/api/v1/client/subscribe?token=794cccfe111b2522747cf9bc2c36dffd
-https://ch.vfkum.website/api/v1/client/subscribe?token=9227f541e3d700d7f86386b8c851f299#@Ammar_Taraz
-https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G_#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
+https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G
 https://www.ckckssl.top/api/v1/client/subscribe?token=cdc96d354d96b6e6e2670c7611611bdf
-https://www.ckckssl.top/api/v1/client/subscribe?token=cdc96d354d96b6e6e2670c7611611bdf#/
-https://n063ww4.wxll4.cfd/api/v1/client/subscribe?token=676782dc6736a2f0d89f4f42b7e884e8
+https://wanmeiwl1.xyz/s/6c893e6e5c1ba9c0da763e91f466c32f
+https://x2.ziyouniao.site/s/f47b2e6ae5bc245ffd24045441e9dda8
+https://ch.owokkvsxks.store/api/v1/client/subscribe?token=61082ab5100fc1be791eb15cf942b2a2
+https://1rzy6c5.wxll4.cfd/api/v1/client/subscribe?token=aaeeafc2936e179b5b88430677a401d9
+https://bujidao.cc/sub?key=aggyu9f3pU8TKX47Hd5heYshCDviM5N0
+http://api.miloli.cc/api/v1/client/subscribe?token=794cccfe111b2522747cf9bc2c36dffd
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://ansuyun.xyz/api/as?token=84a8bd92ef0ac3e8dc0df111eb2a4e08
 https://666676666.xyz/api/v1/client/subscribe?token=45d4a6d5581d24b01e390da627b860d6
-https://m7s.457.pp.ua:443/huangshang2024/u3Kl4Mei
-https://xn--9kqx21a0sv.com/api/bpyun?token=a7f5ba0020ebd5c0f97eb6c2d40e2265
+https://sub.xn--4gqvd492adjr.com/s/9d728e61d208bf5a5ed51d4a77d05219
