@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/shadowsocks
+https://fs.v2rayse.com/share/20250223/f1b4d62nn3.txt
