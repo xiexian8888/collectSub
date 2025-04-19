@@ -1,27 +1,25 @@
 -- play_list --
 
-可用流量: 500.0 GB https://n063ww4.wxll4.cfd/api/v1/client/subscribe?token=676782dc6736a2f0d89f4f42b7e884e8
-可用流量: 122.16 GB https://666676666.xyz/api/v1/client/subscribe?token=45d4a6d5581d24b01e390da627b860d6
-可用流量: 8638.56 GB https://wanmeiwl1.xyz/s/6c893e6e5c1ba9c0da763e91f466c32f
-可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-可用流量: 171798681.79 GB https://bujidao.cc/sub?key=aggyu9f3pU8TKX47Hd5heYshCDviM5N0#/
-可用流量: 122.37 GB https://youyoo.ccwink.cc/api/v1/client/subscribe?token=261121489d52e625dd7bf0ad58c3210a
-可用流量: 947.91 GB https://ch.vfkum.website/api/v1/client/subscribe?token=9227f541e3d700d7f86386b8c851f299#@Ammar_Taraz
-可用流量: 171798681.79 GB https://bujidao.cc/sub?key=aggyu9f3pU8TKX47Hd5heYshCDviM5N0
-可用流量: 8629.85 GB https://wanmeiwl4.xyz/s/4beffddcec37b72fb688a21b7c9da54b
-可用流量: 10.0 GB https://ai.jiedianxielou.workers.dev/
+可用流量: 340.12 GB https://xn--9kqx21a0sv.com/api/bpyun?token=c099a0f220e8023c5032f8c67ef0b649
+可用流量: 10.0 GB https://ai.jiedianxielou.workers.dev/7i8lpf5cg3vpw9g4hkzikseqv
+可用流量: 36864.0 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+可用流量: 36864.0 GB https://mc.jiedianxielou.workers.dev
+可用流量: 120.91 GB https://666676666.xyz/api/v1/client/subscribe?token=45d4a6d5581d24b01e390da627b860d6
+可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=pro@ak22RsujzCYUkcqv_cU6ILMA#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
 可用流量: 36864.0 GB https://bh.jiedianxielou.workers.dev/
+可用流量: 36864.0 GB https://bh.jiedianxielou.workers.dev
+可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=pro@ak22RsujzCYUkcqv_cU6ILMA
+可用流量: 38.34 GB https://sub.mogufan.com/s/6e8d29f1830e592c7b142da2cf74e0f2
 
 -- sub_list --
 
-https://n063ww4.wxll4.cfd/api/v1/client/subscribe?token=676782dc6736a2f0d89f4f42b7e884e8
+https://xn--9kqx21a0sv.com/api/bpyun?token=c099a0f220e8023c5032f8c67ef0b649
+https://ai.jiedianxielou.workers.dev/7i8lpf5cg3vpw9g4hkzikseqv
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://mc.jiedianxielou.workers.dev
 https://666676666.xyz/api/v1/client/subscribe?token=45d4a6d5581d24b01e390da627b860d6
-https://wanmeiwl1.xyz/s/6c893e6e5c1ba9c0da763e91f466c32f
-https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-https://bujidao.cc/sub?key=aggyu9f3pU8TKX47Hd5heYshCDviM5N0#/
-https://youyoo.ccwink.cc/api/v1/client/subscribe?token=261121489d52e625dd7bf0ad58c3210a
-https://ch.vfkum.website/api/v1/client/subscribe?token=9227f541e3d700d7f86386b8c851f299#@Ammar_Taraz
-https://bujidao.cc/sub?key=aggyu9f3pU8TKX47Hd5heYshCDviM5N0
-https://wanmeiwl4.xyz/s/4beffddcec37b72fb688a21b7c9da54b
-https://ai.jiedianxielou.workers.dev/
+https://xship.top/v1/subscribe?starlink=pro@ak22RsujzCYUkcqv_cU6ILMA#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
 https://bh.jiedianxielou.workers.dev/
+https://bh.jiedianxielou.workers.dev
+https://xship.top/v1/subscribe?starlink=pro@ak22RsujzCYUkcqv_cU6ILMA
+https://sub.mogufan.com/s/6e8d29f1830e592c7b142da2cf74e0f2
