@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/be/mixed
+https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/tw/mixed
