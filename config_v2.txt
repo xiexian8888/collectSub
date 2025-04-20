@@ -1,2 +1,4 @@
 https://fs.v2rayse.com/share/20250223/f1b4d62nn3.txt
+https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/ee/mixed
+https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/tw/mixed
 https://api-linkcube.net/subscribe/bmvex-4lrepn6a
