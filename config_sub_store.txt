@@ -1,35 +1,19 @@
 -- play_list --
 
-可用流量: 219.1 GB https://68c33257.jego.vip/subscribe/mihomo/b8c6747ddc9d0a1570a1ab7beb97a2c3
-可用流量: 312.1 GB https://xn--9kqx21a0sv.com/api/bpyun?token=c099a0f220e8023c5032f8c67ef0b649
-可用流量: 312.93 GB https://www.ckckssl.top/api/v1/client/subscribe?token=cdc96d354d96b6e6e2670c7611611bdf
-可用流量: 0.0 GB https://ys.jiedianxielou.workers.dev/#ys.jiedianxielou.workers.dev
-可用流量: 0.0 GB https://ys.jiedianxielou.workers.dev
-可用流量: 0.0 GB https://ys.jiedianxielou.workers.dev#ys.jiedianxielou.workers.dev
-可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=pro@ak22RsujzCYUkcqv_cU6ILMA#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
-可用流量: 43128.97 GB https://super.likelike.ip-ddns.com/S
-可用流量: 36864.0 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G_#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
+可用流量: 43129.02 GB https://emm-7zy.pages.dev/CSDN
 可用流量: 36864.0 GB https://bh.jiedianxielou.workers.dev
-可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=pro@ak22RsujzCYUkcqv_cU6ILMA
-可用流量: 36864.0 GB https://mc.jiedianxielou.workers.dev
-可用流量: 278.9 GB https://ansuyun.xyz/api/as?token=1745a1185bcf03368229445e4d8981bf
-可用流量: 54.46 GB https://sub.pumcloud.net/s/3e099b825893cd287b1f474a557e5b4e
+可用流量: 93.27 GB https://b89f8060.ghelper.me/subs/clash/2aa969bcb89f8060170f664cc2cd1867
+可用流量: 278.71 GB https://ansuyun.xyz/api/as?token=1745a1185bcf03368229445e4d8981bf
+可用流量: 0.0 GB https://ys.jiedianxielou.workers.dev
+可用流量: 0.0 GB https://ys.jiedianxielou.workers.dev/#ys.jiedianxielou.workers.dev
+可用流量: 36864.0 GB https://bh.jiedianxielou.workers.dev/
 
 -- sub_list --
 
-https://68c33257.jego.vip/subscribe/mihomo/b8c6747ddc9d0a1570a1ab7beb97a2c3
-https://xn--9kqx21a0sv.com/api/bpyun?token=c099a0f220e8023c5032f8c67ef0b649
-https://www.ckckssl.top/api/v1/client/subscribe?token=cdc96d354d96b6e6e2670c7611611bdf
-https://ys.jiedianxielou.workers.dev/#ys.jiedianxielou.workers.dev
-https://ys.jiedianxielou.workers.dev
-https://ys.jiedianxielou.workers.dev#ys.jiedianxielou.workers.dev
-https://xship.top/v1/subscribe?starlink=pro@ak22RsujzCYUkcqv_cU6ILMA#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
-https://super.likelike.ip-ddns.com/S
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G_#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
+https://emm-7zy.pages.dev/CSDN
 https://bh.jiedianxielou.workers.dev
-https://xship.top/v1/subscribe?starlink=pro@ak22RsujzCYUkcqv_cU6ILMA
-https://mc.jiedianxielou.workers.dev
+https://b89f8060.ghelper.me/subs/clash/2aa969bcb89f8060170f664cc2cd1867
 https://ansuyun.xyz/api/as?token=1745a1185bcf03368229445e4d8981bf
-https://sub.pumcloud.net/s/3e099b825893cd287b1f474a557e5b4e
+https://ys.jiedianxielou.workers.dev
+https://ys.jiedianxielou.workers.dev/#ys.jiedianxielou.workers.dev
+https://bh.jiedianxielou.workers.dev/
