@@ -1,2 +1,1 @@
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/br/mixed
-https://api-linkcube.net/subscribe/bmvex-4lrepn6a
+https://github.com/ssrsub/ssr/raw/master/ssrsub
