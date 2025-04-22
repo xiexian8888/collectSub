@@ -1,3 +1,1 @@
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/tw/mixed
-https://fs.v2rayse.com/share/20250223/f1b4d62nn3.txt
-https://raw.githubusercontent.com/coldwater-10/V2Hub1/main/Split/Base64/shadowsocks
+https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/ae/mixed
