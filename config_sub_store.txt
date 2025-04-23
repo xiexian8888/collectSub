@@ -1,25 +1,15 @@
 -- play_list --
 
-可用流量: 36864.0 GB https://bh.jiedianxielou.workers.dev
-可用流量: 377.36 GB https://xtls.rprx.vision/api/v1/client/subscribe?token=2ec8ee407bedc047dfceede2c8f7f5b4
-可用流量: 109.99 GB http://hw.cupide.cn:3001/dfjx/download/sixloy
-可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=pro@ak22RsujzCYUkcqv_cU6ILMA#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
-可用流量: 2.0 GB https://dashuai.qwa199544.workers.dev/
+可用流量: 108.41 GB https://8eec4500.ghelper.me/subs/clash/767fc3728eec4500e7fe5c70e3b0d646
+可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G
+可用流量: 376.73 GB https://xtls.rprx.vision/api/v1/client/subscribe?token=2ec8ee407bedc047dfceede2c8f7f5b4
+可用流量: 41.34 GB https://bayoeorescentpossessicoanseparateuneforescenphocommitte.adoptangelaboradvacotionclwonthorughconfrmcompimentdeseertaltar.org/link/JxkxKsnVfueVdKeb?clash=1
 可用流量: 0.0 GB https://ys.jiedianxielou.workers.dev
-可用流量: 282.24 GB https://29ce6e92.ghelper.me/subs/v2rayng/20b78bae29ce6e9271fc0acb5270aca2
-可用流量: 43131.43 GB https://cf-workers-sub-9s8.pages.dev/CSDN
-可用流量: 8638.56 GB https://wanmeiwl1.xyz/s/6c893e6e5c1ba9c0da763e91f466c32f
-可用流量: 166.65 GB https://api.aqycenter.com/api/v1/client/subscribe?token=c126425136db0b0d27e299e864bbe721
 
 -- sub_list --
 
-https://bh.jiedianxielou.workers.dev
+https://8eec4500.ghelper.me/subs/clash/767fc3728eec4500e7fe5c70e3b0d646
+https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G
 https://xtls.rprx.vision/api/v1/client/subscribe?token=2ec8ee407bedc047dfceede2c8f7f5b4
-http://hw.cupide.cn:3001/dfjx/download/sixloy
-https://xship.top/v1/subscribe?starlink=pro@ak22RsujzCYUkcqv_cU6ILMA#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
-https://dashuai.qwa199544.workers.dev/
+https://bayoeorescentpossessicoanseparateuneforescenphocommitte.adoptangelaboradvacotionclwonthorughconfrmcompimentdeseertaltar.org/link/JxkxKsnVfueVdKeb?clash=1
 https://ys.jiedianxielou.workers.dev
-https://29ce6e92.ghelper.me/subs/v2rayng/20b78bae29ce6e9271fc0acb5270aca2
-https://cf-workers-sub-9s8.pages.dev/CSDN
-https://wanmeiwl1.xyz/s/6c893e6e5c1ba9c0da763e91f466c32f
-https://api.aqycenter.com/api/v1/client/subscribe?token=c126425136db0b0d27e299e864bbe721
