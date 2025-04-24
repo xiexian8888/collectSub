@@ -1,27 +1,21 @@
 -- play_list --
 
-可用流量: 163.4 GB https://lsdm.laibajc.top/laiba/ml/client/subscribe?token=188fb30729273af6f9db613ab9950e69
-可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=pro@ak22RsujzCYUkcqv_cU6ILMA
-可用流量: 147.72 GB http://nuxyun.v2rayflash.top/NuxYun/34cf1adc64332da29fb75c024d2bf720
-可用流量: 16.62 GB http://103.35.189.118:7001/s/2f28834d7f95f41397240689b91114c1
-可用流量: 2167.0 GB https://ys.jiedianxielou.workers.dev
-可用流量: 43134.71 GB https://emm-7zy.pages.dev/CSDN
-可用流量: 204.46 GB https://dash.sinqin.net/s/f4f58eecf4911936270a6693a65839bb
-可用流量: 66.44 GB https://8eec4500.ghelper.me/subs/clash/767fc3728eec4500e7fe5c70e3b0d646
-可用流量: 272.73 GB https://xn--9kqx21a0sv.com/api/bpyun?token=a7f5ba0020ebd5c0f97eb6c2d40e2265
-可用流量: 1534.01 GB http://api.miloli.cc/api/v1/client/subscribe?token=794cccfe111b2522747cf9bc2c36dffd
-可用流量: 999262.89 GB http://15.197.234.117:40329/sub/66981cd05be137cf/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
+可用流量: 141.55 GB https://xn--9kqx21a0sv.com/api/bpyun?token=a63be6b9eba2dc97e6cb7f5b4b4df35b
+可用流量: 66.36 GB https://8eec4500.ghelper.me/subs/clash/767fc3728eec4500e7fe5c70e3b0d646
+可用流量: 43134.76 GB https://cf-workers-sub-9s8.pages.dev/CSDN
+可用流量: 230.43 GB https://bailian.uk/s/55195c15c9cb48b29a37e1ad26b98610
+可用流量: 9999703.8 GB http://1.262291.xyz:8831/api/v1/client/subscribe?token=08eeefa9f721c3a98863d5368b87b2bd
+可用流量: 999262.76 GB http://15.197.234.117:40329/sub/66981cd05be137cf/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
+可用流量: 257.79 GB https://7628dd64.ghelper.me/subs/clash/3e8859ea7628dd6424d4b6d0555c6d58
+可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
 
 -- sub_list --
 
-https://lsdm.laibajc.top/laiba/ml/client/subscribe?token=188fb30729273af6f9db613ab9950e69
-https://xship.top/v1/subscribe?starlink=pro@ak22RsujzCYUkcqv_cU6ILMA
-http://nuxyun.v2rayflash.top/NuxYun/34cf1adc64332da29fb75c024d2bf720
-http://103.35.189.118:7001/s/2f28834d7f95f41397240689b91114c1
-https://ys.jiedianxielou.workers.dev
-https://emm-7zy.pages.dev/CSDN
-https://dash.sinqin.net/s/f4f58eecf4911936270a6693a65839bb
+https://xn--9kqx21a0sv.com/api/bpyun?token=a63be6b9eba2dc97e6cb7f5b4b4df35b
 https://8eec4500.ghelper.me/subs/clash/767fc3728eec4500e7fe5c70e3b0d646
-https://xn--9kqx21a0sv.com/api/bpyun?token=a7f5ba0020ebd5c0f97eb6c2d40e2265
-http://api.miloli.cc/api/v1/client/subscribe?token=794cccfe111b2522747cf9bc2c36dffd
+https://cf-workers-sub-9s8.pages.dev/CSDN
+https://bailian.uk/s/55195c15c9cb48b29a37e1ad26b98610
+http://1.262291.xyz:8831/api/v1/client/subscribe?token=08eeefa9f721c3a98863d5368b87b2bd
 http://15.197.234.117:40329/sub/66981cd05be137cf/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
+https://7628dd64.ghelper.me/subs/clash/3e8859ea7628dd6424d4b6d0555c6d58
+https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
