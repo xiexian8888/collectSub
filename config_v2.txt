@@ -1,3 +1,2 @@
-https://1.azadteam.workers.dev/sub/ed886282-edc7-4c9a-a4d3-28950e7832c8#azadnet
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/ee/mixed
 https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_4.txt
+https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/us/mixed#United
