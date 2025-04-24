@@ -1,4 +1,2 @@
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/au/mixed
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/be/mixed
+https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/us/mixed#United
 https://fs.v2rayse.com/share/20250223/f1b4d62nn3.txt
-https://1.azadteam.workers.dev/sub/ed886282-edc7-4c9a-a4d3-28950e7832c8#azadnet
