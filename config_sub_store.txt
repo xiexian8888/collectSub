@@ -1,17 +1,21 @@
 -- play_list --
 
-可用流量: 1891.0 GB https://bh.jiedianxielou.workers.dev/
 可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G_#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
-可用流量: 331.99 GB https://xtls.rprx.vision/api/v1/client/subscribe?token=2ec8ee407bedc047dfceede2c8f7f5b4
-可用流量: 1510.0 GB https://ys.jiedianxielou.workers.dev
-可用流量: 76.28 GB http://103.35.189.118:7001/s/2f28834d7f95f41397240689b91114c1
-可用流量: 201.85 GB https://xn--9kqx21a0sv.com/api/bpyun?token=c099a0f220e8023c5032f8c67ef0b649
+可用流量: 147.72 GB http://nuxyun.v2rayflash.top/NuxYun/34cf1adc64332da29fb75c024d2bf720
+可用流量: 330.99 GB https://xtls.rprx.vision/api/v1/client/subscribe?token=2ec8ee407bedc047dfceede2c8f7f5b4
+可用流量: 173.31 GB https://topsex.cc/api/v1/client/subscribe?token=f5168a8d5a1a4893e53395caf830f404
+可用流量: 404.82 GB https://topsex.cc/api/v1/client/subscribe?token=a5e44fa011ff6635eff4d589913e39f5
+可用流量: 1519.0 GB https://ys.jiedianxielou.workers.dev
+可用流量: 1411.0 GB https://bh.jiedianxielou.workers.dev
+可用流量: 75.9 GB http://103.35.189.118:7001/s/2f28834d7f95f41397240689b91114c1
 
 -- sub_list --
 
-https://bh.jiedianxielou.workers.dev/
 https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G_#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
+http://nuxyun.v2rayflash.top/NuxYun/34cf1adc64332da29fb75c024d2bf720
 https://xtls.rprx.vision/api/v1/client/subscribe?token=2ec8ee407bedc047dfceede2c8f7f5b4
+https://topsex.cc/api/v1/client/subscribe?token=f5168a8d5a1a4893e53395caf830f404
+https://topsex.cc/api/v1/client/subscribe?token=a5e44fa011ff6635eff4d589913e39f5
 https://ys.jiedianxielou.workers.dev
+https://bh.jiedianxielou.workers.dev
 http://103.35.189.118:7001/s/2f28834d7f95f41397240689b91114c1
-https://xn--9kqx21a0sv.com/api/bpyun?token=c099a0f220e8023c5032f8c67ef0b649
