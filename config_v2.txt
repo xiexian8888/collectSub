@@ -1,3 +1,2 @@
-https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_3.txt
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/fi/mixed#Finland
-https://fs.v2rayse.com/share/20250223/f1b4d62nn3.txt
+https://github.com/ssrsub/ssr/raw/master/ss-sub
+https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_1.txt
