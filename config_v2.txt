@@ -1,3 +1,0 @@
-https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_3.txt
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/hk/mixed#Hong
-https://github.com/ssrsub/ssr/raw/master/ssrsub
