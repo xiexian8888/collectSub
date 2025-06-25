@@ -7,6 +7,7 @@ clash订阅:
 - http://104.218.235.227:3389/api/v1/client/subscribe?token=addf957ebd9b4ac12ab57285d4d2b7aa&amp;flag=clash
 - http://124.71.40.178/api/v1/client/subscribe?token=a0a93254121b09c665839f4650253568
 - http://124.71.40.178/api/v1/client/subscribe?token=bff7bab69e2414b01b25563da129665d
+- http://199.245.100.163:49850/clash/proxies?c=CN,HK,TW,SG,JP,KR,VN&amp;speed=1,50&amp;filter=r,p&amp;type=ss
 - http://47.243.161.149/link/Tbulm4VyWGtGRANZ?clash=2
 - http://8.129.23.122/s/5fc9a1457054d335feb23235bd8b9225
 - http://api.miloli.cc/api/v1/client/subscribe?token=794cccfe111b2522747cf9bc2c36dffd
@@ -3624,6 +3625,7 @@ v2订阅:
 - '可用流量: 17.36 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058'
 - '可用流量: 17.37 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058'
 - '可用流量: 17.37 GB https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6'
+- '可用流量: 17.4 GB https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed'
 - '可用流量: 17.42 GB https://sub.mogufan.com/s/577abaa8a78934fd5e68c47fdeb51a9d'
 - '可用流量: 17.44 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058'
 - '可用流量: 17.45 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058'
@@ -6994,6 +6996,7 @@ v2订阅:
 - '可用流量: 283.39 GB https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed'
 - '可用流量: 283.64 GB https://jc.huasuan666.top/api/v1/client/subscribe?token=5810a6ae993d64cedc6f8ec5ebac043a'
 - '可用流量: 283.7 GB https://jc.huasuan666.top/api/v1/client/subscribe?token=5810a6ae993d64cedc6f8ec5ebac043a'
+- '可用流量: 283.74 GB https://img.xn--mesv8bx6xmtl.com/static/675ec43628d61332ca92df0c29eb0265'
 - '可用流量: 283.88 GB https://x2.ziyouniao.site/s/429c7ab2b970ea3bd5dc6a31681eb00e'
 - '可用流量: 283.92 GB https://sub.xn--mes358awwugpa.com/sub?token=9afab9bfa02539fdaf51365a8a7806f3'
 - '可用流量: 283.96 GB https://sub.wendingjichang.com/s/e5953ad2730d2a9bd7da22034554b699'
@@ -11119,6 +11122,7 @@ v2订阅:
 - '可用流量: 43265.49 GB https://ooooooo.vvvv.ee/O'
 - '可用流量: 43265.62 GB https://ooooooo.vvvv.ee/O'
 - '可用流量: 43265.85 GB https://ooooooo.vvvv.ee/O'
+- '可用流量: 43266.06 GB https://kkkkkkk.vvvv.ee/K'
 - '可用流量: 433.1 GB https://app.jisuba.live/s/223d23dc73fc15e1b4f3c185218b6398'
 - '可用流量: 433.21 GB http://nuxyun.v2rayflash.top/NuxYun/34cf1adc64332da29fb75c024d2bf720'
 - '可用流量: 433.28 GB https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed'
@@ -11970,6 +11974,7 @@ v2订阅:
 - '可用流量: 463.15 GB https://xn--9kqx21a0sv.com/api/bpyun?token=eb8fcc2fb3a2a979df1d7fe5bd6c7419'
 - '可用流量: 463.2 GB https://xn--9kqx21a0sv.com/api/bpyun?token=7a3de00993e5401dd1ae6b137216550b'
 - '可用流量: 463.23 GB https://xn--9kqx21a0sv.com/api/bpyun?token=eb8fcc2fb3a2a979df1d7fe5bd6c7419'
+- '可用流量: 463.26 GB https://img.xn--mesv8bx6xmtl.com/static/639771a015e9df6e7c8a7d27f460a544'
 - '可用流量: 463.38 GB https://xn--9kqx21a0sv.com/api/bpyun?token=67c91c4a7ef83680aa15cf1dbbba5dfa'
 - '可用流量: 463.38 GB https://xn--9kqx21a0sv.com/api/bpyun?token=eb8fcc2fb3a2a979df1d7fe5bd6c7419'
 - '可用流量: 463.44 GB https://xn--9kqx21a0sv.com/api/bpyun?token=67c91c4a7ef83680aa15cf1dbbba5dfa'
