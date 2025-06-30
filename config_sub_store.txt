@@ -1,25 +1,15 @@
 -- play_list --
 
-可用流量: 77.79 GB https://gw.ztcloud.xyz/api/v1/client/subscribe?token=15b50bc1649a8e7eeed63517b6e74e05
-可用流量: 999.59 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-可用流量: 95.65 GB https://w258963147.ztcloud.xyz/api/v1/client/subscribe?token=c1719afa23a5a5e915948a669e4231ce
-可用流量: 189.5 GB https://tc.ztcloud.xyz/api/v1/client/subscribe?token=42dd0e1fc9709413c821ce79fb2e701c
-可用流量: 83.47 GB https://gw.ztcloud.xyz/api/v1/client/subscribe?token=08713ee2fbce559606a3a44027e882c6
-可用流量: 1.09 GB https://w258963147.ztcloud.xyz/api/v1/client/subscribe?token=3c627aadae031ef190993b7447c0bb10
+可用流量: 82.67 GB https://gw.ztcloud.xyz/api/v1/client/subscribe?token=08713ee2fbce559606a3a44027e882c6
+可用流量: 11.55 GB https://tc.ztcloud.xyz/api/v1/client/subscribe?token=08c628eae8173b1911c2fa874716d47c
 可用流量: 1.0 GB https://vip-sub.lightnright.com/sub/SmF2aWRfU2hhaF9QYXlhbmRlX0lyYW4sMTc1MDk3MTgyNQEMuycYuzyv
-可用流量: 12.15 GB https://tc.ztcloud.xyz/api/v1/client/subscribe?token=08c628eae8173b1911c2fa874716d47c
-可用流量: 190.34 GB https://w258963147.ztcloud.xyz/api/v1/client/subscribe?token=7b74dc814799449675239d0d3157a9f0
-可用流量: 57.11 GB https://tc.ztcloud.xyz/api/v1/client/subscribe?token=3550c988f606049cd74a4fb5cfdbb80b
+可用流量: 999.59 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+可用流量: 77.5 GB https://gw.ztcloud.xyz/api/v1/client/subscribe?token=15b50bc1649a8e7eeed63517b6e74e05
 
 -- sub_list --
 
-https://gw.ztcloud.xyz/api/v1/client/subscribe?token=15b50bc1649a8e7eeed63517b6e74e05
-https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-https://w258963147.ztcloud.xyz/api/v1/client/subscribe?token=c1719afa23a5a5e915948a669e4231ce
-https://tc.ztcloud.xyz/api/v1/client/subscribe?token=42dd0e1fc9709413c821ce79fb2e701c
 https://gw.ztcloud.xyz/api/v1/client/subscribe?token=08713ee2fbce559606a3a44027e882c6
-https://w258963147.ztcloud.xyz/api/v1/client/subscribe?token=3c627aadae031ef190993b7447c0bb10
-https://vip-sub.lightnright.com/sub/SmF2aWRfU2hhaF9QYXlhbmRlX0lyYW4sMTc1MDk3MTgyNQEMuycYuzyv
 https://tc.ztcloud.xyz/api/v1/client/subscribe?token=08c628eae8173b1911c2fa874716d47c
-https://w258963147.ztcloud.xyz/api/v1/client/subscribe?token=7b74dc814799449675239d0d3157a9f0
-https://tc.ztcloud.xyz/api/v1/client/subscribe?token=3550c988f606049cd74a4fb5cfdbb80b
+https://vip-sub.lightnright.com/sub/SmF2aWRfU2hhaF9QYXlhbmRlX0lyYW4sMTc1MDk3MTgyNQEMuycYuzyv
+https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+https://gw.ztcloud.xyz/api/v1/client/subscribe?token=15b50bc1649a8e7eeed63517b6e74e05
