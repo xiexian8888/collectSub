@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
+https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 https://vip-sub.lightnright.com/sub/UGF5YW5kZV9JcmFuX0phdmlkX1NoYWgsMTc1MTA1NzAzNAgSz0WxQ99E
 https://vip-sub.lightnright.com/sub/SmF2aWRfU2hhaF9QYXlhbmRlX0lyYW5fLDE3NTEwNjM0NzM6-v2-hcrOm
