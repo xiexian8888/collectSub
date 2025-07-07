@@ -1,13 +1,13 @@
 -- play_list --
 
-可用流量: 1255.97 GB https://dash.yfjc.xyz/api/v1/client/subscribe?token=f8cad55ff2641b4bef58453690f1c771
-可用流量: 5964.54 GB https://www.gzcloud.shop/api/gzcloud/cd18569a86e083d2853f412dfcf7c0b0
-可用流量: 25.03 GB https://sub.cloudtaste.xyz/tastegood/bbf001f0c6ba32af4855c1bee077726d
+可用流量: 97.16 GB https://su7.myyfqh.tech/gogo/4abcc54172ba69a36107a775cd75c61a
+可用流量: 25.01 GB https://sub.cloudtaste.xyz/tastegood/bbf001f0c6ba32af4855c1bee077726d
 可用流量: 999.59 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+可用流量: 1206.31 GB https://dash.yfjc.xyz/api/v1/client/subscribe?token=f8cad55ff2641b4bef58453690f1c771
 
 -- sub_list --
 
-https://dash.yfjc.xyz/api/v1/client/subscribe?token=f8cad55ff2641b4bef58453690f1c771
-https://www.gzcloud.shop/api/gzcloud/cd18569a86e083d2853f412dfcf7c0b0
+https://su7.myyfqh.tech/gogo/4abcc54172ba69a36107a775cd75c61a
 https://sub.cloudtaste.xyz/tastegood/bbf001f0c6ba32af4855c1bee077726d
 https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+https://dash.yfjc.xyz/api/v1/client/subscribe?token=f8cad55ff2641b4bef58453690f1c771
