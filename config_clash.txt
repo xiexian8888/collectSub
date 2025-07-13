@@ -1,3 +1,3 @@
+http://8.138.34.87:3389/saccess/ec068ec0b5b9e7f515b2a5da6fbb3798
 https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
-http://8.138.34.87:3389/saccess/ec068ec0b5b9e7f515b2a5da6fbb3798
