@@ -1,15 +1,15 @@
 -- play_list --
 
-可用流量: 4959.19 GB https://vip-sub.lightnright.com/sub/UkVaQVNIQUhfSUksMTc1MjAyNzQxNwII5w4k-p44
-可用流量: 802.01 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
-可用流量: 492.51 GB http://ml10.hfhfb.homes/api/v1/client/subscribe?token=9a36feea42c3f0f99f2d4885e300a5c9
-可用流量: 487.56 GB http://ml10.hfhfb.homes/api/v1/client/subscribe?token=5801ef9b9aee100cc4fe358363035bcd
-可用流量: 0.96 GB https://sub.cloudtaste.xyz/tastegood/cceb7b9626d0a269739d55cafea8b384
+可用流量: 999.59 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+可用流量: 4958.85 GB https://vip-sub.lightnright.com/sub/UkVaQVNIQUhfSUksMTc1MjAyNzQxNwII5w4k-p44
+可用流量: 492.44 GB http://ml10.hfhfb.homes/api/v1/client/subscribe?token=9a36feea42c3f0f99f2d4885e300a5c9
+可用流量: 487.5 GB http://ml10.hfhfb.homes/api/v1/client/subscribe?token=5801ef9b9aee100cc4fe358363035bcd
+可用流量: 801.08 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
 
 -- sub_list --
 
+https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
 https://vip-sub.lightnright.com/sub/UkVaQVNIQUhfSUksMTc1MjAyNzQxNwII5w4k-p44
-https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
 http://ml10.hfhfb.homes/api/v1/client/subscribe?token=9a36feea42c3f0f99f2d4885e300a5c9
 http://ml10.hfhfb.homes/api/v1/client/subscribe?token=5801ef9b9aee100cc4fe358363035bcd
-https://sub.cloudtaste.xyz/tastegood/cceb7b9626d0a269739d55cafea8b384
+https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
