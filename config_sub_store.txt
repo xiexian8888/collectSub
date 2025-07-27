@@ -1,7 +1,7 @@
 -- play_list --
 
-可用流量: 579.23 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
+可用流量: 497.72 GB http://ml10.hfhfb.homes/api/v1/client/subscribe?token=fc9b2ca304e71a60069ab00aa8505a75
 
 -- sub_list --
 
-https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
+http://ml10.hfhfb.homes/api/v1/client/subscribe?token=fc9b2ca304e71a60069ab00aa8505a75
