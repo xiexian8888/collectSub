@@ -1,23 +1,31 @@
 -- play_list --
 
-可用流量: 572.32 GB https://sh.dport.top/api/v1/client/subscribe?token=b2ead9dbe4be98833022f2c13bb31041
-可用流量: 256.4 GB https://sub.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
-可用流量: 538.32 GB https://sh.dport.top/api/v1/client/subscribe?token=26f937401b46195d31ad77a965028283
+可用流量: 239.63 GB https://sub.372372.xyz/api/v1/client/subscribe?token=f32350c82a01b364e0250785ad9897fd
+可用流量: 127.23 GB https://2c.xg-hub.icu/api/v1/client/subscribe?token=415d6882c2c0c1087a0673fb5a4611b8
+可用流量: 912.42 GB https://wy.flylink.cyou/api/v1/client/subscribe?token=bf26ea0819db1883991ff3818dbb74b8
+可用流量: 90.92 GB https://v0.crosswall.dpdns.org/submit/83957d8bae0b32029c10cbc8030e4437
+可用流量: 256.38 GB https://sub.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
+可用流量: 765.42 GB http://9uc.buzz/v3/subscr?id=952797b621a04e66923930ef5c0efcdf
+可用流量: 480.68 GB https://gw.dport.top/api/v1/client/subscribe?token=2edc98f9a6d57f7c6f46857bd49c8fad
 可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=smart@u_rhusKhQTcQFMFMT-mXFRZA
-可用流量: 97.86 GB https://base64.bigwatermelon.org/s?token=6bd2964274968fcd0e5282fec90a3aa3
-可用流量: 480.82 GB https://gw.dport.top/api/v1/client/subscribe?token=2edc98f9a6d57f7c6f46857bd49c8fad
 可用流量: 95096.93 GB https://dyzk.020318.xyz/?token=d24404a213fc4dd681536826c509e0a1&amp;flag=clash
-可用流量: 974.19 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=aa3eb6b04499f75bddfedd64a399bb24
-可用流量: 483.09 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
+可用流量: 94.9 GB https://www.xg-hub.icu/api/v1/client/subscribe?token=f14c98d702b7fbb5e7209142eae91310
+可用流量: 4067.41 GB https://sub.372372.xyz/api/v1/client/subscribe?token=4c409288a54caf5d44ab2a537f814bb8
+可用流量: 109.53 GB https://www.xg-hub.icu/api/v1/client/subscribe?token=49c88ca60ed3df61e297736d3e8446d9
+可用流量: 1067.35 GB https://sub.372372.xyz/api/v1/client/subscribe?token=365e6b573c7f1b3c6f1f7f8fd83351a5
 
 -- sub_list --
 
-https://sh.dport.top/api/v1/client/subscribe?token=b2ead9dbe4be98833022f2c13bb31041
+https://sub.372372.xyz/api/v1/client/subscribe?token=f32350c82a01b364e0250785ad9897fd
+https://2c.xg-hub.icu/api/v1/client/subscribe?token=415d6882c2c0c1087a0673fb5a4611b8
+https://wy.flylink.cyou/api/v1/client/subscribe?token=bf26ea0819db1883991ff3818dbb74b8
+https://v0.crosswall.dpdns.org/submit/83957d8bae0b32029c10cbc8030e4437
 https://sub.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
-https://sh.dport.top/api/v1/client/subscribe?token=26f937401b46195d31ad77a965028283
-https://xship.top/v1/subscribe?starlink=smart@u_rhusKhQTcQFMFMT-mXFRZA
-https://base64.bigwatermelon.org/s?token=6bd2964274968fcd0e5282fec90a3aa3
+http://9uc.buzz/v3/subscr?id=952797b621a04e66923930ef5c0efcdf
 https://gw.dport.top/api/v1/client/subscribe?token=2edc98f9a6d57f7c6f46857bd49c8fad
+https://xship.top/v1/subscribe?starlink=smart@u_rhusKhQTcQFMFMT-mXFRZA
 https://dyzk.020318.xyz/?token=d24404a213fc4dd681536826c509e0a1&amp;flag=clash
-https://bbb.flylink.cyou/api/v1/client/subscribe?token=aa3eb6b04499f75bddfedd64a399bb24
-https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
+https://www.xg-hub.icu/api/v1/client/subscribe?token=f14c98d702b7fbb5e7209142eae91310
+https://sub.372372.xyz/api/v1/client/subscribe?token=4c409288a54caf5d44ab2a537f814bb8
+https://www.xg-hub.icu/api/v1/client/subscribe?token=49c88ca60ed3df61e297736d3e8446d9
+https://sub.372372.xyz/api/v1/client/subscribe?token=365e6b573c7f1b3c6f1f7f8fd83351a5
