@@ -1,2 +1,6 @@
-https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
+https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
+https://api.touhou.center/sub/097f290d9d1602c4/clash
 https://fdhf-jhfksf.jilian.store/api/jilian/10fbebb350a79c19170b33a7a9671bc4
+https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
+https://gist.github.com/go4sharing/3ac45a5b829f245b9cbb7122dc4ec43d/raw/1597e0b653bf8790561ed283fbc39888180e8b90/gistfile1.txt
+https://gist.github.com/go4sharing/85b8d7efb26dd421edc5ed8bd11a5838/raw/69f39ebd482d73ce700fd8c35422863771bda052/gistfile1.txt
