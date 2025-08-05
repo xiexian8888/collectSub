@@ -1,2 +1,1 @@
-https://api.touhou.center/sub/097f290d9d1602c4/clash
 https://v0.crosswall.dpdns.org/submit/83957d8bae0b32029c10cbc8030e4437
