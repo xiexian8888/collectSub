@@ -1,25 +1,21 @@
 -- play_list --
 
-可用流量: 995.86 GB https://wy.flylink.cyou/api/v1/client/subscribe?token=c72b42448e0678cac0fe5a6ab6237f55
-可用流量: 541.58 GB https://sh.dport.top/api/v1/client/subscribe?token=26f937401b46195d31ad77a965028283
-可用流量: 574.63 GB https://sh.dport.top/api/v1/client/subscribe?token=b2ead9dbe4be98833022f2c13bb31041
-可用流量: 483.66 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
-可用流量: 97.92 GB https://www.xg-hub.icu/api/v1/client/subscribe?token=f14c98d702b7fbb5e7209142eae91310
-可用流量: 112.54 GB https://www.xg-hub.icu/api/v1/client/subscribe?token=49c88ca60ed3df61e297736d3e8446d9
-可用流量: 780.76 GB https://dash.pqjc.site/api/v1/client/subscribe?token=0738a4a71c70517c8450d03667e4371c
 可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=smart@u_rhusKhQTcQFMFMT-mXFRZA
-可用流量: 975.4 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=aa3eb6b04499f75bddfedd64a399bb24
-可用流量: 139.66 GB https://2c.xg-hub.icu/api/v1/client/subscribe?token=415d6882c2c0c1087a0673fb5a4611b8
+可用流量: 975.39 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=aa3eb6b04499f75bddfedd64a399bb24
+可用流量: 138.72 GB https://2c.xg-hub.icu/api/v1/client/subscribe?token=415d6882c2c0c1087a0673fb5a4611b8
+可用流量: 485.61 GB https://gw.dport.top/api/v1/client/subscribe?token=2edc98f9a6d57f7c6f46857bd49c8fad
+可用流量: 197.34 GB https://api.touhou.center/sub/097f290d9d1602c4/clash
+可用流量: 765.43 GB http://9uc.buzz/v3/subscr?id=952797b621a04e66923930ef5c0efcdf
+可用流量: 491.83 GB https://www.1112244.xyz/baipiao/cb3de016fc3a85ff30c5c8671600a0e5
+可用流量: 483.65 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
 
 -- sub_list --
 
-https://wy.flylink.cyou/api/v1/client/subscribe?token=c72b42448e0678cac0fe5a6ab6237f55
-https://sh.dport.top/api/v1/client/subscribe?token=26f937401b46195d31ad77a965028283
-https://sh.dport.top/api/v1/client/subscribe?token=b2ead9dbe4be98833022f2c13bb31041
-https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
-https://www.xg-hub.icu/api/v1/client/subscribe?token=f14c98d702b7fbb5e7209142eae91310
-https://www.xg-hub.icu/api/v1/client/subscribe?token=49c88ca60ed3df61e297736d3e8446d9
-https://dash.pqjc.site/api/v1/client/subscribe?token=0738a4a71c70517c8450d03667e4371c
 https://xship.top/v1/subscribe?starlink=smart@u_rhusKhQTcQFMFMT-mXFRZA
 https://bbb.flylink.cyou/api/v1/client/subscribe?token=aa3eb6b04499f75bddfedd64a399bb24
 https://2c.xg-hub.icu/api/v1/client/subscribe?token=415d6882c2c0c1087a0673fb5a4611b8
+https://gw.dport.top/api/v1/client/subscribe?token=2edc98f9a6d57f7c6f46857bd49c8fad
+https://api.touhou.center/sub/097f290d9d1602c4/clash
+http://9uc.buzz/v3/subscr?id=952797b621a04e66923930ef5c0efcdf
+https://www.1112244.xyz/baipiao/cb3de016fc3a85ff30c5c8671600a0e5
+https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
