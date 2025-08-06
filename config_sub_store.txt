@@ -1,27 +1,39 @@
 -- play_list --
 
-可用流量: 93.87 GB https://www.xg-hub.icu/api/v1/client/subscribe?token=f14c98d702b7fbb5e7209142eae91310
 可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=smart@u_rhusKhQTcQFMFMT-mXFRZA
-可用流量: 993.99 GB https://wy.flylink.cyou/api/v1/client/subscribe?token=c72b42448e0678cac0fe5a6ab6237f55
+可用流量: 239.57 GB https://sub.372372.xyz/api/v1/client/subscribe?token=f32350c82a01b364e0250785ad9897fd
 可用流量: 97.86 GB https://base64.bigwatermelon.org/s?token=6bd2964274968fcd0e5282fec90a3aa3
-可用流量: 973.91 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=aa3eb6b04499f75bddfedd64a399bb24
-可用流量: 711.63 GB https://wy.flylink.cyou/api/v1/client/subscribe?token=07e24cac52f0057b9903fc422d617ecf
-可用流量: 126.48 GB https://2c.xg-hub.icu/api/v1/client/subscribe?token=415d6882c2c0c1087a0673fb5a4611b8
-可用流量: 104.12 GB https://www.xg-hub.icu/api/v1/client/subscribe?token=49c88ca60ed3df61e297736d3e8446d9
-可用流量: 472.56 GB https://gw.dport.top/api/v1/client/subscribe?token=2edc98f9a6d57f7c6f46857bd49c8fad
-可用流量: 486.24 GB https://www.1112244.xyz/baipiao/cb3de016fc3a85ff30c5c8671600a0e5
-可用流量: 482.84 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
+可用流量: 570.28 GB https://sh.dport.top/api/v1/client/subscribe?token=b2ead9dbe4be98833022f2c13bb31041
+可用流量: 536.52 GB https://sh.dport.top/api/v1/client/subscribe?token=26f937401b46195d31ad77a965028283
+可用流量: 95096.93 GB https://dyzk.020318.xyz/?token=d24404a213fc4dd681536826c509e0a1&amp;flag=clash
+可用流量: 95.96 GB https://v0.crosswall.dpdns.org/submit/83957d8bae0b32029c10cbc8030e4437
+可用流量: 126.02 GB https://2c.xg-hub.icu/api/v1/client/subscribe?token=415d6882c2c0c1087a0673fb5a4611b8
+可用流量: 484.5 GB https://www.1112244.xyz/baipiao/cb3de016fc3a85ff30c5c8671600a0e5
+可用流量: 469.07 GB https://gw.dport.top/api/v1/client/subscribe?token=2edc98f9a6d57f7c6f46857bd49c8fad
+可用流量: 92.93 GB https://www.xg-hub.icu/api/v1/client/subscribe?token=f14c98d702b7fbb5e7209142eae91310
+可用流量: 99.43 GB https://www.xg-hub.icu/api/v1/client/subscribe?token=49c88ca60ed3df61e297736d3e8446d9
+可用流量: 765.37 GB http://9uc.buzz/v3/subscr?id=952797b621a04e66923930ef5c0efcdf
+可用流量: 254.57 GB https://sub.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
+可用流量: 482.7 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
+可用流量: 973.86 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=aa3eb6b04499f75bddfedd64a399bb24
+可用流量: 711.45 GB https://wy.flylink.cyou/api/v1/client/subscribe?token=07e24cac52f0057b9903fc422d617ecf
 
 -- sub_list --
 
-https://www.xg-hub.icu/api/v1/client/subscribe?token=f14c98d702b7fbb5e7209142eae91310
 https://xship.top/v1/subscribe?starlink=smart@u_rhusKhQTcQFMFMT-mXFRZA
-https://wy.flylink.cyou/api/v1/client/subscribe?token=c72b42448e0678cac0fe5a6ab6237f55
+https://sub.372372.xyz/api/v1/client/subscribe?token=f32350c82a01b364e0250785ad9897fd
 https://base64.bigwatermelon.org/s?token=6bd2964274968fcd0e5282fec90a3aa3
+https://sh.dport.top/api/v1/client/subscribe?token=b2ead9dbe4be98833022f2c13bb31041
+https://sh.dport.top/api/v1/client/subscribe?token=26f937401b46195d31ad77a965028283
+https://dyzk.020318.xyz/?token=d24404a213fc4dd681536826c509e0a1&amp;flag=clash
+https://v0.crosswall.dpdns.org/submit/83957d8bae0b32029c10cbc8030e4437
+https://2c.xg-hub.icu/api/v1/client/subscribe?token=415d6882c2c0c1087a0673fb5a4611b8
+https://www.1112244.xyz/baipiao/cb3de016fc3a85ff30c5c8671600a0e5
+https://gw.dport.top/api/v1/client/subscribe?token=2edc98f9a6d57f7c6f46857bd49c8fad
+https://www.xg-hub.icu/api/v1/client/subscribe?token=f14c98d702b7fbb5e7209142eae91310
+https://www.xg-hub.icu/api/v1/client/subscribe?token=49c88ca60ed3df61e297736d3e8446d9
+http://9uc.buzz/v3/subscr?id=952797b621a04e66923930ef5c0efcdf
+https://sub.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
+https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
 https://bbb.flylink.cyou/api/v1/client/subscribe?token=aa3eb6b04499f75bddfedd64a399bb24
 https://wy.flylink.cyou/api/v1/client/subscribe?token=07e24cac52f0057b9903fc422d617ecf
-https://2c.xg-hub.icu/api/v1/client/subscribe?token=415d6882c2c0c1087a0673fb5a4611b8
-https://www.xg-hub.icu/api/v1/client/subscribe?token=49c88ca60ed3df61e297736d3e8446d9
-https://gw.dport.top/api/v1/client/subscribe?token=2edc98f9a6d57f7c6f46857bd49c8fad
-https://www.1112244.xyz/baipiao/cb3de016fc3a85ff30c5c8671600a0e5
-https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
