@@ -1,11 +1,19 @@
 -- play_list --
 
-可用流量: 238.58 GB https://sub.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
-可用流量: 95096.93 GB https://dyzk.020318.xyz/?token=d24404a213fc4dd681536826c509e0a1&amp;flag=clash
+可用流量: 96.63 GB https://base64.bigwatermelon.org/s?token=6bd2964274968fcd0e5282fec90a3aa3
+可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=smart@u_rhusKhQTcQFMFMT-mXFRZA
+可用流量: 238.08 GB https://sub.372372.xyz/api/v1/client/subscribe?token=f32350c82a01b364e0250785ad9897fd
+可用流量: 4028.37 GB https://sub.372372.xyz/api/v1/client/subscribe?token=4c409288a54caf5d44ab2a537f814bb8
 可用流量: 98.59 GB https://new.crosswall.dpdns.org/submit/b9aea92672a99d13ada541fca080b9ef
+可用流量: 1012.89 GB https://sub.372372.xyz/api/v1/client/subscribe?token=365e6b573c7f1b3c6f1f7f8fd83351a5
+可用流量: 238.58 GB https://sub.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
 
 -- sub_list --
 
-https://sub.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
-https://dyzk.020318.xyz/?token=d24404a213fc4dd681536826c509e0a1&amp;flag=clash
+https://base64.bigwatermelon.org/s?token=6bd2964274968fcd0e5282fec90a3aa3
+https://xship.top/v1/subscribe?starlink=smart@u_rhusKhQTcQFMFMT-mXFRZA
+https://sub.372372.xyz/api/v1/client/subscribe?token=f32350c82a01b364e0250785ad9897fd
+https://sub.372372.xyz/api/v1/client/subscribe?token=4c409288a54caf5d44ab2a537f814bb8
 https://new.crosswall.dpdns.org/submit/b9aea92672a99d13ada541fca080b9ef
+https://sub.372372.xyz/api/v1/client/subscribe?token=365e6b573c7f1b3c6f1f7f8fd83351a5
+https://sub.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
