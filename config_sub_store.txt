@@ -1,21 +1,17 @@
 -- play_list --
 
-可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=smart@u_rhusKhQTcQFMFMT-mXFRZA
 可用流量: 95096.93 GB https://dyzk.020318.xyz/?token=d24404a213fc4dd681536826c509e0a1&amp;flag=clash
-可用流量: 4007.66 GB https://sub.372372.xyz/api/v1/client/subscribe?token=4c409288a54caf5d44ab2a537f814bb8
 可用流量: 235.0 GB https://sub.372372.xyz/api/v1/client/subscribe?token=f32350c82a01b364e0250785ad9897fd
+可用流量: 223.58 GB https://sub.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
 可用流量: 996.26 GB https://sub.372372.xyz/api/v1/client/subscribe?token=365e6b573c7f1b3c6f1f7f8fd83351a5
+可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=smart@u_rhusKhQTcQFMFMT-mXFRZA
 可用流量: 90.98 GB https://base64.bigwatermelon.org/s?token=6bd2964274968fcd0e5282fec90a3aa3
-可用流量: 997262.02 GB https://www.svpn.asia/api/v1/client/subscribe/ff357ccdca8d0be62c6c3c98ec2e9197
-可用流量: 223.59 GB https://sub.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
 
 -- sub_list --
 
-https://xship.top/v1/subscribe?starlink=smart@u_rhusKhQTcQFMFMT-mXFRZA
 https://dyzk.020318.xyz/?token=d24404a213fc4dd681536826c509e0a1&amp;flag=clash
-https://sub.372372.xyz/api/v1/client/subscribe?token=4c409288a54caf5d44ab2a537f814bb8
 https://sub.372372.xyz/api/v1/client/subscribe?token=f32350c82a01b364e0250785ad9897fd
-https://sub.372372.xyz/api/v1/client/subscribe?token=365e6b573c7f1b3c6f1f7f8fd83351a5
-https://base64.bigwatermelon.org/s?token=6bd2964274968fcd0e5282fec90a3aa3
-https://www.svpn.asia/api/v1/client/subscribe/ff357ccdca8d0be62c6c3c98ec2e9197
 https://sub.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
+https://sub.372372.xyz/api/v1/client/subscribe?token=365e6b573c7f1b3c6f1f7f8fd83351a5
+https://xship.top/v1/subscribe?starlink=smart@u_rhusKhQTcQFMFMT-mXFRZA
+https://base64.bigwatermelon.org/s?token=6bd2964274968fcd0e5282fec90a3aa3
