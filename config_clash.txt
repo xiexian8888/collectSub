@@ -1,2 +1,3 @@
 https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
+https://2e6eee20-78e0-4a81-8ef4-a25ad74e9392.abyssvpn.xyz/Abyss/6a00ec661185a1494ceb7184e1487174
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
