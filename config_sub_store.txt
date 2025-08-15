@@ -1,15 +1,9 @@
 -- play_list --
 
-可用流量: 997035.26 GB https://www.svpn.asia/api/v1/client/subscribe/ff357ccdca8d0be62c6c3c98ec2e9197
-可用流量: 221.16 GB https://sub.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
-可用流量: 4004.16 GB https://sub.372372.xyz/api/v1/client/subscribe?token=4c409288a54caf5d44ab2a537f814bb8
+可用流量: 4004.09 GB https://sub.372372.xyz/api/v1/client/subscribe?token=4c409288a54caf5d44ab2a537f814bb8
 可用流量: 95096.93 GB https://dyzk.020318.xyz/?token=d24404a213fc4dd681536826c509e0a1&amp;flag=clash
-可用流量: 88.31 GB https://base64.bigwatermelon.org/s?token=6bd2964274968fcd0e5282fec90a3aa3
 
 -- sub_list --
 
-https://www.svpn.asia/api/v1/client/subscribe/ff357ccdca8d0be62c6c3c98ec2e9197
-https://sub.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
 https://sub.372372.xyz/api/v1/client/subscribe?token=4c409288a54caf5d44ab2a537f814bb8
 https://dyzk.020318.xyz/?token=d24404a213fc4dd681536826c509e0a1&amp;flag=clash
-https://base64.bigwatermelon.org/s?token=6bd2964274968fcd0e5282fec90a3aa3
