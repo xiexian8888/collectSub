@@ -1,11 +1,13 @@
 -- play_list --
 
-可用流量: 55.05 GB https://base64.bigwatermelon.org/s?token=6bd2964274968fcd0e5282fec90a3aa3
-可用流量: 996519.96 GB https://www.svpn.asia/api/v1/client/subscribe/ff357ccdca8d0be62c6c3c98ec2e9197
-可用流量: 4370.7 GB https://st-sub.fly.dev/v2b/nc/api/v1/client/subscribe?token=acafad056ba1c685a15a117b4a784ec8&amp;flag=clash
+可用流量: 215.21 GB https://sub.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
+可用流量: 54.33 GB https://base64.bigwatermelon.org/s?token=6bd2964274968fcd0e5282fec90a3aa3
+可用流量: 4312.02 GB https://st-sub.fly.dev/v2b/nc/api/v1/client/subscribe?token=acafad056ba1c685a15a117b4a784ec8&amp;flag=clash
+可用流量: 232.3 GB https://sub.372372.xyz/api/v1/client/subscribe?token=f32350c82a01b364e0250785ad9897fd
 
 -- sub_list --
 
+https://sub.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
 https://base64.bigwatermelon.org/s?token=6bd2964274968fcd0e5282fec90a3aa3
-https://www.svpn.asia/api/v1/client/subscribe/ff357ccdca8d0be62c6c3c98ec2e9197
 https://st-sub.fly.dev/v2b/nc/api/v1/client/subscribe?token=acafad056ba1c685a15a117b4a784ec8&amp;flag=clash
+https://sub.372372.xyz/api/v1/client/subscribe?token=f32350c82a01b364e0250785ad9897fd
