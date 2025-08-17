@@ -1,9 +1,11 @@
 -- play_list --
 
-可用流量: 41.6 GB https://base64.bigwatermelon.org/s?token=6bd2964274968fcd0e5282fec90a3aa3
-可用流量: 95096.93 GB https://dyzk.020318.xyz/?token=d24404a213fc4dd681536826c509e0a1&amp;flag=clash
+可用流量: 1667.46 GB https://st-sub.fly.dev/v2b/nc/api/v1/client/subscribe?token=acafad056ba1c685a15a117b4a784ec8&amp;flag=clash
+可用流量: 162.26 GB https://magic666.lol/api/v1/client/subscribe?token=742e2935ce57fceb89bc2786f3c09beb
+可用流量: 41.53 GB https://base64.bigwatermelon.org/s?token=6bd2964274968fcd0e5282fec90a3aa3
 
 -- sub_list --
 
+https://st-sub.fly.dev/v2b/nc/api/v1/client/subscribe?token=acafad056ba1c685a15a117b4a784ec8&amp;flag=clash
+https://magic666.lol/api/v1/client/subscribe?token=742e2935ce57fceb89bc2786f3c09beb
 https://base64.bigwatermelon.org/s?token=6bd2964274968fcd0e5282fec90a3aa3
-https://dyzk.020318.xyz/?token=d24404a213fc4dd681536826c509e0a1&amp;flag=clash
