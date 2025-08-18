@@ -1,6 +1,6 @@
 -- play_list --
 
-可用流量: 13.52 GB https://base64.bigwatermelon.org/s?token=6bd2964274968fcd0e5282fec90a3aa3
+可用流量: 12.92 GB https://base64.bigwatermelon.org/s?token=6bd2964274968fcd0e5282fec90a3aa3
 
 -- sub_list --
 
