@@ -1,7 +1,7 @@
 -- play_list --
 
-可用流量: 995012.73 GB https://www.svpn.asia/api/v1/client/subscribe/ff357ccdca8d0be62c6c3c98ec2e9197
-可用流量: 10.31 GB https://base64.bigwatermelon.org/s?token=6bd2964274968fcd0e5282fec90a3aa3
+可用流量: 994985.69 GB https://www.svpn.asia/api/v1/client/subscribe/ff357ccdca8d0be62c6c3c98ec2e9197
+可用流量: 9.3 GB https://base64.bigwatermelon.org/s?token=6bd2964274968fcd0e5282fec90a3aa3
 
 -- sub_list --
 
