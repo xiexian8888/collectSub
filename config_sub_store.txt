@@ -1,13 +1,11 @@
 -- play_list --
 
-可用流量: 90.97 GB http://64.181.242.230/api/v1/client/subscribe?token=8b813988ace8eaa131e22662e47cca7e&amp;flag=meta
-可用流量: 993744.9 GB https://www.svpn.asia/api/v1/client/subscribe/ff357ccdca8d0be62c6c3c98ec2e9197
-可用流量: 54.55 GB https://mytoken-1.huyun.nl/api/v1/client/subscribe?token=333212cef9ca84f627bcd505696ae8f7
-可用流量: 27.13 GB https://www.zhehua.store/s/3be72defa31519c094c971aa955b515e
+可用流量: 22.58 GB https://www.zhehua.store/s/3be72defa31519c094c971aa955b515e
+可用流量: 48.68 GB https://mytoken-1.huyun.nl/api/v1/client/subscribe?token=333212cef9ca84f627bcd505696ae8f7
+可用流量: 73.95 GB https://yfjc.xyz/api/v1/client/subscribe?token=2d06ae8236c3e5955e8926039251fca7&amp;flag=meta
 
 -- sub_list --
 
-http://64.181.242.230/api/v1/client/subscribe?token=8b813988ace8eaa131e22662e47cca7e&amp;flag=meta
-https://www.svpn.asia/api/v1/client/subscribe/ff357ccdca8d0be62c6c3c98ec2e9197
-https://mytoken-1.huyun.nl/api/v1/client/subscribe?token=333212cef9ca84f627bcd505696ae8f7
 https://www.zhehua.store/s/3be72defa31519c094c971aa955b515e
+https://mytoken-1.huyun.nl/api/v1/client/subscribe?token=333212cef9ca84f627bcd505696ae8f7
+https://yfjc.xyz/api/v1/client/subscribe?token=2d06ae8236c3e5955e8926039251fca7&amp;flag=meta
