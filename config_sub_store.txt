@@ -1,7 +1,7 @@
 -- play_list --
 
-可用流量: 49.51 GB https://yfjc.xyz/api/v1/client/subscribe?token=2d06ae8236c3e5955e8926039251fca7&amp;flag=meta
-可用流量: 993676.87 GB https://www.svpn.asia/api/v1/client/subscribe/ff357ccdca8d0be62c6c3c98ec2e9197
+可用流量: 32.54 GB https://yfjc.xyz/api/v1/client/subscribe?token=2d06ae8236c3e5955e8926039251fca7&amp;flag=meta
+可用流量: 993661.06 GB https://www.svpn.asia/api/v1/client/subscribe/ff357ccdca8d0be62c6c3c98ec2e9197
 
 -- sub_list --
 
