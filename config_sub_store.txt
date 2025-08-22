@@ -1,7 +1,6 @@
 -- play_list --
 
-可用流量: 88.92 GB https://artislg.com/api/v1/zaoanyun?ovo=74c4fe4f33486d8e4e6b24dd1b1881dd&amp;flag=meta
+
 
 -- sub_list --
 
-https://artislg.com/api/v1/zaoanyun?ovo=74c4fe4f33486d8e4e6b24dd1b1881dd&amp;flag=meta
