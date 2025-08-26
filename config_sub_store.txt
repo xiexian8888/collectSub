@@ -1,15 +1,7 @@
 -- play_list --
 
-可用流量: 222.51 GB https://vpn.huasuan666.top/api/v1/client/subscribe?token=5e3469f29d8823b88a4d2350fab3d9d8
-可用流量: 64.62 GB https://dimo.dimoyun.top/dimo/vvip/client/subscribe?token=41660677347ad64df9affd087c34e83e
-可用流量: 51.5 GB https://dimo.dimoyun.top/dimo/vvip/client/subscribe?token=921ba33e42501c5a762aa0e36f4232f2
-可用流量: 64.94 GB https://dimo.dimoyun.top/dimo/vvip/client/subscribe?token=8d484179f5138cbfa3a19f7d07a795bc
-可用流量: 53.88 GB https://dimoyun.top/dimo/vvip/client/subscribe?token=970c8457be152ac7aad1205aaed64cf5
+可用流量: 50.92 GB https://dimo.dimoyun.top/dimo/vvip/client/subscribe?token=921ba33e42501c5a762aa0e36f4232f2
 
 -- sub_list --
 
-https://vpn.huasuan666.top/api/v1/client/subscribe?token=5e3469f29d8823b88a4d2350fab3d9d8
-https://dimo.dimoyun.top/dimo/vvip/client/subscribe?token=41660677347ad64df9affd087c34e83e
 https://dimo.dimoyun.top/dimo/vvip/client/subscribe?token=921ba33e42501c5a762aa0e36f4232f2
-https://dimo.dimoyun.top/dimo/vvip/client/subscribe?token=8d484179f5138cbfa3a19f7d07a795bc
-https://dimoyun.top/dimo/vvip/client/subscribe?token=970c8457be152ac7aad1205aaed64cf5
