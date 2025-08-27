@@ -1,15 +1,15 @@
 -- play_list --
 
-可用流量: 19.01 GB https://dimo.dimoyun.top/dimo/vvip/client/subscribe?token=921ba33e42501c5a762aa0e36f4232f2
-可用流量: 43.58 GB https://dimo.dimoyun.top/dimo/vvip/client/subscribe?token=41660677347ad64df9affd087c34e83e
-可用流量: 39.31 GB https://dimoyun.top/dimo/vvip/client/subscribe?token=970c8457be152ac7aad1205aaed64cf5
-可用流量: 46.13 GB https://dimo.dimoyun.top/dimo/vvip/client/subscribe?token=8d484179f5138cbfa3a19f7d07a795bc
-可用流量: 199.04 GB https://foldjc.top/api/v1/client/subscribe?token=368a38c4d9afb6338b113f0afbbc6f7f
+可用流量: 197.89 GB https://foldjc.top/api/v1/client/subscribe?token=368a38c4d9afb6338b113f0afbbc6f7f
+可用流量: 45.53 GB https://dimo.dimoyun.top/dimo/vvip/client/subscribe?token=8d484179f5138cbfa3a19f7d07a795bc
+可用流量: 38.75 GB https://dimoyun.top/dimo/vvip/client/subscribe?token=970c8457be152ac7aad1205aaed64cf5
+可用流量: 7.74 GB https://dimo.dimoyun.top/dimo/vvip/client/subscribe?token=921ba33e42501c5a762aa0e36f4232f2
+可用流量: 42.95 GB https://dimo.dimoyun.top/dimo/vvip/client/subscribe?token=41660677347ad64df9affd087c34e83e
 
 -- sub_list --
 
+https://foldjc.top/api/v1/client/subscribe?token=368a38c4d9afb6338b113f0afbbc6f7f
+https://dimo.dimoyun.top/dimo/vvip/client/subscribe?token=8d484179f5138cbfa3a19f7d07a795bc
+https://dimoyun.top/dimo/vvip/client/subscribe?token=970c8457be152ac7aad1205aaed64cf5
 https://dimo.dimoyun.top/dimo/vvip/client/subscribe?token=921ba33e42501c5a762aa0e36f4232f2
 https://dimo.dimoyun.top/dimo/vvip/client/subscribe?token=41660677347ad64df9affd087c34e83e
-https://dimoyun.top/dimo/vvip/client/subscribe?token=970c8457be152ac7aad1205aaed64cf5
-https://dimo.dimoyun.top/dimo/vvip/client/subscribe?token=8d484179f5138cbfa3a19f7d07a795bc
-https://foldjc.top/api/v1/client/subscribe?token=368a38c4d9afb6338b113f0afbbc6f7f
