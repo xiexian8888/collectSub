@@ -1,13 +1,13 @@
 -- play_list --
 
-可用流量: 31.21 GB https://dimoyun.top/dimo/vvip/client/subscribe?token=970c8457be152ac7aad1205aaed64cf5
-可用流量: 196.03 GB https://foldjc.top/api/v1/client/subscribe?token=368a38c4d9afb6338b113f0afbbc6f7f
-可用流量: 34.43 GB https://dimo.dimoyun.top/dimo/vvip/client/subscribe?token=41660677347ad64df9affd087c34e83e
-可用流量: 38.19 GB https://dimo.dimoyun.top/dimo/vvip/client/subscribe?token=8d484179f5138cbfa3a19f7d07a795bc
+可用流量: 33.92 GB https://dimo.dimoyun.top/dimo/vvip/client/subscribe?token=41660677347ad64df9affd087c34e83e
+可用流量: 47.36 GB https://sub2.smallstrawberry.com/api/v1/client/subscribe?token=b07c138b8a572a42a83f885abf3d3940
+可用流量: 30.51 GB https://dimoyun.top/dimo/vvip/client/subscribe?token=970c8457be152ac7aad1205aaed64cf5
+可用流量: 37.68 GB https://dimo.dimoyun.top/dimo/vvip/client/subscribe?token=8d484179f5138cbfa3a19f7d07a795bc
 
 -- sub_list --
 
-https://dimoyun.top/dimo/vvip/client/subscribe?token=970c8457be152ac7aad1205aaed64cf5
-https://foldjc.top/api/v1/client/subscribe?token=368a38c4d9afb6338b113f0afbbc6f7f
 https://dimo.dimoyun.top/dimo/vvip/client/subscribe?token=41660677347ad64df9affd087c34e83e
+https://sub2.smallstrawberry.com/api/v1/client/subscribe?token=b07c138b8a572a42a83f885abf3d3940
+https://dimoyun.top/dimo/vvip/client/subscribe?token=970c8457be152ac7aad1205aaed64cf5
 https://dimo.dimoyun.top/dimo/vvip/client/subscribe?token=8d484179f5138cbfa3a19f7d07a795bc
