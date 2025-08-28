@@ -1,9 +1,6 @@
 -- play_list --
 
-可用流量: 180.57 GB https://foldjc.top/api/v1/client/subscribe?token=368a38c4d9afb6338b113f0afbbc6f7f
-可用流量: 1.22 GB https://dimoyun.top/dimo/vvip/client/subscribe?token=970c8457be152ac7aad1205aaed64cf5
+
 
 -- sub_list --
 
-https://foldjc.top/api/v1/client/subscribe?token=368a38c4d9afb6338b113f0afbbc6f7f
-https://dimoyun.top/dimo/vvip/client/subscribe?token=970c8457be152ac7aad1205aaed64cf5
