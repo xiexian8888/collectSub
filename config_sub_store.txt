@@ -1,7 +1,6 @@
 -- play_list --
 
-可用流量: 177.26 GB https://foldjc.top/api/v1/client/subscribe?token=368a38c4d9afb6338b113f0afbbc6f7f
+
 
 -- sub_list --
 
-https://foldjc.top/api/v1/client/subscribe?token=368a38c4d9afb6338b113f0afbbc6f7f
