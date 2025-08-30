@@ -1,7 +1,9 @@
 -- play_list --
 
-可用流量: 165.7 GB https://foldjc.top/api/v1/client/subscribe?token=368a38c4d9afb6338b113f0afbbc6f7f
+可用流量: 277.95 GB https://gogof.hgfastgo.com/api/v1/client/subscribe?token=67663974293a0126d8ae0e5486ad6833
+可用流量: 165.63 GB https://foldjc.top/api/v1/client/subscribe?token=368a38c4d9afb6338b113f0afbbc6f7f
 
 -- sub_list --
 
+https://gogof.hgfastgo.com/api/v1/client/subscribe?token=67663974293a0126d8ae0e5486ad6833
 https://foldjc.top/api/v1/client/subscribe?token=368a38c4d9afb6338b113f0afbbc6f7f
