@@ -1,7 +1,6 @@
 -- play_list --
 
-可用流量: 711.8 GB https://liangxin.xyz/api/v1/liangxin?OwO=9eb44f681bfdf19e7bf4fafce2b13552
+
 
 -- sub_list --
 
-https://liangxin.xyz/api/v1/liangxin?OwO=9eb44f681bfdf19e7bf4fafce2b13552
