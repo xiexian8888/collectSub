@@ -1,7 +1,7 @@
 -- play_list --
 
-可用流量: 710.9 GB https://liangxin.xyz/api/v1/liangxin?OwO=9eb44f681bfdf19e7bf4fafce2b13552
-可用流量: 49.45 GB http://sub.linkxfk.com/api/v1/client/subscribe?token=bd653a5e4e0bd31a614cbefacd2e75a4
+可用流量: 710.61 GB https://liangxin.xyz/api/v1/liangxin?OwO=9eb44f681bfdf19e7bf4fafce2b13552
+可用流量: 44.18 GB http://sub.linkxfk.com/api/v1/client/subscribe?token=bd653a5e4e0bd31a614cbefacd2e75a4
 
 -- sub_list --
 
