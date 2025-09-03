@@ -1,9 +1,7 @@
 -- play_list --
 
-可用流量: 704.64 GB https://liangxin.xyz/api/v1/liangxin?OwO=9eb44f681bfdf19e7bf4fafce2b13552
-可用流量: 188.13 GB https://file.yuetoto.com/static/0f29f830e4632a9876440f47fae87664
+可用流量: 700.41 GB https://liangxin.xyz/api/v1/liangxin?OwO=9eb44f681bfdf19e7bf4fafce2b13552
 
 -- sub_list --
 
 https://liangxin.xyz/api/v1/liangxin?OwO=9eb44f681bfdf19e7bf4fafce2b13552
-https://file.yuetoto.com/static/0f29f830e4632a9876440f47fae87664
