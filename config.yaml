@@ -4465,6 +4465,8 @@ v2订阅:
 - '可用流量: 1530.0 GB https://bh.jiedianxielou.workers.dev/'
 - '可用流量: 1530.4 GB https://st-sub.fly.dev/v2b/nc/api/v1/client/subscribe?token=acafad056ba1c685a15a117b4a784ec8&amp;flag=clash'
 - '可用流量: 1531.0 GB https://bh.jiedianxielou.workers.dev'
+- '可用流量: 1531.54 GB https://03d.microcloudvm.com/api/v1/client/subscribe?token=a164498513f2f276c4dbd048673f99c2&amp;flag=meta&amp;types=all'
+- '可用流量: 1532.14 GB https://07.microunsync.com/api/v1/client/subscribe?token=a164498513f2f276c4dbd048673f99c2'
 - '可用流量: 1534.01 GB http://api.miloli.cc/api/v1/client/subscribe?token=794cccfe111b2522747cf9bc2c36dffd'
 - '可用流量: 1534.02 GB https://ktmcloud.net/api/v1/client/subscribe?token=7a9e11e40de495f7281244c21fa96eba'
 - '可用流量: 1535.0 GB https://bh.jiedianxielou.workers.dev/'
@@ -32057,6 +32059,8 @@ v2订阅:
 - http://x2.xueshan.shop/s/abfc13cec3a28f83e30487ef498fdd7c
 - http://xm.1iun.com/api/v1/client/subscribe?token=c05745bfd4663dd8f9029491980ec8b6
 - http://yuean.aiguardcloud.tech/s/9b3519d9ad373b79633d902e746cb308
+- https://03d.microcloudvm.com/api/v1/client/subscribe?token=a164498513f2f276c4dbd048673f99c2&amp;flag=meta&amp;types=all
+- https://07.microunsync.com/api/v1/client/subscribe?token=a164498513f2f276c4dbd048673f99c2
 - https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
 - https://0fa4f7d2.ghelper.me/subs/oneclick/b43fb74c0fa4f7d22fc45e3d64081e45
 - https://1.811200.xyz/api/v1/client/subscribe?token=24506e99851ae80f409e4c312de73632
