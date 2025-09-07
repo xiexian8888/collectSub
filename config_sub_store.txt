@@ -1,9 +1,9 @@
 -- play_list --
 
-可用流量: 1241.89 GB https://07.microunsync.com/api/v1/client/subscribe?token=a164498513f2f276c4dbd048673f99c2
 可用流量: 1241.95 GB https://03d.microcloudvm.com/api/v1/client/subscribe?token=a164498513f2f276c4dbd048673f99c2&amp;flag=meta&amp;types=all
+可用流量: 1241.89 GB https://07.microunsync.com/api/v1/client/subscribe?token=a164498513f2f276c4dbd048673f99c2
 
 -- sub_list --
 
-https://07.microunsync.com/api/v1/client/subscribe?token=a164498513f2f276c4dbd048673f99c2
 https://03d.microcloudvm.com/api/v1/client/subscribe?token=a164498513f2f276c4dbd048673f99c2&amp;flag=meta&amp;types=all
+https://07.microunsync.com/api/v1/client/subscribe?token=a164498513f2f276c4dbd048673f99c2
