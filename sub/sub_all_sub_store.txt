@@ -10,8 +10,10 @@ https://getinfo.bigbigwatermelon.com/api/v1/client/subscribe?token=df6c8f83f5d2b
 https://pqjc.site/api/v1/client/subscribe?token=0e989ae0ccd5dcc084e988d37e3cf40c
 https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
 https://sub.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
+https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
 https://sub.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143#dingyue_Center
-https://07.microunsync.com/api/v1/client/subscribe?token=a164498513f2f276c4dbd048673f99c2
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://03d.microcloudvm.com/api/v1/client/subscribe?token=a164498513f2f276c4dbd048673f99c2&amp;flag=meta&amp;types=all
 https://sub.372372.xyz/api/v1/client/subscribe?token=365e6b573c7f1b3c6f1f7f8fd83351a5
 https://cola.xn--chqu2nzsxv3y.com/api/v1/client/subscribe?token=1a1412046a5696fc9596b737e668d7a5
 https://foldjc.top/api/v1/client/subscribe?token=368a38c4d9afb6338b113f0afbbc6f7f
