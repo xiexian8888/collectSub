@@ -1,17 +1,15 @@
 -- play_list --
 
-可用流量: 9999923.58 GB http://shiyuanyinian.xyz/api/v1/client/subscribe?token=f64ab6f1d58f1120064b61da41e84f47
-可用流量: 839.01 GB https://cloud.gomeow.tech/gogo/78d999a36188743c9de4c40b01836624
-可用流量: 1737.68 GB https://showdb.389123.xyz/s/7550a6896f04d30e7f195ea1a0569aec
 可用流量: 48.58 GB https://www.tianj.icu/a/caa55ffb85474e137b298b010fcdf98e
-可用流量: 996.87 GB https://odysseycdn.cyou/api/v1/client/subscribe?token=6acb961f4a5d0c12a15b604a9605ce94
-可用流量: 999999212.29 GB https://www.s.aifjj.asia/api/v1/client/subscribe?token=3eddd42e9dc1e77d881326ad87da9246
+可用流量: 819.38 GB https://cloud.gomeow.tech/gogo/78d999a36188743c9de4c40b01836624
+可用流量: 9999923.29 GB http://shiyuanyinian.xyz/api/v1/client/subscribe?token=f64ab6f1d58f1120064b61da41e84f47
+可用流量: 1725.84 GB https://showdb.389123.xyz/s/7550a6896f04d30e7f195ea1a0569aec
+可用流量: 996.72 GB https://odysseycdn.cyou/api/v1/client/subscribe?token=6acb961f4a5d0c12a15b604a9605ce94
 
 -- sub_list --
 
-http://shiyuanyinian.xyz/api/v1/client/subscribe?token=f64ab6f1d58f1120064b61da41e84f47
-https://cloud.gomeow.tech/gogo/78d999a36188743c9de4c40b01836624
-https://showdb.389123.xyz/s/7550a6896f04d30e7f195ea1a0569aec
 https://www.tianj.icu/a/caa55ffb85474e137b298b010fcdf98e
+https://cloud.gomeow.tech/gogo/78d999a36188743c9de4c40b01836624
+http://shiyuanyinian.xyz/api/v1/client/subscribe?token=f64ab6f1d58f1120064b61da41e84f47
+https://showdb.389123.xyz/s/7550a6896f04d30e7f195ea1a0569aec
 https://odysseycdn.cyou/api/v1/client/subscribe?token=6acb961f4a5d0c12a15b604a9605ce94
-https://www.s.aifjj.asia/api/v1/client/subscribe?token=3eddd42e9dc1e77d881326ad87da9246
