@@ -1,2 +1,3 @@
 https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
+https://subyellow.bigbigwatermelon.com/s/c1d500a86d8e6e43b113e3a90736b133
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
