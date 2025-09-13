@@ -1,13 +1,13 @@
 -- play_list --
 
-可用流量: 999998782.69 GB https://www.s.aifjj.asia/api/v1/client/subscribe?token=3eddd42e9dc1e77d881326ad87da9246
-可用流量: 9999822.57 GB http://shiyuanyinian.xyz/api/v1/client/subscribe?token=f64ab6f1d58f1120064b61da41e84f47
-可用流量: 904.05 GB https://odysseycdn.cyou/api/v1/client/subscribe?token=6acb961f4a5d0c12a15b604a9605ce94
+可用流量: 9999812.63 GB http://shiyuanyinian.xyz/api/v1/client/subscribe?token=f64ab6f1d58f1120064b61da41e84f47
 可用流量: 44.14 GB https://www.tianj.icu/a/caa55ffb85474e137b298b010fcdf98e
+可用流量: 999998769.24 GB https://www.s.aifjj.asia/api/v1/client/subscribe?token=3eddd42e9dc1e77d881326ad87da9246
+可用流量: 901.24 GB https://odysseycdn.cyou/api/v1/client/subscribe?token=6acb961f4a5d0c12a15b604a9605ce94
 
 -- sub_list --
 
-https://www.s.aifjj.asia/api/v1/client/subscribe?token=3eddd42e9dc1e77d881326ad87da9246
 http://shiyuanyinian.xyz/api/v1/client/subscribe?token=f64ab6f1d58f1120064b61da41e84f47
-https://odysseycdn.cyou/api/v1/client/subscribe?token=6acb961f4a5d0c12a15b604a9605ce94
 https://www.tianj.icu/a/caa55ffb85474e137b298b010fcdf98e
+https://www.s.aifjj.asia/api/v1/client/subscribe?token=3eddd42e9dc1e77d881326ad87da9246
+https://odysseycdn.cyou/api/v1/client/subscribe?token=6acb961f4a5d0c12a15b604a9605ce94
