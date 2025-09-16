@@ -1,11 +1,11 @@
 -- play_list --
 
+可用流量: 9995779.99 GB http://gw-zubknq2tly.1010520.click/api/v1/client/subscribe?token=0985b7b96ce09745d2f3fa9fcb4a4243&amp;flag=meta
+可用流量: 9998671.22 GB http://shiyuanyinian.xyz/api/v1/client/subscribe?token=f64ab6f1d58f1120064b61da41e84f47
 可用流量: 760.54 GB https://odysseycdn.cyou/api/v1/client/subscribe?token=6acb961f4a5d0c12a15b604a9605ce94
-可用流量: 9995825.89 GB http://gw-zubknq2tly.1010520.click/api/v1/client/subscribe?token=0985b7b96ce09745d2f3fa9fcb4a4243&amp;flag=meta
-可用流量: 9998678.86 GB http://shiyuanyinian.xyz/api/v1/client/subscribe?token=f64ab6f1d58f1120064b61da41e84f47
 
 -- sub_list --
 
-https://odysseycdn.cyou/api/v1/client/subscribe?token=6acb961f4a5d0c12a15b604a9605ce94
 http://gw-zubknq2tly.1010520.click/api/v1/client/subscribe?token=0985b7b96ce09745d2f3fa9fcb4a4243&amp;flag=meta
 http://shiyuanyinian.xyz/api/v1/client/subscribe?token=f64ab6f1d58f1120064b61da41e84f47
+https://odysseycdn.cyou/api/v1/client/subscribe?token=6acb961f4a5d0c12a15b604a9605ce94
