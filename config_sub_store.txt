@@ -1,15 +1,15 @@
 -- play_list --
 
-可用流量: 9998585.65 GB http://shiyuanyinian.xyz/api/v1/client/subscribe?token=f64ab6f1d58f1120064b61da41e84f47
 可用流量: 760.54 GB https://odysseycdn.cyou/api/v1/client/subscribe?token=6acb961f4a5d0c12a15b604a9605ce94
-可用流量: 9995520.14 GB http://gw-zubknq2tly.1010520.click/api/v1/client/subscribe?token=0985b7b96ce09745d2f3fa9fcb4a4243&amp;flag=meta
-可用流量: 166.75 GB https://1.suscri.ru/oosaka/b7022d99e798f74972aba3854b4713ad
-可用流量: 999997307.59 GB https://www.a.aifjj.asia/api/v1/client/subscribe/3eddd42e9dc1e77d881326ad87da9246
+可用流量: 9995505.07 GB http://gw-zubknq2tly.1010520.click/api/v1/client/subscribe?token=0985b7b96ce09745d2f3fa9fcb4a4243&amp;flag=meta
+可用流量: 9998582.0 GB http://shiyuanyinian.xyz/api/v1/client/subscribe?token=f64ab6f1d58f1120064b61da41e84f47
+可用流量: 999997297.1 GB https://www.a.aifjj.asia/api/v1/client/subscribe/3eddd42e9dc1e77d881326ad87da9246
+可用流量: 45.53 GB https://1.suscri.ru/oosaka/b7022d99e798f74972aba3854b4713ad
 
 -- sub_list --
 
-http://shiyuanyinian.xyz/api/v1/client/subscribe?token=f64ab6f1d58f1120064b61da41e84f47
 https://odysseycdn.cyou/api/v1/client/subscribe?token=6acb961f4a5d0c12a15b604a9605ce94
 http://gw-zubknq2tly.1010520.click/api/v1/client/subscribe?token=0985b7b96ce09745d2f3fa9fcb4a4243&amp;flag=meta
-https://1.suscri.ru/oosaka/b7022d99e798f74972aba3854b4713ad
+http://shiyuanyinian.xyz/api/v1/client/subscribe?token=f64ab6f1d58f1120064b61da41e84f47
 https://www.a.aifjj.asia/api/v1/client/subscribe/3eddd42e9dc1e77d881326ad87da9246
+https://1.suscri.ru/oosaka/b7022d99e798f74972aba3854b4713ad
