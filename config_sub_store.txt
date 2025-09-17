@@ -1,15 +1,13 @@
 -- play_list --
 
-可用流量: 760.54 GB https://odysseycdn.cyou/api/v1/client/subscribe?token=6acb961f4a5d0c12a15b604a9605ce94
+可用流量: 9998468.97 GB http://shiyuanyinian.xyz/api/v1/client/subscribe?token=f64ab6f1d58f1120064b61da41e84f47
 可用流量: 999997130.67 GB https://www.svpn.asia/api/v1/client/subscribe/3eddd42e9dc1e77d881326ad87da9246
-可用流量: 9998470.47 GB http://shiyuanyinian.xyz/api/v1/client/subscribe?token=f64ab6f1d58f1120064b61da41e84f47
-可用流量: 454.05 GB https://6b0f3261-bc7a-72e9-e664-859de4ddeb69.999161.xyz/v2qiKvDZzgaEMedWx46cM3t3v/34a7da0c-a43a-49b8-a8d0-64b43100090e/
-可用流量: 9994777.27 GB http://gw-zubknq2tly.1010520.click/api/v1/client/subscribe?token=0985b7b96ce09745d2f3fa9fcb4a4243&amp;flag=meta
+可用流量: 9994771.34 GB http://gw-zubknq2tly.1010520.click/api/v1/client/subscribe?token=0985b7b96ce09745d2f3fa9fcb4a4243&amp;flag=meta
+可用流量: 760.54 GB https://odysseycdn.cyou/api/v1/client/subscribe?token=6acb961f4a5d0c12a15b604a9605ce94
 
 -- sub_list --
 
-https://odysseycdn.cyou/api/v1/client/subscribe?token=6acb961f4a5d0c12a15b604a9605ce94
-https://www.svpn.asia/api/v1/client/subscribe/3eddd42e9dc1e77d881326ad87da9246
 http://shiyuanyinian.xyz/api/v1/client/subscribe?token=f64ab6f1d58f1120064b61da41e84f47
-https://6b0f3261-bc7a-72e9-e664-859de4ddeb69.999161.xyz/v2qiKvDZzgaEMedWx46cM3t3v/34a7da0c-a43a-49b8-a8d0-64b43100090e/
+https://www.svpn.asia/api/v1/client/subscribe/3eddd42e9dc1e77d881326ad87da9246
 http://gw-zubknq2tly.1010520.click/api/v1/client/subscribe?token=0985b7b96ce09745d2f3fa9fcb4a4243&amp;flag=meta
+https://odysseycdn.cyou/api/v1/client/subscribe?token=6acb961f4a5d0c12a15b604a9605ce94
