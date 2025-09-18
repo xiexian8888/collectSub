@@ -1,11 +1,9 @@
 -- play_list --
 
+可用流量: 9994372.23 GB http://gw-zubknq2tly.1010520.click/api/v1/client/subscribe?token=0985b7b96ce09745d2f3fa9fcb4a4243&amp;flag=meta
 可用流量: 999997130.67 GB https://www.svpn.asia/api/v1/client/subscribe/3eddd42e9dc1e77d881326ad87da9246
-可用流量: 9994379.71 GB http://gw-zubknq2tly.1010520.click/api/v1/client/subscribe?token=0985b7b96ce09745d2f3fa9fcb4a4243&amp;flag=meta
-可用流量: 298.09 GB https://6b0f3261-bc7a-72e9-e664-859de4ddeb69.999161.xyz/v2qiKvDZzgaEMedWx46cM3t3v/34a7da0c-a43a-49b8-a8d0-64b43100090e/
 
 -- sub_list --
 
-https://www.svpn.asia/api/v1/client/subscribe/3eddd42e9dc1e77d881326ad87da9246
 http://gw-zubknq2tly.1010520.click/api/v1/client/subscribe?token=0985b7b96ce09745d2f3fa9fcb4a4243&amp;flag=meta
-https://6b0f3261-bc7a-72e9-e664-859de4ddeb69.999161.xyz/v2qiKvDZzgaEMedWx46cM3t3v/34a7da0c-a43a-49b8-a8d0-64b43100090e/
+https://www.svpn.asia/api/v1/client/subscribe/3eddd42e9dc1e77d881326ad87da9246
