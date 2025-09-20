@@ -1,19 +1,11 @@
 -- play_list --
 
-可用流量: 88.98 GB https://maxhjd.jjzcloud.top/api/v1/client/subscribe?token=bbcda09c41e71bd271465b720758e6fe
 可用流量: 999997116.37 GB https://www.svpn.asia/api/v1/client/subscribe/3eddd42e9dc1e77d881326ad87da9246
-可用流量: 72.35 GB https://maxhjd.jjzcloud.top/api/v1/client/subscribe?token=624b1e7563cbb1b95a6de2b926165510
-可用流量: 86.94 GB https://pepsl.top/s/b2578db69d19be8b47f7410e79503c54
-可用流量: 77.76 GB https://pepsl.top/s/15017411c24d027b1373ddcc6746a863
-可用流量: 42.98 GB https://vps.221138.xyz:6061/hui/asdf56456.15263a56s4dqw321
-可用流量: 61.63 GB https://dash.pqjc.site/api/v1/client/subscribe?token=623515126e1ea10d95eeb594fbf6ac29
+可用流量: 86.16 GB https://pepsl.top/s/b2578db69d19be8b47f7410e79503c54
+可用流量: 77.64 GB https://pepsl.top/s/15017411c24d027b1373ddcc6746a863
 
 -- sub_list --
 
-https://maxhjd.jjzcloud.top/api/v1/client/subscribe?token=bbcda09c41e71bd271465b720758e6fe
 https://www.svpn.asia/api/v1/client/subscribe/3eddd42e9dc1e77d881326ad87da9246
-https://maxhjd.jjzcloud.top/api/v1/client/subscribe?token=624b1e7563cbb1b95a6de2b926165510
 https://pepsl.top/s/b2578db69d19be8b47f7410e79503c54
 https://pepsl.top/s/15017411c24d027b1373ddcc6746a863
-https://vps.221138.xyz:6061/hui/asdf56456.15263a56s4dqw321
-https://dash.pqjc.site/api/v1/client/subscribe?token=623515126e1ea10d95eeb594fbf6ac29
