@@ -1,11 +1,11 @@
 -- play_list --
 
-可用流量: 49.59 GB https://vps.221138.xyz:6061/hui/asdf56456.15263a56s4dqw321
-可用流量: 999997116.62 GB https://www.svpn.asia/api/v1/client/subscribe/3eddd42e9dc1e77d881326ad87da9246
 可用流量: 61.63 GB https://dash.pqjc.site/api/v1/client/subscribe?token=623515126e1ea10d95eeb594fbf6ac29
+可用流量: 47.07 GB https://vps.221138.xyz:6061/hui/asdf56456.15263a56s4dqw321
+可用流量: 999997116.55 GB https://www.svpn.asia/api/v1/client/subscribe/3eddd42e9dc1e77d881326ad87da9246
 
 -- sub_list --
 
+https://dash.pqjc.site/api/v1/client/subscribe?token=623515126e1ea10d95eeb594fbf6ac29
 https://vps.221138.xyz:6061/hui/asdf56456.15263a56s4dqw321
 https://www.svpn.asia/api/v1/client/subscribe/3eddd42e9dc1e77d881326ad87da9246
-https://dash.pqjc.site/api/v1/client/subscribe?token=623515126e1ea10d95eeb594fbf6ac29
