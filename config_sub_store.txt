@@ -1,9 +1,9 @@
 -- play_list --
 
-可用流量: 16.69 GB https://vps.221138.xyz:6061/hui/asdf56456.15263a56s4dqw321
-可用流量: 10.57 GB https://pepsl.top/s/b2578db69d19be8b47f7410e79503c54
+可用流量: 10.49 GB https://pepsl.top/s/b2578db69d19be8b47f7410e79503c54
+可用流量: 16.53 GB https://vps.221138.xyz:6061/hui/asdf56456.15263a56s4dqw321
 
 -- sub_list --
 
-https://vps.221138.xyz:6061/hui/asdf56456.15263a56s4dqw321
 https://pepsl.top/s/b2578db69d19be8b47f7410e79503c54
+https://vps.221138.xyz:6061/hui/asdf56456.15263a56s4dqw321
