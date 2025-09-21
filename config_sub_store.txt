@@ -1,11 +1,7 @@
 -- play_list --
 
-可用流量: 4.73 GB https://vps.221138.xyz:6061/hui/asdf56456.15263a56s4dqw321
-可用流量: 22.92 GB https://list.mbo186.com/tesla/28529690d5304767b454cebf11a41506
-可用流量: 8.76 GB https://pepsl.top/s/b2578db69d19be8b47f7410e79503c54
+可用流量: 8.21 GB https://pepsl.top/s/b2578db69d19be8b47f7410e79503c54
 
 -- sub_list --
 
-https://vps.221138.xyz:6061/hui/asdf56456.15263a56s4dqw321
-https://list.mbo186.com/tesla/28529690d5304767b454cebf11a41506
 https://pepsl.top/s/b2578db69d19be8b47f7410e79503c54
