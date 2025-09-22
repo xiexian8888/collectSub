@@ -1,7 +1,7 @@
 -- play_list --
 
-可用流量: 1390.61 GB https://key.vlesvpn.ru/48WBNJ6
-可用流量: 949.82 GB https://gates.djjc.cfd/api/v1/client/subscribe?token=4e4631413841f4c8345a4b4c1f048902
+可用流量: 1388.75 GB https://key.vlesvpn.ru/48WBNJ6
+可用流量: 828.55 GB https://gates.djjc.cfd/api/v1/client/subscribe?token=4e4631413841f4c8345a4b4c1f048902
 
 -- sub_list --
 
