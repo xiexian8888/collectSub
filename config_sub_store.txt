@@ -1,7 +1,7 @@
 -- play_list --
 
-可用流量: 2337.03 GB https://gates.djjc.cfd/api/v1/client/subscribe?token=4e4631413841f4c8345a4b4c1f048902
-可用流量: 1.55 GB https://pepsl.top/s/b2578db69d19be8b47f7410e79503c54
+可用流量: 2294.0 GB https://gates.djjc.cfd/api/v1/client/subscribe?token=4e4631413841f4c8345a4b4c1f048902
+可用流量: 1.04 GB https://pepsl.top/s/b2578db69d19be8b47f7410e79503c54
 
 -- sub_list --
 
