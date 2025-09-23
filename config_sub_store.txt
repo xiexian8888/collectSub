@@ -1,6 +1,6 @@
 -- play_list --
 
-可用流量: 35.44 GB https://xilucloud.top/api/v1/client/subscribe?token=b3c4c1cfeed19c52c482105b34b82c99
+可用流量: 31.95 GB https://xilucloud.top/api/v1/client/subscribe?token=b3c4c1cfeed19c52c482105b34b82c99
 
 -- sub_list --
 
