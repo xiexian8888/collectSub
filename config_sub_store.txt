@@ -1,9 +1,7 @@
 -- play_list --
 
-可用流量: 2.07 GB https://4444445.xyz/subscribeto/70b1a84e7c4ce2db0fbf3bf128cbbb0f
-可用流量: 1360.44 GB https://key.vlesvpn.ru/48WBNJ6
+可用流量: 98.34 GB https://xilucloud.top/api/v1/client/subscribe?token=b3c4c1cfeed19c52c482105b34b82c99
 
 -- sub_list --
 
-https://4444445.xyz/subscribeto/70b1a84e7c4ce2db0fbf3bf128cbbb0f
-https://key.vlesvpn.ru/48WBNJ6
+https://xilucloud.top/api/v1/client/subscribe?token=b3c4c1cfeed19c52c482105b34b82c99
