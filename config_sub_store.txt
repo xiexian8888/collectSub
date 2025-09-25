@@ -1,6 +1,6 @@
 -- play_list --
 
-可用流量: 66.46 GB https://rgergergergerg6555.saojc.xyz/api/v1/client/subscribe?token=185f79deb53f6fbd1650e4f483803a80
+可用流量: 49.97 GB https://rgergergergerg6555.saojc.xyz/api/v1/client/subscribe?token=185f79deb53f6fbd1650e4f483803a80
 
 -- sub_list --
 
