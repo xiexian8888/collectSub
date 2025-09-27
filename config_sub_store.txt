@@ -1,6 +1,6 @@
 -- play_list --
 
-可用流量: 54.88 GB https://cdn-ipv6.ksy8126.com/s/6cb7503f4136358a53c7f696a47d7596
+可用流量: 49.64 GB https://cdn-ipv6.ksy8126.com/s/6cb7503f4136358a53c7f696a47d7596
 
 -- sub_list --
 
