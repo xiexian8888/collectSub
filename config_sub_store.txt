@@ -1,9 +1,9 @@
 -- play_list --
 
+可用流量: 999999055.45 GB http://202509011229371.chibaba.ggff.net/api/v1/client/subscribe?token=3d09e40594815b8d2f27bfc978b3668b
 可用流量: 824.37 GB https://liangxin.xyz/api/v1/liangxin?OwO=040facdf55dbe1453287c80a0b141483
-可用流量: 999999055.6 GB http://202509011229371.chibaba.ggff.net/api/v1/client/subscribe?token=3d09e40594815b8d2f27bfc978b3668b
 
 -- sub_list --
 
-https://liangxin.xyz/api/v1/liangxin?OwO=040facdf55dbe1453287c80a0b141483
 http://202509011229371.chibaba.ggff.net/api/v1/client/subscribe?token=3d09e40594815b8d2f27bfc978b3668b
+https://liangxin.xyz/api/v1/liangxin?OwO=040facdf55dbe1453287c80a0b141483
