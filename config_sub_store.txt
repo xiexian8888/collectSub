@@ -1,11 +1,11 @@
 -- play_list --
 
-可用流量: 999999046.87 GB http://202509011229371.chibaba.ggff.net/api/v1/client/subscribe?token=3d09e40594815b8d2f27bfc978b3668b
-可用流量: 311.51 GB https://sub.yfsub.net/s/6bd0154c8d95525f8d5db9e5576e59fe
-可用流量: 927.97 GB https://baca.342579.xyz/s/4fd717025819cdb809ae3756a1939318
+可用流量: 999999046.72 GB http://202509011229371.chibaba.ggff.net/api/v1/client/subscribe?token=3d09e40594815b8d2f27bfc978b3668b
+可用流量: 927.05 GB https://baca.342579.xyz/s/4fd717025819cdb809ae3756a1939318
+可用流量: 304.69 GB https://sub.yfsub.net/s/6bd0154c8d95525f8d5db9e5576e59fe
 
 -- sub_list --
 
 http://202509011229371.chibaba.ggff.net/api/v1/client/subscribe?token=3d09e40594815b8d2f27bfc978b3668b
-https://sub.yfsub.net/s/6bd0154c8d95525f8d5db9e5576e59fe
 https://baca.342579.xyz/s/4fd717025819cdb809ae3756a1939318
+https://sub.yfsub.net/s/6bd0154c8d95525f8d5db9e5576e59fe
