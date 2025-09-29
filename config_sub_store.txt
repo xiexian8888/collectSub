@@ -1,6 +1,6 @@
 -- play_list --
 
-可用流量: 999999053.73 GB http://202509011229371.chibaba.ggff.net/api/v1/client/subscribe?token=3d09e40594815b8d2f27bfc978b3668b
+可用流量: 999999053.07 GB http://202509011229371.chibaba.ggff.net/api/v1/client/subscribe?token=3d09e40594815b8d2f27bfc978b3668b
 
 -- sub_list --
 
