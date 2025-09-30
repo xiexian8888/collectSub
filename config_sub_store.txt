@@ -1,11 +1,9 @@
 -- play_list --
 
-可用流量: 894.63 GB https://baca.342579.xyz/s/4fd717025819cdb809ae3756a1939318
-可用流量: 130.89 GB https://edfd8348.ghelper.me/subs/clash/282f43eaedfd8348cb6c3883ea2c6257
+可用流量: 893.41 GB https://baca.342579.xyz/s/4fd717025819cdb809ae3756a1939318
 可用流量: 999999999.0 GB http://202509011229371.chibaba.ggff.net/api/v1/client/subscribe?token=3d09e40594815b8d2f27bfc978b3668b
 
 -- sub_list --
 
 https://baca.342579.xyz/s/4fd717025819cdb809ae3756a1939318
-https://edfd8348.ghelper.me/subs/clash/282f43eaedfd8348cb6c3883ea2c6257
 http://202509011229371.chibaba.ggff.net/api/v1/client/subscribe?token=3d09e40594815b8d2f27bfc978b3668b
