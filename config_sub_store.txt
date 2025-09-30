@@ -1,6 +1,6 @@
 -- play_list --
 
-可用流量: 899.34 GB https://baca.342579.xyz/s/4fd717025819cdb809ae3756a1939318
+可用流量: 897.35 GB https://baca.342579.xyz/s/4fd717025819cdb809ae3756a1939318
 可用流量: 999999044.15 GB http://202509011229371.chibaba.ggff.net/api/v1/client/subscribe?token=3d09e40594815b8d2f27bfc978b3668b
 
 -- sub_list --
