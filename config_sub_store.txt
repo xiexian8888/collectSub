@@ -1,9 +1,9 @@
 -- play_list --
 
-可用流量: 954.55 GB https://wanmeiwl1.xyz/gywl/d58aeba1b86bacdc22e6a1856aca0f4d
-可用流量: 500.64 GB https://xmrhuman.644222.xyz:8081/hui/VhFoUYo63Hx.s3vKndrp%2AxJ
+可用流量: 500.32 GB https://xmrhuman.644222.xyz:8081/hui/VhFoUYo63Hx.s3vKndrp%2AxJ
+可用流量: 953.89 GB https://wanmeiwl1.xyz/gywl/d58aeba1b86bacdc22e6a1856aca0f4d
 
 -- sub_list --
 
-https://wanmeiwl1.xyz/gywl/d58aeba1b86bacdc22e6a1856aca0f4d
 https://xmrhuman.644222.xyz:8081/hui/VhFoUYo63Hx.s3vKndrp%2AxJ
+https://wanmeiwl1.xyz/gywl/d58aeba1b86bacdc22e6a1856aca0f4d
