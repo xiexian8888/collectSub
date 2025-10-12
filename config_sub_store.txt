@@ -1,11 +1,7 @@
 -- play_list --
 
-可用流量: 994767.4 GB https://waifu.kurumi.biz.id/sub/VG9raXNha2lrdXJ1bWksMTc1ODk3NDI4NA4Jov3b4Z7y
-可用流量: 339.39 GB https://411611.xyz/411611/d9cae9d3b4d90766b3137c44cca0d1b1
-可用流量: 109.37 GB https://admin.azadpl.sbs:8000/sub/NTBHaWcsMTc1OTczNTE2OASssV-wmSHa
+可用流量: 994740.25 GB https://waifu.kurumi.biz.id/sub/VG9raXNha2lrdXJ1bWksMTc1ODk3NDI4NA4Jov3b4Z7y
 
 -- sub_list --
 
 https://waifu.kurumi.biz.id/sub/VG9raXNha2lrdXJ1bWksMTc1ODk3NDI4NA4Jov3b4Z7y
-https://411611.xyz/411611/d9cae9d3b4d90766b3137c44cca0d1b1
-https://admin.azadpl.sbs:8000/sub/NTBHaWcsMTc1OTczNTE2OASssV-wmSHa
