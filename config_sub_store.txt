@@ -1,19 +1,17 @@
 -- play_list --
 
-可用流量: 320.33 GB https://411611.xyz/411611/d9cae9d3b4d90766b3137c44cca0d1b1
-可用流量: 614.04 GB https://bpjc.pics/tg-bpjcc/9157688046c81e61919c2f35ac3c9d2d
-可用流量: 307.69 GB https://bpjc.pics/tg-bpjcc/089edf28d259ccdc867b703f0f151256
-可用流量: 835.98 GB https://fanyun.pro/api/v1/client/subscribe?token=af27fb8e944a5e2a66ec3c817f51229d
-可用流量: 7015.09 GB https://jnir.lightnright.com/sub/jnir_vip_oct/a394feb5b4b54cbf1f54f60c51cd2648
-可用流量: 834.71 GB https://fanyun.pro/api/v1/client/subscribe?token=8ac6a090f0d22a5d90ec370c3de1608b
-可用流量: 992588.94 GB https://waifu.kurumi.biz.id/sub/VG9raXNha2lrdXJ1bWksMTc1ODk3NDI4NA4Jov3b4Z7y
+可用流量: 307.27 GB https://bpjc.pics/tg-bpjcc/089edf28d259ccdc867b703f0f151256
+可用流量: 611.15 GB https://bpjc.pics/tg-bpjcc/9157688046c81e61919c2f35ac3c9d2d
+可用流量: 992530.5 GB https://waifu.kurumi.biz.id/sub/VG9raXNha2lrdXJ1bWksMTc1ODk3NDI4NA4Jov3b4Z7y
+可用流量: 320.23 GB https://411611.xyz/411611/d9cae9d3b4d90766b3137c44cca0d1b1
+可用流量: 833.22 GB https://fanyun.pro/api/v1/client/subscribe?token=af27fb8e944a5e2a66ec3c817f51229d
+可用流量: 832.26 GB https://fanyun.pro/api/v1/client/subscribe?token=8ac6a090f0d22a5d90ec370c3de1608b
 
 -- sub_list --
 
-https://411611.xyz/411611/d9cae9d3b4d90766b3137c44cca0d1b1
-https://bpjc.pics/tg-bpjcc/9157688046c81e61919c2f35ac3c9d2d
 https://bpjc.pics/tg-bpjcc/089edf28d259ccdc867b703f0f151256
-https://fanyun.pro/api/v1/client/subscribe?token=af27fb8e944a5e2a66ec3c817f51229d
-https://jnir.lightnright.com/sub/jnir_vip_oct/a394feb5b4b54cbf1f54f60c51cd2648
-https://fanyun.pro/api/v1/client/subscribe?token=8ac6a090f0d22a5d90ec370c3de1608b
+https://bpjc.pics/tg-bpjcc/9157688046c81e61919c2f35ac3c9d2d
 https://waifu.kurumi.biz.id/sub/VG9raXNha2lrdXJ1bWksMTc1ODk3NDI4NA4Jov3b4Z7y
+https://411611.xyz/411611/d9cae9d3b4d90766b3137c44cca0d1b1
+https://fanyun.pro/api/v1/client/subscribe?token=af27fb8e944a5e2a66ec3c817f51229d
+https://fanyun.pro/api/v1/client/subscribe?token=8ac6a090f0d22a5d90ec370c3de1608b
