@@ -1,13 +1,11 @@
 -- play_list --
 
-可用流量: 593.9 GB https://bpjc.pics/tg-bpjcc/9157688046c81e61919c2f35ac3c9d2d
-可用流量: 291.02 GB https://bpjc.pics/tg-bpjcc/089edf28d259ccdc867b703f0f151256
-可用流量: 780.39 GB https://fanyun.pro/api/v1/client/subscribe?token=af27fb8e944a5e2a66ec3c817f51229d
-可用流量: 990864.88 GB https://waifu.kurumi.biz.id/sub/VG9raXNha2lrdXJ1bWksMTc1ODk3NDI4NA4Jov3b4Z7y
+可用流量: 290.91 GB https://bpjc.pics/tg-bpjcc/089edf28d259ccdc867b703f0f151256
+可用流量: 593.65 GB https://bpjc.pics/tg-bpjcc/9157688046c81e61919c2f35ac3c9d2d
+可用流量: 990836.82 GB https://waifu.kurumi.biz.id/sub/VG9raXNha2lrdXJ1bWksMTc1ODk3NDI4NA4Jov3b4Z7y
 
 -- sub_list --
 
-https://bpjc.pics/tg-bpjcc/9157688046c81e61919c2f35ac3c9d2d
 https://bpjc.pics/tg-bpjcc/089edf28d259ccdc867b703f0f151256
-https://fanyun.pro/api/v1/client/subscribe?token=af27fb8e944a5e2a66ec3c817f51229d
+https://bpjc.pics/tg-bpjcc/9157688046c81e61919c2f35ac3c9d2d
 https://waifu.kurumi.biz.id/sub/VG9raXNha2lrdXJ1bWksMTc1ODk3NDI4NA4Jov3b4Z7y
