@@ -1,23 +1,21 @@
 -- play_list --
 
-可用流量: 559.53 GB https://bpjc.pics/tg-bpjcc/9157688046c81e61919c2f35ac3c9d2d
-可用流量: 276.01 GB https://bpjc.pics/tg-bpjcc/089edf28d259ccdc867b703f0f151256
-可用流量: 988137.03 GB https://waifu.kurumi.biz.id/sub/VG9raXNha2lrdXJ1bWksMTc1ODk3NDI4NA4Jov3b4Z7y
-可用流量: 1209.77 GB https://sub.dmit.dpdns.org/share/sub/dingyue_Center_1016?token=yu_kpJSRmPEykr7XlvAeh
-可用流量: 123.82 GB https://tipk.yukihasu.top/sub/yukihasu?token=49210db28e3e382d0301544f7834a93a
-可用流量: 55.11 GB https://msub.xn--bwwx30f.top/api/v1/client/subscribe?token=c6fbf0b7ddad71011f342130f8a9e34f
-可用流量: 420.56 GB https://no10-svip.urlapi-dodo.cyou/s?t=d90890b381277d675fc1469ac14a2641
-可用流量: 47.43 GB https://gqas.yukihasu.top/sub/yukihasu?token=c5fb837fe4b9aeaf14881328bd38c7bb
-可用流量: 747.71 GB https://fanyun.pro/api/v1/client/subscribe?token=af27fb8e944a5e2a66ec3c817f51229d
+可用流量: 403.28 GB https://no10-svip.urlapi-dodo.cyou/s?t=d90890b381277d675fc1469ac14a2641
+可用流量: 988086.53 GB https://waifu.kurumi.biz.id/sub/VG9raXNha2lrdXJ1bWksMTc1ODk3NDI4NA4Jov3b4Z7y
+可用流量: 122.99 GB https://tipk.yukihasu.top/sub/yukihasu?token=49210db28e3e382d0301544f7834a93a
+可用流量: 51.13 GB https://msub.xn--bwwx30f.top/api/v1/client/subscribe?token=c6fbf0b7ddad71011f342130f8a9e34f
+可用流量: 559.38 GB https://bpjc.pics/tg-bpjcc/9157688046c81e61919c2f35ac3c9d2d
+可用流量: 276.0 GB https://bpjc.pics/tg-bpjcc/089edf28d259ccdc867b703f0f151256
+可用流量: 1200.91 GB https://sub.dmit.dpdns.org/share/sub/dingyue_Center_1016?token=yu_kpJSRmPEykr7XlvAeh
+可用流量: 47.26 GB https://gqas.yukihasu.top/sub/yukihasu?token=c5fb837fe4b9aeaf14881328bd38c7bb
 
 -- sub_list --
 
-https://bpjc.pics/tg-bpjcc/9157688046c81e61919c2f35ac3c9d2d
-https://bpjc.pics/tg-bpjcc/089edf28d259ccdc867b703f0f151256
+https://no10-svip.urlapi-dodo.cyou/s?t=d90890b381277d675fc1469ac14a2641
 https://waifu.kurumi.biz.id/sub/VG9raXNha2lrdXJ1bWksMTc1ODk3NDI4NA4Jov3b4Z7y
-https://sub.dmit.dpdns.org/share/sub/dingyue_Center_1016?token=yu_kpJSRmPEykr7XlvAeh
 https://tipk.yukihasu.top/sub/yukihasu?token=49210db28e3e382d0301544f7834a93a
 https://msub.xn--bwwx30f.top/api/v1/client/subscribe?token=c6fbf0b7ddad71011f342130f8a9e34f
-https://no10-svip.urlapi-dodo.cyou/s?t=d90890b381277d675fc1469ac14a2641
+https://bpjc.pics/tg-bpjcc/9157688046c81e61919c2f35ac3c9d2d
+https://bpjc.pics/tg-bpjcc/089edf28d259ccdc867b703f0f151256
+https://sub.dmit.dpdns.org/share/sub/dingyue_Center_1016?token=yu_kpJSRmPEykr7XlvAeh
 https://gqas.yukihasu.top/sub/yukihasu?token=c5fb837fe4b9aeaf14881328bd38c7bb
-https://fanyun.pro/api/v1/client/subscribe?token=af27fb8e944a5e2a66ec3c817f51229d
