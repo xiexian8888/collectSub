@@ -1,19 +1,19 @@
 -- play_list --
 
-可用流量: 10.35 GB https://kad9180.kad520.uk/s/aaae9fce593ac014f932dcb318e225b6
-可用流量: 61.89 GB https://sfj.sufujia.top/api/v1/client/subscribe?token=58a161ff0932cb2e3489eb8499db4ce3
-可用流量: 267.87 GB https://bpjc.pics/tg-bpjcc/089edf28d259ccdc867b703f0f151256
-可用流量: 537.93 GB https://bpjc.pics/tg-bpjcc/9157688046c81e61919c2f35ac3c9d2d
+可用流量: 61.22 GB https://sfj.sufujia.top/api/v1/client/subscribe?token=58a161ff0932cb2e3489eb8499db4ce3
+可用流量: 9999970.62 GB https://shb.tyreo.cn/api/v1/client/subscribe?token=24504b24296578519eb4f6701fafd0c5
+可用流量: 537.58 GB https://bpjc.pics/tg-bpjcc/9157688046c81e61919c2f35ac3c9d2d
+可用流量: 10.2 GB https://kad9180.kad520.uk/s/aaae9fce593ac014f932dcb318e225b6
 可用流量: 79.96 GB https://wocao.su7.me/s/15f75921f58021f06fb6c4ae077eced9
-可用流量: 983771.91 GB https://waifu.kurumi.biz.id/sub/VG9raXNha2lrdXJ1bWksMTc1ODk3NDI4NA4Jov3b4Z7y
-可用流量: 691.89 GB https://fanyun.pro/api/v1/client/subscribe?token=af27fb8e944a5e2a66ec3c817f51229d
+可用流量: 267.76 GB https://bpjc.pics/tg-bpjcc/089edf28d259ccdc867b703f0f151256
+可用流量: 691.64 GB https://fanyun.pro/api/v1/client/subscribe?token=af27fb8e944a5e2a66ec3c817f51229d
 
 -- sub_list --
 
-https://kad9180.kad520.uk/s/aaae9fce593ac014f932dcb318e225b6
 https://sfj.sufujia.top/api/v1/client/subscribe?token=58a161ff0932cb2e3489eb8499db4ce3
-https://bpjc.pics/tg-bpjcc/089edf28d259ccdc867b703f0f151256
+https://shb.tyreo.cn/api/v1/client/subscribe?token=24504b24296578519eb4f6701fafd0c5
 https://bpjc.pics/tg-bpjcc/9157688046c81e61919c2f35ac3c9d2d
+https://kad9180.kad520.uk/s/aaae9fce593ac014f932dcb318e225b6
 https://wocao.su7.me/s/15f75921f58021f06fb6c4ae077eced9
-https://waifu.kurumi.biz.id/sub/VG9raXNha2lrdXJ1bWksMTc1ODk3NDI4NA4Jov3b4Z7y
+https://bpjc.pics/tg-bpjcc/089edf28d259ccdc867b703f0f151256
 https://fanyun.pro/api/v1/client/subscribe?token=af27fb8e944a5e2a66ec3c817f51229d
