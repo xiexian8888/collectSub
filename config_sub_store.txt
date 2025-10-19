@@ -1,19 +1,21 @@
 -- play_list --
 
-可用流量: 533.79 GB https://bpjc.pics/tg-bpjcc/9157688046c81e61919c2f35ac3c9d2d
-可用流量: 259.16 GB https://bpjc.pics/tg-bpjcc/089edf28d259ccdc867b703f0f151256
-可用流量: 58.91 GB https://sfj.sufujia.top/api/v1/client/subscribe?token=58a161ff0932cb2e3489eb8499db4ce3
-可用流量: 9999925.74 GB https://shb.tyreo.cn/api/v1/client/subscribe?token=24504b24296578519eb4f6701fafd0c5
-可用流量: 981429.12 GB https://waifu.kurumi.biz.id/sub/VG9raXNha2lrdXJ1bWksMTc1ODk3NDI4NA4Jov3b4Z7y
+可用流量: 9999925.33 GB https://shb.tyreo.cn/api/v1/client/subscribe?token=24504b24296578519eb4f6701fafd0c5
 可用流量: 77.37 GB https://wocao.su7.me/s/15f75921f58021f06fb6c4ae077eced9
-可用流量: 1.49 GB https://kad9180.kad520.uk/s/aaae9fce593ac014f932dcb318e225b6
+可用流量: 259.13 GB https://bpjc.pics/tg-bpjcc/089edf28d259ccdc867b703f0f151256
+可用流量: 533.79 GB https://bpjc.pics/tg-bpjcc/9157688046c81e61919c2f35ac3c9d2d
+可用流量: 58.89 GB https://sfj.sufujia.top/api/v1/client/subscribe?token=58a161ff0932cb2e3489eb8499db4ce3
+可用流量: 149.98 GB https://cf02.magic993.cfd/api/v1/client/subscribe?token=d2625dfb4c9dde24cc7a70239b88f3f9
+可用流量: 0.62 GB https://kad9180.kad520.uk/s/aaae9fce593ac014f932dcb318e225b6
+可用流量: 981371.38 GB https://waifu.kurumi.biz.id/sub/VG9raXNha2lrdXJ1bWksMTc1ODk3NDI4NA4Jov3b4Z7y
 
 -- sub_list --
 
-https://bpjc.pics/tg-bpjcc/9157688046c81e61919c2f35ac3c9d2d
-https://bpjc.pics/tg-bpjcc/089edf28d259ccdc867b703f0f151256
-https://sfj.sufujia.top/api/v1/client/subscribe?token=58a161ff0932cb2e3489eb8499db4ce3
 https://shb.tyreo.cn/api/v1/client/subscribe?token=24504b24296578519eb4f6701fafd0c5
-https://waifu.kurumi.biz.id/sub/VG9raXNha2lrdXJ1bWksMTc1ODk3NDI4NA4Jov3b4Z7y
 https://wocao.su7.me/s/15f75921f58021f06fb6c4ae077eced9
+https://bpjc.pics/tg-bpjcc/089edf28d259ccdc867b703f0f151256
+https://bpjc.pics/tg-bpjcc/9157688046c81e61919c2f35ac3c9d2d
+https://sfj.sufujia.top/api/v1/client/subscribe?token=58a161ff0932cb2e3489eb8499db4ce3
+https://cf02.magic993.cfd/api/v1/client/subscribe?token=d2625dfb4c9dde24cc7a70239b88f3f9
 https://kad9180.kad520.uk/s/aaae9fce593ac014f932dcb318e225b6
+https://waifu.kurumi.biz.id/sub/VG9raXNha2lrdXJ1bWksMTc1ODk3NDI4NA4Jov3b4Z7y
