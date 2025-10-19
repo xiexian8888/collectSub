@@ -1,19 +1,17 @@
 -- play_list --
 
-可用流量: 58.84 GB https://sfj.sufujia.top/api/v1/client/subscribe?token=58a161ff0932cb2e3489eb8499db4ce3
-可用流量: 9999923.96 GB https://shb.tyreo.cn/api/v1/client/subscribe?token=24504b24296578519eb4f6701fafd0c5
-可用流量: 98.0 GB https://cf02.magic993.cfd/api/v1/client/subscribe?token=d2625dfb4c9dde24cc7a70239b88f3f9
-可用流量: 258.72 GB https://bpjc.pics/tg-bpjcc/089edf28d259ccdc867b703f0f151256
-可用流量: 533.6 GB https://bpjc.pics/tg-bpjcc/9157688046c81e61919c2f35ac3c9d2d
-可用流量: 981138.0 GB https://waifu.kurumi.biz.id/sub/VG9raXNha2lrdXJ1bWksMTc1ODk3NDI4NA4Jov3b4Z7y
+可用流量: 533.56 GB https://bpjc.pics/tg-bpjcc/9157688046c81e61919c2f35ac3c9d2d
+可用流量: 258.7 GB https://bpjc.pics/tg-bpjcc/089edf28d259ccdc867b703f0f151256
 可用流量: 77.36 GB https://wocao.su7.me/s/15f75921f58021f06fb6c4ae077eced9
+可用流量: 9999923.4 GB https://shb.tyreo.cn/api/v1/client/subscribe?token=24504b24296578519eb4f6701fafd0c5
+可用流量: 58.82 GB https://sfj.sufujia.top/api/v1/client/subscribe?token=58a161ff0932cb2e3489eb8499db4ce3
+可用流量: 85.76 GB https://cf02.magic993.cfd/api/v1/client/subscribe?token=d2625dfb4c9dde24cc7a70239b88f3f9
 
 -- sub_list --
 
-https://sfj.sufujia.top/api/v1/client/subscribe?token=58a161ff0932cb2e3489eb8499db4ce3
-https://shb.tyreo.cn/api/v1/client/subscribe?token=24504b24296578519eb4f6701fafd0c5
-https://cf02.magic993.cfd/api/v1/client/subscribe?token=d2625dfb4c9dde24cc7a70239b88f3f9
-https://bpjc.pics/tg-bpjcc/089edf28d259ccdc867b703f0f151256
 https://bpjc.pics/tg-bpjcc/9157688046c81e61919c2f35ac3c9d2d
-https://waifu.kurumi.biz.id/sub/VG9raXNha2lrdXJ1bWksMTc1ODk3NDI4NA4Jov3b4Z7y
+https://bpjc.pics/tg-bpjcc/089edf28d259ccdc867b703f0f151256
 https://wocao.su7.me/s/15f75921f58021f06fb6c4ae077eced9
+https://shb.tyreo.cn/api/v1/client/subscribe?token=24504b24296578519eb4f6701fafd0c5
+https://sfj.sufujia.top/api/v1/client/subscribe?token=58a161ff0932cb2e3489eb8499db4ce3
+https://cf02.magic993.cfd/api/v1/client/subscribe?token=d2625dfb4c9dde24cc7a70239b88f3f9
