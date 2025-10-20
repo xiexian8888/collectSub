@@ -1,29 +1,23 @@
 -- play_list --
 
-可用流量: 49.61 GB https://sfj.sufujia.top/api/v1/client/subscribe?token=58a161ff0932cb2e3489eb8499db4ce3
-可用流量: 9999874.54 GB https://shb.tyreo.cn/api/v1/client/subscribe?token=24504b24296578519eb4f6701fafd0c5
 可用流量: 238.16 GB https://acck.364685.xyz:2098/sub/hFcQIBKw
-可用流量: 381.78 GB https://sub.xn--9kqy68chx3a.shop/s/83020dfa7e19e7952f0e9dbb4c0d4e07
+可用流量: 49.6 GB https://sfj.sufujia.top/api/v1/client/subscribe?token=58a161ff0932cb2e3489eb8499db4ce3
 可用流量: 171798681.59 GB https://bujidao.cc/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
-可用流量: 466.42 GB https://sub.xn--9kqy68chx3a.shop/s/2d8c61c232bc83a9e6d2b889831b7454
-可用流量: 171798681.59 GB https://sub.bujidao.org/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
-可用流量: 977783.46 GB https://waifu.kurumi.biz.id/sub/VG9raXNha2lrdXJ1bWksMTc1ODk3NDI4NA4Jov3b4Z7y
 可用流量: 69.97 GB https://wocao.su7.me/s/15f75921f58021f06fb6c4ae077eced9
-可用流量: 666.0 GB https://sub.dmit.dpdns.org/share/sub/dingyue_Center_zyfx6?token=nYOnpm3ex2RfwwgBK9RFY
-可用流量: 510.68 GB https://bpjc.pics/tg-bpjcc/9157688046c81e61919c2f35ac3c9d2d
-可用流量: 256.99 GB https://bpjc.pics/tg-bpjcc/089edf28d259ccdc867b703f0f151256
+可用流量: 171798681.59 GB https://sub.bujidao.org/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
+可用流量: 9999872.88 GB https://shb.tyreo.cn/api/v1/client/subscribe?token=24504b24296578519eb4f6701fafd0c5
+可用流量: 508.23 GB https://bpjc.pics/tg-bpjcc/9157688046c81e61919c2f35ac3c9d2d
+可用流量: 256.98 GB https://bpjc.pics/tg-bpjcc/089edf28d259ccdc867b703f0f151256
+可用流量: 977727.55 GB https://waifu.kurumi.biz.id/sub/VG9raXNha2lrdXJ1bWksMTc1ODk3NDI4NA4Jov3b4Z7y
 
 -- sub_list --
 
-https://sfj.sufujia.top/api/v1/client/subscribe?token=58a161ff0932cb2e3489eb8499db4ce3
-https://shb.tyreo.cn/api/v1/client/subscribe?token=24504b24296578519eb4f6701fafd0c5
 https://acck.364685.xyz:2098/sub/hFcQIBKw
-https://sub.xn--9kqy68chx3a.shop/s/83020dfa7e19e7952f0e9dbb4c0d4e07
+https://sfj.sufujia.top/api/v1/client/subscribe?token=58a161ff0932cb2e3489eb8499db4ce3
 https://bujidao.cc/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
-https://sub.xn--9kqy68chx3a.shop/s/2d8c61c232bc83a9e6d2b889831b7454
-https://sub.bujidao.org/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
-https://waifu.kurumi.biz.id/sub/VG9raXNha2lrdXJ1bWksMTc1ODk3NDI4NA4Jov3b4Z7y
 https://wocao.su7.me/s/15f75921f58021f06fb6c4ae077eced9
-https://sub.dmit.dpdns.org/share/sub/dingyue_Center_zyfx6?token=nYOnpm3ex2RfwwgBK9RFY
+https://sub.bujidao.org/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
+https://shb.tyreo.cn/api/v1/client/subscribe?token=24504b24296578519eb4f6701fafd0c5
 https://bpjc.pics/tg-bpjcc/9157688046c81e61919c2f35ac3c9d2d
 https://bpjc.pics/tg-bpjcc/089edf28d259ccdc867b703f0f151256
+https://waifu.kurumi.biz.id/sub/VG9raXNha2lrdXJ1bWksMTc1ODk3NDI4NA4Jov3b4Z7y
