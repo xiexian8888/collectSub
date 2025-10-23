@@ -4,7 +4,6 @@
 https://asa.lol/api/v1/client/subscribe?token=4d472f508b06f985da952d6a46d746d1
 https://pqjc.site/api/v1/client/subscribe?token=0e989ae0ccd5dcc084e988d37e3cf40c
 https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
 https://xn--9kq85xcu6b.com/api/v1/client/subscribe?token=fbf1ad75e903da541be210fe4e4593b0
 https://cola.xn--chqu2nzsxv3y.com/api/v1/client/subscribe?token=1a1412046a5696fc9596b737e668d7a5
 https://bujidao.cc/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
@@ -19,11 +18,10 @@ https://1321078938-11mmjf3qkb-hk.scf.tencentcs.com/api/v1/client/subscribe?token
 https://52daishu.uk/api/v1/client/subscribe?token=7ac825032570a917a24257a04a68568a
 https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
 https://xn--cp3a08l.com/api/v1/client/subscribe?token=183024e3b959f005edf06e562319a7b9
-https://api.liltjay.ip-ddns.com/TQWMYCWH2D
-https://kkkkkkk.vvvv.ee/K
-https://sub-free-1.gmkeji.ggff.net/0a1483c03add41eba3cf7c997g03839e
 https://sfj.sufujia.top/api/v1/client/subscribe?token=58a161ff0932cb2e3489eb8499db4ce3
-https://sub.xn--9kqy68chx3a.shop/s/63d1d814920595d8af3855d577cf361c
+https://api.liltjay.ip-ddns.com/TQWMYCWH2D
+https://ooooooo.vvvv.ee/O
+https://sub-free-1.gmkeji.ggff.net/0a1483c03add41eba3cf7c997g03839e
 https://dash.pqjc.site/api/v1/client/subscribe?token=04ce7a1f45da12841da0fa13086fce1f
 https://s1.byte16.com/api/v1/client/subscribe?token=ffc05e97d39d2efbdba15693857014a0
 https://acck.364685.xyz:2098/sub/hFcQIBKw
