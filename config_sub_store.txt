@@ -1,27 +1,25 @@
 -- play_list --
 
-可用流量: 50.47 GB https://xship.top/v1/subscribe?starlink=promax@pY92mSgT_wNH2rxtIM_ZtXsm
-可用流量: 171798681.59 GB https://bujidao.cc/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
-可用流量: 40.0 GB https://ytytytsubs.com/yt?token=f426dfdc3808c4aef7a720401f3f3f85
 可用流量: 171798681.59 GB https://sub.bujidao.org/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
-可用流量: 264.44 GB https://dydvehzxk9gea5hc.subsrr.top/xuexi/study/client/subscribe?token=7fad086627b1411cf5630f2d06145432
-可用流量: 199.62 GB https://api.nylz.xyz/subscribe/e8a1a4d86794b77cf7e3328faf2d7b21
-可用流量: 199.63 GB https://api.nylz.xyz/subscribe/47e52d8ed36d8d77602995feed38b062
-可用流量: 142.02 GB https://dydvehzxk9gea5hc.subsrr.top/xuexi/study/client/subscribe?token=78b44822794aaedf5e99065278c2dece
-可用流量: 666.0 GB https://sub.dmit.dpdns.org/share/sub/dingyue_Center_zyfx6?token=nYOnpm3ex2RfwwgBK9RFY
-可用流量: 9999815.27 GB https://shb.tyreo.cn/api/v1/client/subscribe?token=24504b24296578519eb4f6701fafd0c5
-可用流量: 182.21 GB http://sub.068657.xyz/s/c1d9de5443a0cf0551ca0e6f937ee851
+可用流量: 178.09 GB http://sub.068657.xyz/s/c1d9de5443a0cf0551ca0e6f937ee851
+可用流量: 171798681.59 GB https://bujidao.cc/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
+可用流量: 9999815.12 GB https://shb.tyreo.cn/api/v1/client/subscribe?token=24504b24296578519eb4f6701fafd0c5
+可用流量: 198.64 GB https://api.nylz.xyz/subscribe/47e52d8ed36d8d77602995feed38b062
+可用流量: 198.67 GB https://api.nylz.xyz/subscribe/e8a1a4d86794b77cf7e3328faf2d7b21
+可用流量: 34.0 GB https://ytytytsubs.com/yt?token=f426dfdc3808c4aef7a720401f3f3f85
+可用流量: 22.05 GB https://xship.top/v1/subscribe?starlink=promax@pY92mSgT_wNH2rxtIM_ZtXsm
+可用流量: 263.35 GB https://dydvehzxk9gea5hc.subsrr.top/xuexi/study/client/subscribe?token=7fad086627b1411cf5630f2d06145432
+可用流量: 139.55 GB https://dydvehzxk9gea5hc.subsrr.top/xuexi/study/client/subscribe?token=78b44822794aaedf5e99065278c2dece
 
 -- sub_list --
 
-https://xship.top/v1/subscribe?starlink=promax@pY92mSgT_wNH2rxtIM_ZtXsm
-https://bujidao.cc/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
-https://ytytytsubs.com/yt?token=f426dfdc3808c4aef7a720401f3f3f85
 https://sub.bujidao.org/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
-https://dydvehzxk9gea5hc.subsrr.top/xuexi/study/client/subscribe?token=7fad086627b1411cf5630f2d06145432
-https://api.nylz.xyz/subscribe/e8a1a4d86794b77cf7e3328faf2d7b21
-https://api.nylz.xyz/subscribe/47e52d8ed36d8d77602995feed38b062
-https://dydvehzxk9gea5hc.subsrr.top/xuexi/study/client/subscribe?token=78b44822794aaedf5e99065278c2dece
-https://sub.dmit.dpdns.org/share/sub/dingyue_Center_zyfx6?token=nYOnpm3ex2RfwwgBK9RFY
-https://shb.tyreo.cn/api/v1/client/subscribe?token=24504b24296578519eb4f6701fafd0c5
 http://sub.068657.xyz/s/c1d9de5443a0cf0551ca0e6f937ee851
+https://bujidao.cc/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
+https://shb.tyreo.cn/api/v1/client/subscribe?token=24504b24296578519eb4f6701fafd0c5
+https://api.nylz.xyz/subscribe/47e52d8ed36d8d77602995feed38b062
+https://api.nylz.xyz/subscribe/e8a1a4d86794b77cf7e3328faf2d7b21
+https://ytytytsubs.com/yt?token=f426dfdc3808c4aef7a720401f3f3f85
+https://xship.top/v1/subscribe?starlink=promax@pY92mSgT_wNH2rxtIM_ZtXsm
+https://dydvehzxk9gea5hc.subsrr.top/xuexi/study/client/subscribe?token=7fad086627b1411cf5630f2d06145432
+https://dydvehzxk9gea5hc.subsrr.top/xuexi/study/client/subscribe?token=78b44822794aaedf5e99065278c2dece
