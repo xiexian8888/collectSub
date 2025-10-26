@@ -2,18 +2,18 @@
 
 可用流量: 171798681.59 GB https://bujidao.cc/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
 可用流量: 171798681.59 GB https://sub.bujidao.org/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
-可用流量: 122.94 GB https://api.nylz.xyz/subscribe/e8a1a4d86794b77cf7e3328faf2d7b21
-可用流量: 153.86 GB https://api.nylz.xyz/subscribe/47e52d8ed36d8d77602995feed38b062
+可用流量: 153.7 GB https://api.nylz.xyz/subscribe/47e52d8ed36d8d77602995feed38b062
+可用流量: 121.65 GB https://api.nylz.xyz/subscribe/e8a1a4d86794b77cf7e3328faf2d7b21
 可用流量: 28.61 GB https://kad9180.kad520.uk/s/aaae9fce593ac014f932dcb318e225b6
-可用流量: 9999776.71 GB https://shb.tyreo.cn/api/v1/client/subscribe?token=24504b24296578519eb4f6701fafd0c5
+可用流量: 9999776.56 GB https://shb.tyreo.cn/api/v1/client/subscribe?token=24504b24296578519eb4f6701fafd0c5
 可用流量: 666.0 GB https://sub.dmit.dpdns.org/share/sub/dingyue_Center_zyfx6?token=nYOnpm3ex2RfwwgBK9RFY
 
 -- sub_list --
 
 https://bujidao.cc/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
 https://sub.bujidao.org/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
-https://api.nylz.xyz/subscribe/e8a1a4d86794b77cf7e3328faf2d7b21
 https://api.nylz.xyz/subscribe/47e52d8ed36d8d77602995feed38b062
+https://api.nylz.xyz/subscribe/e8a1a4d86794b77cf7e3328faf2d7b21
 https://kad9180.kad520.uk/s/aaae9fce593ac014f932dcb318e225b6
 https://shb.tyreo.cn/api/v1/client/subscribe?token=24504b24296578519eb4f6701fafd0c5
 https://sub.dmit.dpdns.org/share/sub/dingyue_Center_zyfx6?token=nYOnpm3ex2RfwwgBK9RFY
