@@ -1,15 +1,15 @@
 -- play_list --
 
-可用流量: 132.99 GB https://api.nylz.xyz/subscribe/47e52d8ed36d8d77602995feed38b062
-可用流量: 107.94 GB https://api.nylz.xyz/subscribe/e8a1a4d86794b77cf7e3328faf2d7b21
+可用流量: 132.9 GB https://api.nylz.xyz/subscribe/47e52d8ed36d8d77602995feed38b062
+可用流量: 9999770.16 GB https://shb.tyreo.cn/api/v1/client/subscribe?token=24504b24296578519eb4f6701fafd0c5
 可用流量: 171798681.59 GB https://bujidao.cc/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
-可用流量: 9999771.74 GB https://shb.tyreo.cn/api/v1/client/subscribe?token=24504b24296578519eb4f6701fafd0c5
+可用流量: 105.53 GB https://api.nylz.xyz/subscribe/e8a1a4d86794b77cf7e3328faf2d7b21
 可用流量: 171798681.59 GB https://sub.bujidao.org/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
 
 -- sub_list --
 
 https://api.nylz.xyz/subscribe/47e52d8ed36d8d77602995feed38b062
-https://api.nylz.xyz/subscribe/e8a1a4d86794b77cf7e3328faf2d7b21
-https://bujidao.cc/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
 https://shb.tyreo.cn/api/v1/client/subscribe?token=24504b24296578519eb4f6701fafd0c5
+https://bujidao.cc/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
+https://api.nylz.xyz/subscribe/e8a1a4d86794b77cf7e3328faf2d7b21
 https://sub.bujidao.org/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
