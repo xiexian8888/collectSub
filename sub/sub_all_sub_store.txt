@@ -8,6 +8,7 @@ https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-
 https://api.nylz.xyz/subscribe/e8a1a4d86794b77cf7e3328faf2d7b21
 https://cola.xn--chqu2nzsxv3y.com/api/v1/client/subscribe?token=1a1412046a5696fc9596b737e668d7a5
 https://api.nylz.xyz/subscribe/47e52d8ed36d8d77602995feed38b062
+https://03d.microcloudvm.com/api/v1/client/subscribe?token=a164498513f2f276c4dbd048673f99c2&amp;flag=meta&amp;types=all
 https://bujidao.cc/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
 https://sub.bujidao.org/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
 https://bujidao.cc/sub?key=XOfnIze0b27ESmztFIuLkfwF4XHZ7qSA
@@ -18,16 +19,11 @@ https://bujidao.cc/sub?key=qAmvoST9npYLEgOzq0RMqWhbqBYZoB9D
 https://bujidao.cc/sub?key=KK7BTWJTpqY4bdO6R3qVu0qLWaAn9WRk
 https://1321078938-11mmjf3qkb-hk.scf.tencentcs.com/api/v1/client/subscribe?token=cb1270a6aa0980c4de79b49aad8098f7
 https://52daishu.uk/api/v1/client/subscribe?token=7ac825032570a917a24257a04a68568a
-https://kad9180.kad520.uk/s/aaae9fce593ac014f932dcb318e225b6
 https://abffbd64.jego.vip/subscribe/mihomo/dc86f3052559c8e222d6c2f5e9904578
 https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
 https://xn--cp3a08l.com/api/v1/client/subscribe?token=183024e3b959f005edf06e562319a7b9
-https://sub.xn--9kqy68chx3a.shop/s/9f8ae8700eb15e7e6016be6a270b183d
-https://323d.anyway.best/api/v1/client/subscribe?token=44ac20d0fe32eb9cb5e3f2b65e4c94e1
-https://sub-free-1.gmkeji.ggff.net/0a1483c03add41eba3cf7c997g03839e
 https://sub.xn--9kqy68chx3a.shop/s/63d1d814920595d8af3855d577cf361c
 https://dash.pqjc.site/api/v1/client/subscribe?token=04ce7a1f45da12841da0fa13086fce1f
-https://dydvehzxk9gea5hc.subsrr.top/xuexi/study/client/subscribe?token=7fad086627b1411cf5630f2d06145432
 https://xship.top/v1/subscribe?starlink=ZIXQa-7pg0vPahuyi8bABhob
 https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
 https://xship.top/v1/subscribe?starlink=sH-dNCXpq8RiI_PeL6Mr4lMT
