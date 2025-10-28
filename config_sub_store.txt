@@ -1,17 +1,15 @@
 -- play_list --
 
-可用流量: 171798681.59 GB https://bujidao.cc/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
 可用流量: 89.45 GB https://liangxin.xyz/api/v1/liangxin?OwO=883e99fc03b1bf4d780c8579f4e7abdb
-可用流量: 315.09 GB https://sub.xn--9kqy68chx3a.shop/s/9f8ae8700eb15e7e6016be6a270b183d
-可用流量: 130.17 GB https://api.nylz.xyz/subscribe/47e52d8ed36d8d77602995feed38b062
-可用流量: 51.79 GB https://api.nylz.xyz/subscribe/e8a1a4d86794b77cf7e3328faf2d7b21
+可用流量: 129.74 GB https://api.nylz.xyz/subscribe/47e52d8ed36d8d77602995feed38b062
+可用流量: 171798681.59 GB https://bujidao.cc/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
 可用流量: 171798681.59 GB https://sub.bujidao.org/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
+可用流量: 51.53 GB https://api.nylz.xyz/subscribe/e8a1a4d86794b77cf7e3328faf2d7b21
 
 -- sub_list --
 
-https://bujidao.cc/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
 https://liangxin.xyz/api/v1/liangxin?OwO=883e99fc03b1bf4d780c8579f4e7abdb
-https://sub.xn--9kqy68chx3a.shop/s/9f8ae8700eb15e7e6016be6a270b183d
 https://api.nylz.xyz/subscribe/47e52d8ed36d8d77602995feed38b062
-https://api.nylz.xyz/subscribe/e8a1a4d86794b77cf7e3328faf2d7b21
+https://bujidao.cc/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
 https://sub.bujidao.org/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
+https://api.nylz.xyz/subscribe/e8a1a4d86794b77cf7e3328faf2d7b21
