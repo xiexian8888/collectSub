@@ -1,13 +1,13 @@
 -- play_list --
 
-可用流量: 171798681.59 GB https://bujidao.cc/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
-可用流量: 56.33 GB https://api.nylz.xyz/subscribe/e8a1a4d86794b77cf7e3328faf2d7b21
 可用流量: 171798681.59 GB https://sub.bujidao.org/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
-可用流量: 131.45 GB https://api.nylz.xyz/subscribe/47e52d8ed36d8d77602995feed38b062
+可用流量: 171798681.59 GB https://bujidao.cc/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
+可用流量: 53.85 GB https://api.nylz.xyz/subscribe/e8a1a4d86794b77cf7e3328faf2d7b21
+可用流量: 131.41 GB https://api.nylz.xyz/subscribe/47e52d8ed36d8d77602995feed38b062
 
 -- sub_list --
 
+https://sub.bujidao.org/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
 https://bujidao.cc/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
 https://api.nylz.xyz/subscribe/e8a1a4d86794b77cf7e3328faf2d7b21
-https://sub.bujidao.org/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
 https://api.nylz.xyz/subscribe/47e52d8ed36d8d77602995feed38b062
