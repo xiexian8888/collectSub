@@ -1,13 +1,9 @@
 -- play_list --
 
-可用流量: 126.91 GB https://api.nylz.xyz/subscribe/47e52d8ed36d8d77602995feed38b062
-可用流量: 43.29 GB https://api.nylz.xyz/subscribe/e8a1a4d86794b77cf7e3328faf2d7b21
 可用流量: 89.06 GB https://liangxin.xyz/api/v1/liangxin?OwO=883e99fc03b1bf4d780c8579f4e7abdb
-可用流量: 4927.45 GB https://sub.dmit.dpdns.org/share/sub/dingyue_Center_another?token=73tuVG5vbabLFI-Ga5Feh
+可用流量: 4926.14 GB https://sub.dmit.dpdns.org/share/sub/dingyue_Center_another?token=73tuVG5vbabLFI-Ga5Feh
 
 -- sub_list --
 
-https://api.nylz.xyz/subscribe/47e52d8ed36d8d77602995feed38b062
-https://api.nylz.xyz/subscribe/e8a1a4d86794b77cf7e3328faf2d7b21
 https://liangxin.xyz/api/v1/liangxin?OwO=883e99fc03b1bf4d780c8579f4e7abdb
 https://sub.dmit.dpdns.org/share/sub/dingyue_Center_another?token=73tuVG5vbabLFI-Ga5Feh
