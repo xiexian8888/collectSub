@@ -1,13 +1,13 @@
 -- play_list --
 
+可用流量: 2640.87 GB https://sub.dmit.dpdns.org/share/sub/dingyue_Center_flyintpro?token=hPFPD1CJ4LnHR_SUhPsG3
 可用流量: 89.06 GB https://liangxin.xyz/api/v1/liangxin?OwO=883e99fc03b1bf4d780c8579f4e7abdb
-可用流量: 4721.02 GB https://sub.dmit.dpdns.org/share/sub/dingyue_Center_another?token=73tuVG5vbabLFI-Ga5Feh
-可用流量: 2944.51 GB https://sub.dmit.dpdns.org/share/sub/dingyue_Center_flyintpro?token=hPFPD1CJ4LnHR_SUhPsG3
-可用流量: 648.18 GB https://pavo.eu.org/api/v1/client/subscribe?token=2493aca73cd8d76163e2d6639e899bf9
+可用流量: 647.16 GB https://pavo.eu.org/api/v1/client/subscribe?token=2493aca73cd8d76163e2d6639e899bf9
+可用流量: 4704.12 GB https://sub.dmit.dpdns.org/share/sub/dingyue_Center_another?token=73tuVG5vbabLFI-Ga5Feh
 
 -- sub_list --
 
-https://liangxin.xyz/api/v1/liangxin?OwO=883e99fc03b1bf4d780c8579f4e7abdb
-https://sub.dmit.dpdns.org/share/sub/dingyue_Center_another?token=73tuVG5vbabLFI-Ga5Feh
 https://sub.dmit.dpdns.org/share/sub/dingyue_Center_flyintpro?token=hPFPD1CJ4LnHR_SUhPsG3
+https://liangxin.xyz/api/v1/liangxin?OwO=883e99fc03b1bf4d780c8579f4e7abdb
 https://pavo.eu.org/api/v1/client/subscribe?token=2493aca73cd8d76163e2d6639e899bf9
+https://sub.dmit.dpdns.org/share/sub/dingyue_Center_another?token=73tuVG5vbabLFI-Ga5Feh
