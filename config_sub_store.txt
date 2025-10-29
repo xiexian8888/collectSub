@@ -1,7 +1,7 @@
 -- play_list --
 
 可用流量: 89.06 GB https://liangxin.xyz/api/v1/liangxin?OwO=883e99fc03b1bf4d780c8579f4e7abdb
-可用流量: 4737.95 GB https://sub.dmit.dpdns.org/share/sub/dingyue_Center_another?token=73tuVG5vbabLFI-Ga5Feh
+可用流量: 4730.35 GB https://sub.dmit.dpdns.org/share/sub/dingyue_Center_another?token=73tuVG5vbabLFI-Ga5Feh
 
 -- sub_list --
 
