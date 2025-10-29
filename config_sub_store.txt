@@ -1,11 +1,11 @@
 -- play_list --
 
+可用流量: 4694.03 GB https://sub.dmit.dpdns.org/share/sub/dingyue_Center_another?token=73tuVG5vbabLFI-Ga5Feh
+可用流量: 541.15 GB https://pavo.eu.org/api/v1/client/subscribe?token=2493aca73cd8d76163e2d6639e899bf9
 可用流量: 89.06 GB https://liangxin.xyz/api/v1/liangxin?OwO=883e99fc03b1bf4d780c8579f4e7abdb
-可用流量: 545.62 GB https://pavo.eu.org/api/v1/client/subscribe?token=2493aca73cd8d76163e2d6639e899bf9
-可用流量: 4694.19 GB https://sub.dmit.dpdns.org/share/sub/dingyue_Center_another?token=73tuVG5vbabLFI-Ga5Feh
 
 -- sub_list --
 
-https://liangxin.xyz/api/v1/liangxin?OwO=883e99fc03b1bf4d780c8579f4e7abdb
-https://pavo.eu.org/api/v1/client/subscribe?token=2493aca73cd8d76163e2d6639e899bf9
 https://sub.dmit.dpdns.org/share/sub/dingyue_Center_another?token=73tuVG5vbabLFI-Ga5Feh
+https://pavo.eu.org/api/v1/client/subscribe?token=2493aca73cd8d76163e2d6639e899bf9
+https://liangxin.xyz/api/v1/liangxin?OwO=883e99fc03b1bf4d780c8579f4e7abdb
