@@ -1,6 +1,6 @@
 -- play_list --
 
-可用流量: 487.05 GB https://pavo.eu.org/api/v1/client/subscribe?token=2493aca73cd8d76163e2d6639e899bf9
+可用流量: 482.34 GB https://pavo.eu.org/api/v1/client/subscribe?token=2493aca73cd8d76163e2d6639e899bf9
 可用流量: 89.06 GB https://liangxin.xyz/api/v1/liangxin?OwO=883e99fc03b1bf4d780c8579f4e7abdb
 
 -- sub_list --
