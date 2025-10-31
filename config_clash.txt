@@ -1,5 +1,5 @@
-https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
+https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 https://QyFCVaUvK.prosubnet02.eu:8443/api/v1/client/910f7cb09bf75df51513075da27539b5
 https://faly8rzti.prosubnet02.eu:8443/api/v1/client/6f58467b2712daad532abff5d5a8aac0
 http://sub.068657.xyz/s/c1d9de5443a0cf0551ca0e6f937ee851
