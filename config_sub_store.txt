@@ -1,17 +1,15 @@
 -- play_list --
 
-可用流量: 63.17 GB https://T5SvMV.prosubnet02.eu:8443/api/v1/client/bd97917149a3dc03cbcdb51e1fefaaeb
-可用流量: 35.6 GB https://faly8rzti.prosubnet02.eu:8443/api/v1/client/6f58467b2712daad532abff5d5a8aac0
-可用流量: 79.88 GB https://3yggFKXtI.prosubnet02.eu:8443/api/v1/client/e49c278c0840ba302312243abcf98885
-可用流量: 46.99 GB https://QyFCVaUvK.prosubnet02.eu:8443/api/v1/client/910f7cb09bf75df51513075da27539b5
-可用流量: 78.07 GB https://E7HlJPJq9z.prosubnet02.eu:8443/api/v1/client/ff0ac5ec00114c7f7de0bf803c16d72f
-可用流量: 4418.65 GB https://sub.dmit.dpdns.org/share/sub/dingyue_Center_another?token=73tuVG5vbabLFI-Ga5Feh
+可用流量: 25.62 GB https://faly8rzti.prosubnet02.eu:8443/api/v1/client/6f58467b2712daad532abff5d5a8aac0
+可用流量: 77.31 GB https://E7HlJPJq9z.prosubnet02.eu:8443/api/v1/client/ff0ac5ec00114c7f7de0bf803c16d72f
+可用流量: 62.27 GB https://T5SvMV.prosubnet02.eu:8443/api/v1/client/bd97917149a3dc03cbcdb51e1fefaaeb
+可用流量: 79.74 GB https://3yggFKXtI.prosubnet02.eu:8443/api/v1/client/e49c278c0840ba302312243abcf98885
+可用流量: 46.73 GB https://QyFCVaUvK.prosubnet02.eu:8443/api/v1/client/910f7cb09bf75df51513075da27539b5
 
 -- sub_list --
 
-https://T5SvMV.prosubnet02.eu:8443/api/v1/client/bd97917149a3dc03cbcdb51e1fefaaeb
 https://faly8rzti.prosubnet02.eu:8443/api/v1/client/6f58467b2712daad532abff5d5a8aac0
+https://E7HlJPJq9z.prosubnet02.eu:8443/api/v1/client/ff0ac5ec00114c7f7de0bf803c16d72f
+https://T5SvMV.prosubnet02.eu:8443/api/v1/client/bd97917149a3dc03cbcdb51e1fefaaeb
 https://3yggFKXtI.prosubnet02.eu:8443/api/v1/client/e49c278c0840ba302312243abcf98885
 https://QyFCVaUvK.prosubnet02.eu:8443/api/v1/client/910f7cb09bf75df51513075da27539b5
-https://E7HlJPJq9z.prosubnet02.eu:8443/api/v1/client/ff0ac5ec00114c7f7de0bf803c16d72f
-https://sub.dmit.dpdns.org/share/sub/dingyue_Center_another?token=73tuVG5vbabLFI-Ga5Feh
