@@ -2,7 +2,7 @@
 
 可用流量: 988.1 GB https://liangxin.xyz/api/v1/liangxin?OwO=444857038ca480dd58e9f15135b48746
 可用流量: 701.51 GB http://xn--mes358alqkxik.com/api/v1/client/subscribe?token=a53a6ec730752fdb2e754f046dcdf030
-可用流量: 4245.48 GB https://sub.dmit.dpdns.org/share/sub/dingyue_Center_another?token=73tuVG5vbabLFI-Ga5Feh
+可用流量: 4243.97 GB https://sub.dmit.dpdns.org/share/sub/dingyue_Center_another?token=73tuVG5vbabLFI-Ga5Feh
 
 -- sub_list --
 
