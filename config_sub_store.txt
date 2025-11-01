@@ -1,17 +1,15 @@
 -- play_list --
 
 可用流量: 701.51 GB http://xn--mes358alqkxik.com/api/v1/client/subscribe?token=a53a6ec730752fdb2e754f046dcdf030
-可用流量: 3.62 GB https://pavo.eu.org/api/v1/client/subscribe?token=2493aca73cd8d76163e2d6639e899bf9
-可用流量: 11.76 GB https://3yggFKXtI.prosubnet02.eu:8443/api/v1/client/e49c278c0840ba302312243abcf98885
-可用流量: 991.14 GB https://liangxin.xyz/api/v1/liangxin?OwO=444857038ca480dd58e9f15135b48746
-可用流量: 14.96 GB https://T5SvMV.prosubnet02.eu:8443/api/v1/client/bd97917149a3dc03cbcdb51e1fefaaeb
-可用流量: 4302.85 GB https://sub.dmit.dpdns.org/share/sub/dingyue_Center_another?token=73tuVG5vbabLFI-Ga5Feh
+可用流量: 990.53 GB https://liangxin.xyz/api/v1/liangxin?OwO=444857038ca480dd58e9f15135b48746
+可用流量: 13.43 GB https://T5SvMV.prosubnet02.eu:8443/api/v1/client/bd97917149a3dc03cbcdb51e1fefaaeb
+可用流量: 4302.06 GB https://sub.dmit.dpdns.org/share/sub/dingyue_Center_another?token=73tuVG5vbabLFI-Ga5Feh
+可用流量: 11.08 GB https://3yggFKXtI.prosubnet02.eu:8443/api/v1/client/e49c278c0840ba302312243abcf98885
 
 -- sub_list --
 
 http://xn--mes358alqkxik.com/api/v1/client/subscribe?token=a53a6ec730752fdb2e754f046dcdf030
-https://pavo.eu.org/api/v1/client/subscribe?token=2493aca73cd8d76163e2d6639e899bf9
-https://3yggFKXtI.prosubnet02.eu:8443/api/v1/client/e49c278c0840ba302312243abcf98885
 https://liangxin.xyz/api/v1/liangxin?OwO=444857038ca480dd58e9f15135b48746
 https://T5SvMV.prosubnet02.eu:8443/api/v1/client/bd97917149a3dc03cbcdb51e1fefaaeb
 https://sub.dmit.dpdns.org/share/sub/dingyue_Center_another?token=73tuVG5vbabLFI-Ga5Feh
+https://3yggFKXtI.prosubnet02.eu:8443/api/v1/client/e49c278c0840ba302312243abcf98885
