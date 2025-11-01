@@ -1,9 +1,9 @@
 -- play_list --
 
-可用流量: 988.1 GB https://liangxin.xyz/api/v1/liangxin?OwO=444857038ca480dd58e9f15135b48746
 可用流量: 701.51 GB http://xn--mes358alqkxik.com/api/v1/client/subscribe?token=a53a6ec730752fdb2e754f046dcdf030
+可用流量: 988.09 GB https://liangxin.xyz/api/v1/liangxin?OwO=444857038ca480dd58e9f15135b48746
 
 -- sub_list --
 
-https://liangxin.xyz/api/v1/liangxin?OwO=444857038ca480dd58e9f15135b48746
 http://xn--mes358alqkxik.com/api/v1/client/subscribe?token=a53a6ec730752fdb2e754f046dcdf030
+https://liangxin.xyz/api/v1/liangxin?OwO=444857038ca480dd58e9f15135b48746
