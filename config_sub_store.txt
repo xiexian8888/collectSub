@@ -1,13 +1,11 @@
 -- play_list --
 
-可用流量: 89.36 GB https://sub.xn--9kqw1xbnu.shop/s/0e431f5a4071fee148f7f7145fef308c
-可用流量: 65.82 GB https://lansecs.oxdtangx.top/api/v1/client/subscribe?token=9cda0023d4c767c99a66b39a3c07be74
-可用流量: 193.16 GB https://web3vpn.xyz/s/YDU0ctQM?target=clash
 可用流量: 95096.93 GB https://dyzk.020318.xyz/?token=d24404a213fc4dd681536826c509e0a1&amp;flag=clash
+可用流量: 65.73 GB https://lansecs.oxdtangx.top/api/v1/client/subscribe?token=9cda0023d4c767c99a66b39a3c07be74
+可用流量: 189.86 GB https://web3vpn.xyz/s/YDU0ctQM?target=clash
 
 -- sub_list --
 
-https://sub.xn--9kqw1xbnu.shop/s/0e431f5a4071fee148f7f7145fef308c
+https://dyzk.020318.xyz/?token=d24404a213fc4dd681536826c509e0a1&amp;flag=clash
 https://lansecs.oxdtangx.top/api/v1/client/subscribe?token=9cda0023d4c767c99a66b39a3c07be74
 https://web3vpn.xyz/s/YDU0ctQM?target=clash
-https://dyzk.020318.xyz/?token=d24404a213fc4dd681536826c509e0a1&amp;flag=clash
