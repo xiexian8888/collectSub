@@ -4,9 +4,7 @@
 https://asa.lol/api/v1/client/subscribe?token=4d472f508b06f985da952d6a46d746d1
 https://pqjc.site/api/v1/client/subscribe?token=0e989ae0ccd5dcc084e988d37e3cf40c
 https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
 https://cola.xn--chqu2nzsxv3y.com/api/v1/client/subscribe?token=1a1412046a5696fc9596b737e668d7a5
-https://web3vpn.xyz/s/YDU0ctQM?target=clash
 https://bujidao.cc/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
 https://sub.bujidao.org/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
 https://bujidao.cc/sub?key=XOfnIze0b27ESmztFIuLkfwF4XHZ7qSA
@@ -22,8 +20,9 @@ https://52daishu.uk/api/v1/client/subscribe?token=7ac825032570a917a24257a04a6856
 https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
 https://xn--cp3a08l.com/api/v1/client/subscribe?token=183024e3b959f005edf06e562319a7b9
 https://pavo.eu.org/api/v1/client/subscribe?token=2493aca73cd8d76163e2d6639e899bf9
-https://dash.pqjc.site/api/v1/client/subscribe?token=04ce7a1f45da12841da0fa13086fce1f
+https://sub.xn--9kqw1xbnu.shop/s/0e431f5a4071fee148f7f7145fef308c
 https://lansecs.oxdtangx.top/api/v1/client/subscribe?token=9cda0023d4c767c99a66b39a3c07be74
+https://dash.pqjc.site/api/v1/client/subscribe?token=04ce7a1f45da12841da0fa13086fce1f
 https://xship.top/v1/subscribe?starlink=ZIXQa-7pg0vPahuyi8bABhob
 https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
 https://xship.top/v1/subscribe?starlink=sH-dNCXpq8RiI_PeL6Mr4lMT
@@ -2608,6 +2607,7 @@ https://sub.xn--9kqu5y58a.com/s/49bf71ee41b397dd2cf93e0f4a73f8a6
 https://sub.xn--9kqu5y58a.com/s/86e4fb0aaa9586eeaf134f6fa19ca5fb
 https://sub.xn--9kqu5y58a.com/s/94744ad176e8a79ffad81f365d6f0b6e
 https://sub.xn--9kqu5y58a.com/s/9e204fe56e2aa0f9c5798fb592eb3b47
+https://sub.xn--9kqw1xbnu.shop/s/0e431f5a4071fee148f7f7145fef308c
 https://sub.xn--9kqy68chx3a.shop/s/63d1d814920595d8af3855d577cf361c
 https://sub.xn--9kqy68chx3a.shop/s/83020dfa7e19e7952f0e9dbb4c0d4e07
 https://sub.xn--9kqy68chx3a.shop/s/9f8ae8700eb15e7e6016be6a270b183d
