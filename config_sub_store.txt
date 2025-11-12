@@ -1,21 +1,19 @@
 -- play_list --
 
-可用流量: 16.02 GB https://sub666.yydzx.xyz/sub/7e6824946da05fd1/clash
-可用流量: 55.59 GB https://dreamlinkc.top/api/v1/client/subscribe?token=11d8ca1411cfa5553fdddf879e8ae905
-可用流量: 95096.93 GB https://dyzk.020318.xyz/?token=d24404a213fc4dd681536826c509e0a1&amp;flag=clash
-可用流量: 53.62 GB https://cc.dreamlinkc.top/api/v1/client/subscribe?token=987b22ff8c11b66ac674ce29491491a9
-可用流量: 628.07 GB https://wanmeiwl1.xyz/gywl/73077e8f162c5cd0b28f693984ce314a
-可用流量: 81.09 GB https://login.yfjc.xyz/api/v1/client/subscribe?token=c26750864f94b0a3b51475c150e5a699
 可用流量: 101373.0 GB https://sub.fuckyou.pp.ua/?url=freenodes
-可用流量: 99.32 GB https://fanyun.pro/api/v1/client/subscribe?token=3e1b63f593750656f25eff48b725084c
+可用流量: 55.33 GB https://dreamlinkc.top/api/v1/client/subscribe?token=11d8ca1411cfa5553fdddf879e8ae905
+可用流量: 95096.93 GB https://dyzk.020318.xyz/?token=d24404a213fc4dd681536826c509e0a1&amp;flag=clash
+可用流量: 81.09 GB https://login.yfjc.xyz/api/v1/client/subscribe?token=c26750864f94b0a3b51475c150e5a699
+可用流量: 14.37 GB https://sub666.yydzx.xyz/sub/7e6824946da05fd1/clash
+可用流量: 53.6 GB https://cc.dreamlinkc.top/api/v1/client/subscribe?token=987b22ff8c11b66ac674ce29491491a9
+可用流量: 621.55 GB https://wanmeiwl1.xyz/gywl/73077e8f162c5cd0b28f693984ce314a
 
 -- sub_list --
 
-https://sub666.yydzx.xyz/sub/7e6824946da05fd1/clash
+https://sub.fuckyou.pp.ua/?url=freenodes
 https://dreamlinkc.top/api/v1/client/subscribe?token=11d8ca1411cfa5553fdddf879e8ae905
 https://dyzk.020318.xyz/?token=d24404a213fc4dd681536826c509e0a1&amp;flag=clash
+https://login.yfjc.xyz/api/v1/client/subscribe?token=c26750864f94b0a3b51475c150e5a699
+https://sub666.yydzx.xyz/sub/7e6824946da05fd1/clash
 https://cc.dreamlinkc.top/api/v1/client/subscribe?token=987b22ff8c11b66ac674ce29491491a9
 https://wanmeiwl1.xyz/gywl/73077e8f162c5cd0b28f693984ce314a
-https://login.yfjc.xyz/api/v1/client/subscribe?token=c26750864f94b0a3b51475c150e5a699
-https://sub.fuckyou.pp.ua/?url=freenodes
-https://fanyun.pro/api/v1/client/subscribe?token=3e1b63f593750656f25eff48b725084c
