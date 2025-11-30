@@ -1,9 +1,9 @@
 -- play_list --
 
-可用流量: 152.0 GB http://162.19.79.201/s/6f9dad2be2e7b42e0c8220da811629ec
 可用流量: 836.41 GB https://xuinibuhuizhenxinleba.v2bp.rest/zuihaodev2/06cdf3da918198ac3914c8044b808d83
+可用流量: 152.0 GB http://162.19.79.201/s/6f9dad2be2e7b42e0c8220da811629ec
 
 -- sub_list --
 
-http://162.19.79.201/s/6f9dad2be2e7b42e0c8220da811629ec
 https://xuinibuhuizhenxinleba.v2bp.rest/zuihaodev2/06cdf3da918198ac3914c8044b808d83
+http://162.19.79.201/s/6f9dad2be2e7b42e0c8220da811629ec
