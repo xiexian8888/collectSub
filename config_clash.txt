@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
-https://rgergergergerg6555.saojc.xyz/api/v1/client/subscribe?token=750810736ea0883ffd61f1b1c416b885
 https://uf.edu.kg/api/v1/client/subscribe?token=909ad0a9fbb15ab087fa1a418f5ea5e3
+https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
+https://rgergergergerg6555.saojc.xyz/api/v1/client/subscribe?token=750810736ea0883ffd61f1b1c416b885
