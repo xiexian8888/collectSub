@@ -1,2 +1,2 @@
-https://api.v2paw.com/client/e5ce425e-0b84-435c-aee5-9f9ecbe2cb16/v2ray
 https://update.glados-config.com/v2ray/446343/7721375f043af8a1
+https://api.v2paw.com/client/e5ce425e-0b84-435c-aee5-9f9ecbe2cb16/v2ray
