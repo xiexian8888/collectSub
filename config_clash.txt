@@ -1,5 +1,5 @@
-https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
+https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 https://gist.github.com/go4sharing/d21555d607e3f395b7568b5f39c4fdd8/raw/99f21be91cb04b55c2d4286478158cee985afbdc/gistfile1.txt
 https://rgergergergerg6555.saojc.xyz/api/v1/client/subscribe?token=750810736ea0883ffd61f1b1c416b885
 https://dash.boboch.it.com/api/v1/client/subscribe?token=ad80a81805cd0af79e5c5174fad26271
