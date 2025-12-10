@@ -1,5 +1,5 @@
-http://sub.068657.xyz/s/c1d9de5443a0cf0551ca0e6f937ee851
 https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
-https://rgergergergerg6555.saojc.xyz/api/v1/client/subscribe?token=750810736ea0883ffd61f1b1c416b885
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
+http://sub.068657.xyz/s/c1d9de5443a0cf0551ca0e6f937ee851
+https://rgergergergerg6555.saojc.xyz/api/v1/client/subscribe?token=750810736ea0883ffd61f1b1c416b885
 https://gist.github.com/go4sharing/d21555d607e3f395b7568b5f39c4fdd8/raw/99f21be91cb04b55c2d4286478158cee985afbdc/gistfile1.txt
