@@ -39,6 +39,7 @@ https://dyzk.020318.xyz/?token=d24404a213fc4dd681536826c509e0a1&amp;flag=meta
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5&amp;freeVPNjd
 https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
+https://xuinibuhuizhenxinleba.v2bp.rest/zuihaodev2/58722c804f31960399115635559b3425
 https://dlo3va.subxly.cfd:8443/api/v1/client/7f5c3ddd47101726d8ed275ca95b2621
 
 
@@ -3589,6 +3590,7 @@ https://xsus.wiki/api/v1/client/subscribe?token=b962a80d0432c2afc094cee132fdb319
 https://xsus.wiki/api/v1/client/subscribe?token=d0bd22a534e76a5eb6aca4f3e60b5af5&amp;flag=clash
 https://xsus.wiki/api/v1/client/subscribe?token=e9a8457ea1b9f3574bab53946d10afbb
 https://xuinibuhuizhenxinleba.v2bp.rest/zuihaodev2/06cdf3da918198ac3914c8044b808d83
+https://xuinibuhuizhenxinleba.v2bp.rest/zuihaodev2/58722c804f31960399115635559b3425
 https://xunlei-api.okay.casa/api/v1/client/subscribe?token=231e6e54ba07861830077f8c590ccc6d
 https://xxjsm.xn--nrqu89ap6f632c.xn--io0a7i/link/mZ67KygLYRg5exiU?clash=1
 https://xxjsm.xn--nrqu89ap6f632c.xn--io0a7i/link/mZ67KygLYRg5exiU?clash=1&amp;26extend=1
