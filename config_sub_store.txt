@@ -1,13 +1,13 @@
 -- play_list --
 
+可用流量: 259.61 GB https://fw0.fwsub.click/api/v1/client/subscribe?token=4fd152c135dae9ea1194e4bdd6ad7369
 可用流量: 996.23 GB https://xuinibuhuizhenxinleba.v2bp.rest/zuihaodev2/58722c804f31960399115635559b3425
-可用流量: 259.95 GB https://fw0.fwsub.click/api/v1/client/subscribe?token=4fd152c135dae9ea1194e4bdd6ad7369
-可用流量: 376.28 GB https://api.apihs.cfd/bpjc?token=ccad9bf64bc299dc2a6af89ff95e560c
 可用流量: 498.76 GB https://api.apihs.cfd/bpjc?token=0da919885df940aedee4f0f69d992279
+可用流量: 376.28 GB https://api.apihs.cfd/bpjc?token=ccad9bf64bc299dc2a6af89ff95e560c
 
 -- sub_list --
 
-https://xuinibuhuizhenxinleba.v2bp.rest/zuihaodev2/58722c804f31960399115635559b3425
 https://fw0.fwsub.click/api/v1/client/subscribe?token=4fd152c135dae9ea1194e4bdd6ad7369
-https://api.apihs.cfd/bpjc?token=ccad9bf64bc299dc2a6af89ff95e560c
+https://xuinibuhuizhenxinleba.v2bp.rest/zuihaodev2/58722c804f31960399115635559b3425
 https://api.apihs.cfd/bpjc?token=0da919885df940aedee4f0f69d992279
+https://api.apihs.cfd/bpjc?token=ccad9bf64bc299dc2a6af89ff95e560c
