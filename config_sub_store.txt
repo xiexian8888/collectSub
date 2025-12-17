@@ -1,11 +1,7 @@
 -- play_list --
 
 可用流量: 95096.93 GB https://dyzk.020318.xyz/?token=d24404a213fc4dd681536826c509e0a1&amp;flag=clash
-可用流量: 498.76 GB https://api.apihs.cfd/bpjc?token=0da919885df940aedee4f0f69d992279
-可用流量: 376.28 GB https://api.apihs.cfd/bpjc?token=ccad9bf64bc299dc2a6af89ff95e560c
 
 -- sub_list --
 
 https://dyzk.020318.xyz/?token=d24404a213fc4dd681536826c509e0a1&amp;flag=clash
-https://api.apihs.cfd/bpjc?token=0da919885df940aedee4f0f69d992279
-https://api.apihs.cfd/bpjc?token=ccad9bf64bc299dc2a6af89ff95e560c
