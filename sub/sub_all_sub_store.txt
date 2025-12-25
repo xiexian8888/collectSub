@@ -22,7 +22,7 @@ https://1321078938-11mmjf3qkb-hk.scf.tencentcs.com/api/v1/client/subscribe?token
 https://52daishu.uk/api/v1/client/subscribe?token=7ac825032570a917a24257a04a68568a
 https://xn--cp3a08l.com/api/v1/client/subscribe?token=183024e3b959f005edf06e562319a7b9
 https://yyds.emovpn.top/api/v1/client/subscribe?token=e3564accfb797578dc8251fc07207abe
-https://sub-free-1.gmkeji.ggff.net/0a1483c03add41eba3cf7c997g03839e
+https://jsjc.cfd/api/v1/client/subscribe?token=41d2cc3da79c5349481197cf934951f1
 https://api.liltjay.ip-ddns.com/TQWMYCWH2D
 https://dash.pqjc.site/api/v1/client/subscribe?token=04ce7a1f45da12841da0fa13086fce1f
 https://m.ssonegame.com/ssone/17f509f496680cc4a18fb72215eb4e80
@@ -1632,6 +1632,7 @@ https://jsjc.cfd/api/v1/client/subscribe?token=004ebb62ab196a9cabb2264b02805572
 https://jsjc.cfd/api/v1/client/subscribe?token=12f4478f2b795e3818a709d36695f4f3
 https://jsjc.cfd/api/v1/client/subscribe?token=35525eaf6c06e963ff478aa5a2d66e23
 https://jsjc.cfd/api/v1/client/subscribe?token=3fec5e3f0a6b55da227778b2616c3f86
+https://jsjc.cfd/api/v1/client/subscribe?token=41d2cc3da79c5349481197cf934951f1
 https://jsjc.cfd/api/v1/client/subscribe?token=431255bc7920f793d7699a38d937b6f9
 https://jsjc.cfd/api/v1/client/subscribe?token=47937e14f4a8d142f73ce62fdcabc8d7
 https://jsjc.cfd/api/v1/client/subscribe?token=47ebed86881bbfd2cd21810284ec0b13
