@@ -5,6 +5,7 @@ https://asa.lol/api/v1/client/subscribe?token=4d472f508b06f985da952d6a46d746d1
 https://pqjc.site/api/v1/client/subscribe?token=0e989ae0ccd5dcc084e988d37e3cf40c
 https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
 https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://knjc.cfd/api/v1/client/subscribe?token=3cfc1f2fdf84c1be6e64fe6e6667ea3e
 https://bujidao.cc/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
 https://sub.bujidao.org/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
 https://bujidao.cc/sub?key=XOfnIze0b27ESmztFIuLkfwF4XHZ7qSA
@@ -22,10 +23,9 @@ https://1321078938-11mmjf3qkb-hk.scf.tencentcs.com/api/v1/client/subscribe?token
 https://52daishu.uk/api/v1/client/subscribe?token=7ac825032570a917a24257a04a68568a
 https://xn--cp3a08l.com/api/v1/client/subscribe?token=183024e3b959f005edf06e562319a7b9
 https://yyds.emovpn.top/api/v1/client/subscribe?token=e3564accfb797578dc8251fc07207abe
-https://jsjc.cfd/api/v1/client/subscribe?token=41d2cc3da79c5349481197cf934951f1
-https://api.liltjay.ip-ddns.com/TQWMYCWH2D
-https://dash.pqjc.site/api/v1/client/subscribe?token=04ce7a1f45da12841da0fa13086fce1f
 https://m.ssonegame.com/ssone/17f509f496680cc4a18fb72215eb4e80
+https://sub-free-1.gmkeji.ggff.net/0a1483c03add41eba3cf7c997g03839e
+https://dash.pqjc.site/api/v1/client/subscribe?token=04ce7a1f45da12841da0fa13086fce1f
 https://xb.788848.xyz/amei/4a2fdf1c34921d705fd8a14b8b1a4104
 https://xship.top/v1/subscribe?starlink=ZIXQa-7pg0vPahuyi8bABhob
 https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
@@ -1663,6 +1663,7 @@ https://kitsch.xn--8stx8olrwkucjq3b.com/api/v1/client/subscribe?token=d71c3c88b3
 https://kkkkkkk.vvvv.ee/K
 https://knjc.cfd/api/v1/client/subscribe?token=19bcb619bab154e205329f7494d2ad65
 https://knjc.cfd/api/v1/client/subscribe?token=2ae2092d0e7a7904fc97606188ee1784
+https://knjc.cfd/api/v1/client/subscribe?token=3cfc1f2fdf84c1be6e64fe6e6667ea3e
 https://knjc.cfd/api/v1/client/subscribe?token=47977e2aa53e08052d400f326c81face
 https://knjc.cfd/api/v1/client/subscribe?token=6b9d5809807e0eab943682f6a80fdc17&amp;flag=meta
 https://knjc.cfd/api/v1/client/subscribe?token=8221adce6e5164126c68190546640c2e
