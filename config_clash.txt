@@ -1,3 +1,0 @@
-https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
-https://knjc.cfd/api/v1/client/subscribe?token=3cfc1f2fdf84c1be6e64fe6e6667ea3e
-https://api.trumpyun1.com/s/0d61c159b39b7d98f4c06b0f1798fd09
