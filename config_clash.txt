@@ -1,6 +1,6 @@
 https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
-https://gist.github.com/go4sharing/256ba0fc8a12ca81e1d556061f8b6fbd/raw/e6a323e04d1d5c66590f2ad7cbf8732382656f8b/gistfile1.txt
 https://gist.github.com/go4sharing/d21555d607e3f395b7568b5f39c4fdd8/raw/99f21be91cb04b55c2d4286478158cee985afbdc/gistfile1.txt
+https://gist.github.com/go4sharing/256ba0fc8a12ca81e1d556061f8b6fbd/raw/e6a323e04d1d5c66590f2ad7cbf8732382656f8b/gistfile1.txt
 https://knjc.cfd/api/v1/client/subscribe?token=3cfc1f2fdf84c1be6e64fe6e6667ea3e
 https://fn.234923.icu/api/v1/client/subscribe?token=8d9e8c6773cd03d15f0d96dbbfef7ba9
