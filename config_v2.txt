@@ -1,3 +1,2 @@
 http://cs.tuz.me
 http://cs.tuz.me/
-https://su.cokecloudpass.com:8888/api/v1/client/subscribe?token=3eb45db76446bad0b1bf3fd33902e687
