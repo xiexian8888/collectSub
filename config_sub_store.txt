@@ -1,11 +1,7 @@
 -- play_list --
 
-可用流量: 180.29 GB https://conf1.hokkaido-toyoni.com/oosaka/f1a35329bfb7e74d44a399f4bdf5f59b
-可用流量: 299980.3 GB https://gggh.huangshang.online/obiGMPvI5Ia/98b419ef-83a2-4d1b-a23d-566b7f24477b/#default
-可用流量: 299835.18 GB https://hhhhhhhhj.191266.xyz/WFyGCV2kJQvjXnxbsFuJG6WRyjLAVp/2bfe58f7-da1d-45df-ab43-7c665b20ee29/#default
+可用流量: 126.52 GB https://conf1.hokkaido-toyoni.com/oosaka/f1a35329bfb7e74d44a399f4bdf5f59b
 
 -- sub_list --
 
 https://conf1.hokkaido-toyoni.com/oosaka/f1a35329bfb7e74d44a399f4bdf5f59b
-https://gggh.huangshang.online/obiGMPvI5Ia/98b419ef-83a2-4d1b-a23d-566b7f24477b/#default
-https://hhhhhhhhj.191266.xyz/WFyGCV2kJQvjXnxbsFuJG6WRyjLAVp/2bfe58f7-da1d-45df-ab43-7c665b20ee29/#default
