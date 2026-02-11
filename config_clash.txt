@@ -1,5 +1,5 @@
-https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
+https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 https://conf1.hokkaido-toyoni.com/oosaka/f1a35329bfb7e74d44a399f4bdf5f59b
 https://proxypool.dmit.dpdns.org/clash/proxies
 https://proxypool.dmit.dpdns.org/clash/proxies?c=CN,HK,TW,SG,JP,KR,VN&amp;speed=1&amp;type=ss
