@@ -1,13 +1,11 @@
 -- play_list --
 
-可用流量: 298374.15 GB https://fghy.00890604.xyz/mDBFBmyGxAzu8QZ94DX297Io/f063dee0-f33c-4e6c-83f9-4d884b62ba9e/#default
-可用流量: 292978.73 GB https://vvbghy.huangshang.online/ntZJbsxkTw3Ucot/4115f84d-3b03-4b03-babf-21b36b2f9c03/#default
-可用流量: 296087.68 GB https://bbghy.00890604.xyz/KqGqWdzg40wm4Sycs/827beb2a-f97a-4b23-b733-adef30c98e17/#default
-可用流量: 295504.36 GB https://6c00bf1f-a569-4d54-9f71-a13611801867.661.qzz.io/ftOUNtAsaDDsA929iIXtwzt/0c6b96bc-5e3a-4500-8497-6dead1965609/#default
+可用流量: 292975.49 GB https://vvbghy.huangshang.online/ntZJbsxkTw3Ucot/4115f84d-3b03-4b03-babf-21b36b2f9c03/#default
+可用流量: 296087.59 GB https://bbghy.00890604.xyz/KqGqWdzg40wm4Sycs/827beb2a-f97a-4b23-b733-adef30c98e17/#default
+可用流量: 298373.5 GB https://fghy.00890604.xyz/mDBFBmyGxAzu8QZ94DX297Io/f063dee0-f33c-4e6c-83f9-4d884b62ba9e/#default
 
 -- sub_list --
 
-https://fghy.00890604.xyz/mDBFBmyGxAzu8QZ94DX297Io/f063dee0-f33c-4e6c-83f9-4d884b62ba9e/#default
 https://vvbghy.huangshang.online/ntZJbsxkTw3Ucot/4115f84d-3b03-4b03-babf-21b36b2f9c03/#default
 https://bbghy.00890604.xyz/KqGqWdzg40wm4Sycs/827beb2a-f97a-4b23-b733-adef30c98e17/#default
-https://6c00bf1f-a569-4d54-9f71-a13611801867.661.qzz.io/ftOUNtAsaDDsA929iIXtwzt/0c6b96bc-5e3a-4500-8497-6dead1965609/#default
+https://fghy.00890604.xyz/mDBFBmyGxAzu8QZ94DX297Io/f063dee0-f33c-4e6c-83f9-4d884b62ba9e/#default
