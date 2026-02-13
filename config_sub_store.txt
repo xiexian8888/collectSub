@@ -1,11 +1,11 @@
 -- play_list --
 
-可用流量: 25.04 GB https://yfjc.xyz/api/v1/client/subscribe?token=2ac90b3e8b7e5f9838eaab831adba36f
-可用流量: 299997.62 GB https://tg.apocalypse.cc.cd/tybDz93dD50A9J5pJAXNBiKr/13ad36e6-c091-43f2-8505-47d868dd544c/#default
-可用流量: 296079.42 GB https://bbghy.00890604.xyz/KqGqWdzg40wm4Sycs/827beb2a-f97a-4b23-b733-adef30c98e17/#default
+可用流量: 24.24 GB https://yfjc.xyz/api/v1/client/subscribe?token=2ac90b3e8b7e5f9838eaab831adba36f
+可用流量: 296079.18 GB https://bbghy.00890604.xyz/KqGqWdzg40wm4Sycs/827beb2a-f97a-4b23-b733-adef30c98e17/#default
+可用流量: 298339.44 GB https://fghy.00890604.xyz/mDBFBmyGxAzu8QZ94DX297Io/f063dee0-f33c-4e6c-83f9-4d884b62ba9e/#default
 
 -- sub_list --
 
 https://yfjc.xyz/api/v1/client/subscribe?token=2ac90b3e8b7e5f9838eaab831adba36f
-https://tg.apocalypse.cc.cd/tybDz93dD50A9J5pJAXNBiKr/13ad36e6-c091-43f2-8505-47d868dd544c/#default
 https://bbghy.00890604.xyz/KqGqWdzg40wm4Sycs/827beb2a-f97a-4b23-b733-adef30c98e17/#default
+https://fghy.00890604.xyz/mDBFBmyGxAzu8QZ94DX297Io/f063dee0-f33c-4e6c-83f9-4d884b62ba9e/#default
