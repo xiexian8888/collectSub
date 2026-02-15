@@ -1,17 +1,11 @@
 -- play_list --
 
 可用流量: 24.24 GB https://yfjc.xyz/api/v1/client/subscribe?token=2ac90b3e8b7e5f9838eaab831adba36f
-可用流量: 298088.83 GB https://fghy.00890604.xyz/mDBFBmyGxAzu8QZ94DX297Io/f063dee0-f33c-4e6c-83f9-4d884b62ba9e/#default
-可用流量: 296056.5 GB https://bbghy.00890604.xyz/KqGqWdzg40wm4Sycs/827beb2a-f97a-4b23-b733-adef30c98e17/#default
-可用流量: 299831.63 GB https://bnm.222560.xyz/XTmI8q8CdxH/fb3e7204-949c-4e44-a22e-e02e3c27b251/#default
-可用流量: 287597.23 GB https://gggh.huangshang.online/obiGMPvI5Ia/98b419ef-83a2-4d1b-a23d-566b7f24477b/#default
-可用流量: 291141.55 GB https://nnnnnmj.huangshang.site/FupqWTkts7sLS5gSw6DEIocjOdkC/5196aae7-1479-4f3c-978b-68e74977b509/#default
+可用流量: 290907.0 GB https://vvbghy.huangshang.online/ntZJbsxkTw3Ucot/4115f84d-3b03-4b03-babf-21b36b2f9c03/#default
+可用流量: 287046.36 GB https://fffffg.890602.pp.ua/qwodKxO7K0pBR/4a7baca1-8048-4a91-8316-595b36657a54/#default
 
 -- sub_list --
 
 https://yfjc.xyz/api/v1/client/subscribe?token=2ac90b3e8b7e5f9838eaab831adba36f
-https://fghy.00890604.xyz/mDBFBmyGxAzu8QZ94DX297Io/f063dee0-f33c-4e6c-83f9-4d884b62ba9e/#default
-https://bbghy.00890604.xyz/KqGqWdzg40wm4Sycs/827beb2a-f97a-4b23-b733-adef30c98e17/#default
-https://bnm.222560.xyz/XTmI8q8CdxH/fb3e7204-949c-4e44-a22e-e02e3c27b251/#default
-https://gggh.huangshang.online/obiGMPvI5Ia/98b419ef-83a2-4d1b-a23d-566b7f24477b/#default
-https://nnnnnmj.huangshang.site/FupqWTkts7sLS5gSw6DEIocjOdkC/5196aae7-1479-4f3c-978b-68e74977b509/#default
+https://vvbghy.huangshang.online/ntZJbsxkTw3Ucot/4115f84d-3b03-4b03-babf-21b36b2f9c03/#default
+https://fffffg.890602.pp.ua/qwodKxO7K0pBR/4a7baca1-8048-4a91-8316-595b36657a54/#default
