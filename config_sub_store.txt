@@ -1,11 +1,9 @@
 -- play_list --
 
 可用流量: 24.24 GB https://yfjc.xyz/api/v1/client/subscribe?token=2ac90b3e8b7e5f9838eaab831adba36f
-可用流量: 296054.42 GB https://bbghy.00890604.xyz/KqGqWdzg40wm4Sycs/827beb2a-f97a-4b23-b733-adef30c98e17/#default
-可用流量: 298058.96 GB https://fghy.00890604.xyz/mDBFBmyGxAzu8QZ94DX297Io/f063dee0-f33c-4e6c-83f9-4d884b62ba9e/#default
+可用流量: 296054.41 GB https://bbghy.00890604.xyz/KqGqWdzg40wm4Sycs/827beb2a-f97a-4b23-b733-adef30c98e17/#default
 
 -- sub_list --
 
 https://yfjc.xyz/api/v1/client/subscribe?token=2ac90b3e8b7e5f9838eaab831adba36f
 https://bbghy.00890604.xyz/KqGqWdzg40wm4Sycs/827beb2a-f97a-4b23-b733-adef30c98e17/#default
-https://fghy.00890604.xyz/mDBFBmyGxAzu8QZ94DX297Io/f063dee0-f33c-4e6c-83f9-4d884b62ba9e/#default
