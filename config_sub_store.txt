@@ -1,11 +1,11 @@
 -- play_list --
 
-可用流量: 9977.6 GB https://mcp.dpenly.org/api/v1/client/subscribe?token=f32400ea14dd244836696c67319100dd
 可用流量: 7036.03 GB https://mcp.dpenly.org/api/v1/client/subscribe?token=568cd289d2e89cb763c021a193d30869
-可用流量: 33.8 GB https://subscribe002.awsy.top/subscribego/65c6b8839c2bab8db2310b39dc200b01
+可用流量: 9977.6 GB https://mcp.dpenly.org/api/v1/client/subscribe?token=f32400ea14dd244836696c67319100dd
+可用流量: 20.11 GB https://subscribe002.awsy.top/subscribego/65c6b8839c2bab8db2310b39dc200b01
 
 -- sub_list --
 
-https://mcp.dpenly.org/api/v1/client/subscribe?token=f32400ea14dd244836696c67319100dd
 https://mcp.dpenly.org/api/v1/client/subscribe?token=568cd289d2e89cb763c021a193d30869
+https://mcp.dpenly.org/api/v1/client/subscribe?token=f32400ea14dd244836696c67319100dd
 https://subscribe002.awsy.top/subscribego/65c6b8839c2bab8db2310b39dc200b01
