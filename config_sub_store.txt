@@ -1,6 +1,6 @@
 -- play_list --
 
-可用流量: 762.83 GB https://ktm001.top/api/v1/client/subscribe?token=bbe0986ab831f1e21c3f02d79476c6de
+可用流量: 696.9 GB https://ktm001.top/api/v1/client/subscribe?token=bbe0986ab831f1e21c3f02d79476c6de
 
 -- sub_list --
 
