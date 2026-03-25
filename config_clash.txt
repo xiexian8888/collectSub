@@ -1,5 +1,5 @@
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
-https://gist.github.com/go4sharing/00a43d059ef6cfd254fc619a565ef82b/raw/ec08a227887ff656d34c7c6a2988d1dcc3005a96/gistfile1.txt
 https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 https://subscribe002.awsy.top/subscribego/65c6b8839c2bab8db2310b39dc200b01
+https://gist.github.com/go4sharing/00a43d059ef6cfd254fc619a565ef82b/raw/ec08a227887ff656d34c7c6a2988d1dcc3005a96/gistfile1.txt
 https://proxypool.dmit.dpdns.org/clash/proxies
