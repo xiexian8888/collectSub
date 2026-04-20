@@ -1,7 +1,6 @@
 -- play_list --
 
-可用流量: 14877.98 GB https://v.vivia.cc.cd/A
+
 
 -- sub_list --
 
-https://v.vivia.cc.cd/A
