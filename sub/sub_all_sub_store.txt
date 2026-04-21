@@ -3,8 +3,8 @@
 
 https://update.glados-config.com/clash/453205/fa870f5/25488/glados.yaml
 https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
-https://v.vivia.cc.cd/A
 https://repzt3P1yq.qinyues4.cc/b9a2764314df60c151fbd511f37a1b82
+https://eddy1.snow00.us/api/v1/client/subscribe?token=4f7b5c11fab02db3472459c9f3228ecb
 https://bujidao.cc/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
 https://sub.bujidao.org/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
 https://bujidao.cc/sub?key=XOfnIze0b27ESmztFIuLkfwF4XHZ7qSA
@@ -17,6 +17,7 @@ https://zero.76898102.xyz/link/CsElTBN1F3RqmjjQ?list=shadowrocket
 https://zero.76898102.xyz/link/T0MDjg1bJK13JKbv?list=shadowrocket
 https://zero.76898102.xyz/link/VJ93O5K98PneMoAA?list=shadowrocket
 https://zero.76898102.xyz/link/tm3RQPCHyZNqnEjg?list=shadowrocket
+https://v.vivia.cc.cd/A
 https://s1.byte33.com/api/v1/client/subscribe?token=7d2e38c590841973fed71ac88d086b47
 https://xship.top/v1/subscribe?starlink=ZIXQa-7pg0vPahuyi8bABhob
 https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
@@ -1311,6 +1312,7 @@ https://dyzk.020318.xyz/?token=d24404a213fc4dd681536826c509e0a1&amp;flag=meta
 https://dzpd.jiedianxielou.workers.dev/?clash=1
 https://dzpd.jiedianxielou.workers.dev/api/v1/client/subscribe?token=bf64cd2b19ee10e66068fd94e335af79
 https://e1452652-32ee-b946-e3e7-d9be7070058e.buou.lol/api/buou?token=2bfe4e74a329a59174e1c842ff9129b7
+https://eddy1.snow00.us/api/v1/client/subscribe?token=4f7b5c11fab02db3472459c9f3228ecb
 https://edu.dianping.men/iv/verify_mode.htm?token=daaad892792bcfc3b31a62a66c7ffe88
 https://edu.kuaifaka.me/api/v1/client/subscribe?token=f413cbcee9052e32bd1ad7a1f6178d4b
 https://ee7b114b-2dff-4e9d-b427-4d1c2ac2e12f.fengchenginx.com/api/v1/client/subscribe?token=fe66c6cf711470799a0db2ec52e94096
