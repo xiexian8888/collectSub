@@ -1,6 +1,9 @@
 -- play_list --
 
-
+可用流量: 139.74 GB https://eddy1.snow00.us/api/v1/client/subscribe?token=4f7b5c11fab02db3472459c9f3228ecb
+可用流量: 9877.39 GB https://aoe.o.eoa.ccwu.cc/o
 
 -- sub_list --
 
+https://eddy1.snow00.us/api/v1/client/subscribe?token=4f7b5c11fab02db3472459c9f3228ecb
+https://aoe.o.eoa.ccwu.cc/o
