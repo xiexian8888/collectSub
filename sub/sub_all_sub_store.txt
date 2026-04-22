@@ -4,8 +4,6 @@
 https://update.glados-config.com/clash/453205/fa870f5/25488/glados.yaml
 https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
 https://repzt3P1yq.qinyues4.cc/b9a2764314df60c151fbd511f37a1b82
-https://eddy1.snow00.us/api/v1/client/subscribe?token=4f7b5c11fab02db3472459c9f3228ecb
-https://v.vivia.cc.cd/A
 https://bujidao.cc/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
 https://sub.bujidao.org/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
 https://bujidao.cc/sub?key=XOfnIze0b27ESmztFIuLkfwF4XHZ7qSA
@@ -18,7 +16,7 @@ https://zero.76898102.xyz/link/CsElTBN1F3RqmjjQ?list=shadowrocket
 https://zero.76898102.xyz/link/T0MDjg1bJK13JKbv?list=shadowrocket
 https://zero.76898102.xyz/link/VJ93O5K98PneMoAA?list=shadowrocket
 https://zero.76898102.xyz/link/tm3RQPCHyZNqnEjg?list=shadowrocket
-https://api.liltjay.ip-ddns.com/TQWMYCWH2D
+https://aoe.o.eoa.ccwu.cc/o
 https://s1.byte33.com/api/v1/client/subscribe?token=7d2e38c590841973fed71ac88d086b47
 https://xship.top/v1/subscribe?starlink=ZIXQa-7pg0vPahuyi8bABhob
 https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
@@ -568,6 +566,7 @@ https://ansuyun.xyz/api/as?token=cde510ad435f7a33e80d510322f87fee#/ansuyun.xyz
 https://ansuyun.xyz/api/as?token=cea3a2304260289e15036fffb5676cca
 https://ansuyun.xyz/api/as?token=e598b32300c70006314827c3a29443df
 https://ansuyun.xyz/api/as?token=ffd045f05b5d0fc7a4030cdcec619130
+https://aoe.o.eoa.ccwu.cc/o
 https://ap.niaodi.top/niao?token=cdaa1b1f44005a4ed020ea98e001d0c5
 https://ap.niaodi.top/niao?token=de3d75d981f9e39cf2d592e3498248ce
 https://ap.niubi.site/api/v1/client/subscribe?token=156cd260fa3c18c81e4ec0d93189d78c
