@@ -1,6 +1,6 @@
 -- play_list --
 
-可用流量: 2377.44 GB https://aoe.o.eoa.ccwu.cc/o
+可用流量: 1453.58 GB https://aoe.o.eoa.ccwu.cc/o
 
 -- sub_list --
 
