@@ -4,7 +4,6 @@
 https://update.glados-config.com/clash/453205/fa870f5/25488/glados.yaml
 https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
 https://platform.djjc.cfd/api/v1/client/subscribe?token=78e9584e3441954bea5ac3d00a43b27d&amp;flag=meta
-https://study.small1999.sbs/study/xuexi/v999/hneko?token=6c4b6b0a8f4cc05b35216977957a5fbb
 https://repzt3P1yq.qinyues4.cc/b9a2764314df60c151fbd511f37a1b82
 https://bujidao.cc/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
 https://sub.bujidao.org/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
@@ -13,6 +12,7 @@ https://bujidao.cc/sub?key=vt8Qlku9OczyJt6JI1Eqb6ZeQlgehqEo
 https://bujidao.cc/sub?key=qAmvoST9npYLEgOzq0RMqWhbqBYZoB9D
 https://bujidao.cc/sub?key=KK7BTWJTpqY4bdO6R3qVu0qLWaAn9WRk
 https://jsjc.cfd/api/v1/client/subscribe?token=47937e14f4a8d142f73ce62fdcabc8d7
+https://upm8kfu.nicecloud.win:8443/api/v1/client/94f3e7ac7da08180825a80a9ec3ea849
 https://jsjc.cfd/api/v1/client/subscribe?token=41d2cc3da79c5349481197cf934951f1
 https://jsjc.cfd/api/v1/client/subscribe?token=431255bc7920f793d7699a38d937b6f9
 https://jsjc.cfd/api/v1/client/subscribe?token=70e468efdcf48393fcea004ee0d3cf01
