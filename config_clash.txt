@@ -1,4 +1,4 @@
-https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
-https://subscribe002.awsy.top/subscribego/65c6b8839c2bab8db2310b39dc200b01
+https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 https://proxypool.dmit.dpdns.org/clash/proxies
+https://subscribe002.awsy.top/subscribego/65c6b8839c2bab8db2310b39dc200b01
