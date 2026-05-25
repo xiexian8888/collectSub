@@ -1,6 +1,7 @@
 -- play_list --
 
 
+https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
 https://guolicheng.cfd/api/v1/client/subscribe?token=96a35a4d5c8bd511c52cbfa1bf3f9f5c
 https://guolicheng.cfd/api/v1/client/subscribe?token=96a35a4d5c8bd511c52cbfa1bf3f9f5c&amp;flag=meta
 https://guolicheng.cfd/api/v1/client/subscribe?token=ef6515bb0da83bcdc986f9d046ef72ef
