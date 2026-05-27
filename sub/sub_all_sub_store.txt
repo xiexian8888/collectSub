@@ -6,7 +6,6 @@ https://guolicheng.cfd/api/v1/client/subscribe?token=96a35a4d5c8bd511c52cbfa1bf3
 https://guolicheng.cfd/api/v1/client/subscribe?token=96a35a4d5c8bd511c52cbfa1bf3f9f5c&amp;flag=meta
 https://guolicheng.cfd/api/v1/client/subscribe?token=ef6515bb0da83bcdc986f9d046ef72ef
 https://platform.djjc.cfd/api/v1/client/subscribe?token=78e9584e3441954bea5ac3d00a43b27d&amp;flag=meta
-https://repzt3P1yq.qinyues4.cc/b9a2764314df60c151fbd511f37a1b82
 https://bujidao.cc/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
 https://sub.bujidao.org/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
 https://bujidao.cc/sub?key=XOfnIze0b27ESmztFIuLkfwF4XHZ7qSA
@@ -25,11 +24,10 @@ https://zero.76898102.xyz/link/VJ93O5K98PneMoAA?list=shadowrocket
 https://zero.76898102.xyz/link/tm3RQPCHyZNqnEjg?list=shadowrocket
 https://dy11.baipiaoyes.com/api/v1/client/subscribe?token=c0c9d4428e044dcb116ab50f0cf1735d
 https://jsjc.cfd/api/v1/client/subscribe?token=3fec5e3f0a6b55da227778b2616c3f86
+https://api.liltjay.ip-ddns.com/TQWMYCWH2D
 https://dash.djjc.cfd/api/v1/client/subscribe?token=2c22e0ff0a5bf92f0d2a8d2b28f8c563
 https://gates.djjc.cfd/api/v1/client/subscribe?token=2a6942998f33b7db181b9e7340f590de
 https://m.ssonegame.com/ssone/17f509f496680cc4a18fb72215eb4e80
-https://s1.byte16.com/api/v1/client/subscribe?token=ffc05e97d39d2efbdba15693857014a0
-https://update.glados-config.com/clash/453205/fa870f5/25488/glados.yaml
 https://xship.top/v1/subscribe?starlink=ZIXQa-7pg0vPahuyi8bABhob
 https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
 https://xship.top/v1/subscribe?starlink=sH-dNCXpq8RiI_PeL6Mr4lMT
