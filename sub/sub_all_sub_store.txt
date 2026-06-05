@@ -2,7 +2,6 @@
 
 
 https://update.glados-config.com/clash/453205/fa870f5/25488/glados.yaml
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
 https://guolicheng.cfd/api/v1/client/subscribe?token=96a35a4d5c8bd511c52cbfa1bf3f9f5c
 https://guolicheng.cfd/api/v1/client/subscribe?token=96a35a4d5c8bd511c52cbfa1bf3f9f5c&amp;flag=meta
 https://guolicheng.cfd/api/v1/client/subscribe?token=ef6515bb0da83bcdc986f9d046ef72ef
@@ -26,6 +25,7 @@ https://s1.byte16.com/api/v1/client/subscribe?token=ffc05e97d39d2efbdba156938570
 https://dy11.baipiaoyes.com/api/v1/client/subscribe?token=c0c9d4428e044dcb116ab50f0cf1735d
 https://jsjc.cfd/api/v1/client/subscribe?token=3fec5e3f0a6b55da227778b2616c3f86
 https://m.ssonegame.com/ssone/17f509f496680cc4a18fb72215eb4e80
+https://api.liltjay.ip-ddns.com/TQWMYCWH2D
 https://dash.djjc.cfd/api/v1/client/subscribe?token=2c22e0ff0a5bf92f0d2a8d2b28f8c563
 https://gates.djjc.cfd/api/v1/client/subscribe?token=2a6942998f33b7db181b9e7340f590de
 https://s1.byte33.com/api/v1/client/subscribe?token=7d2e38c590841973fed71ac88d086b47
