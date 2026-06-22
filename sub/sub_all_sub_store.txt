@@ -26,6 +26,7 @@ https://m.ssonegame.com/ssone/17f509f496680cc4a18fb72215eb4e80
 https://jsjc.cfd/api/v1/client/subscribe?token=3fec5e3f0a6b55da227778b2616c3f86
 https://dash.djjc.cfd/api/v1/client/subscribe?token=2c22e0ff0a5bf92f0d2a8d2b28f8c563
 https://gates.djjc.cfd/api/v1/client/subscribe?token=2a6942998f33b7db181b9e7340f590de
+https://s1.byte16.com/api/v1/client/subscribe?token=ffc05e97d39d2efbdba15693857014a0
 https://xship.top/v1/subscribe?starlink=ZIXQa-7pg0vPahuyi8bABhob
 https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
 https://xship.top/v1/subscribe?starlink=sH-dNCXpq8RiI_PeL6Mr4lMT
