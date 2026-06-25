@@ -9,6 +9,7 @@ https://guolicheng.cfd/api/v1/client/subscribe?token=96a35a4d5c8bd511c52cbfa1bf3
 https://guolicheng.cfd/api/v1/client/subscribe?token=ef6515bb0da83bcdc986f9d046ef72ef
 https://platform.djjc.cfd/api/v1/client/subscribe?token=78e9584e3441954bea5ac3d00a43b27d&amp;flag=meta
 https://repzt3P1yq.qinyues4.cc/b9a2764314df60c151fbd511f37a1b82
+https://ymjc.cfd/api/v1/client/subscribe?token=c059e92bab1fbb45334f987a38dd2772
 https://bujidao.cc/sub?key=XOfnIze0b27ESmztFIuLkfwF4XHZ7qSA
 https://bujidao.cc/sub?key=vt8Qlku9OczyJt6JI1Eqb6ZeQlgehqEo
 https://bujidao.cc/sub?key=KK7BTWJTpqY4bdO6R3qVu0qLWaAn9WRk
