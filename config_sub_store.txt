@@ -1,9 +1,9 @@
 -- play_list --
 
-可用流量: 5754.55 GB https://hsy.zcamaf.com/api/v1/client/subscribe?token=e74fc421853933a2071020b196a80176#6T
 可用流量: 96.33 GB http://xn--ciq7ko0lg8x.com/ggbjgpy?token=baddb38c533f795f6e558ae49edaa43f
+可用流量: 5606.68 GB https://hsy.zcamaf.com/api/v1/client/subscribe?token=e74fc421853933a2071020b196a80176#6T
 
 -- sub_list --
 
-https://hsy.zcamaf.com/api/v1/client/subscribe?token=e74fc421853933a2071020b196a80176#6T
 http://xn--ciq7ko0lg8x.com/ggbjgpy?token=baddb38c533f795f6e558ae49edaa43f
+https://hsy.zcamaf.com/api/v1/client/subscribe?token=e74fc421853933a2071020b196a80176#6T
