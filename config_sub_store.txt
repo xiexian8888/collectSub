@@ -1,9 +1,9 @@
 -- play_list --
 
+可用流量: 48.46 GB https://w1.wanhdy.com/s/9b11e950654c15adac2b0fe1d6fa12e7
 可用流量: 95.88 GB http://xn--ciq7ko0lg8x.com/ggbjgpy?token=baddb38c533f795f6e558ae49edaa43f
-可用流量: 48.5 GB https://w1.wanhdy.com/s/9b11e950654c15adac2b0fe1d6fa12e7
 
 -- sub_list --
 
-http://xn--ciq7ko0lg8x.com/ggbjgpy?token=baddb38c533f795f6e558ae49edaa43f
 https://w1.wanhdy.com/s/9b11e950654c15adac2b0fe1d6fa12e7
+http://xn--ciq7ko0lg8x.com/ggbjgpy?token=baddb38c533f795f6e558ae49edaa43f
