@@ -1,6 +1,6 @@
 -- play_list --
 
-可用流量: 26.88 GB https://w1.wanhdy.com/s/9b11e950654c15adac2b0fe1d6fa12e7
+可用流量: 26.26 GB https://w1.wanhdy.com/s/9b11e950654c15adac2b0fe1d6fa12e7
 
 -- sub_list --
 
