@@ -2,7 +2,6 @@
 
 
 https://ninjasub.com/link/XuJjIoZPaC1puYCe?clash=1
-https://ninjasub.com/link/b1UjtCoAZeyyCFqE?clash=1
 https://ninjasub.com/link/b1UjtCoAZeyyCFqE?sub=1
 https://guolicheng.cfd/api/v1/client/subscribe?token=96a35a4d5c8bd511c52cbfa1bf3f9f5c
 https://guolicheng.cfd/api/v1/client/subscribe?token=96a35a4d5c8bd511c52cbfa1bf3f9f5c&amp;flag=meta
@@ -25,6 +24,7 @@ https://zero.76898102.xyz/link/CsElTBN1F3RqmjjQ?list=shadowrocket
 https://zero.76898102.xyz/link/T0MDjg1bJK13JKbv?list=shadowrocket
 https://zero.76898102.xyz/link/VJ93O5K98PneMoAA?list=shadowrocket
 https://zero.76898102.xyz/link/tm3RQPCHyZNqnEjg?list=shadowrocket
+https://cdn.pikayun.com/s/d27d6e1214b90b2d7349c07bd2c00859
 https://jsjc.cfd/api/v1/client/subscribe?token=3fec5e3f0a6b55da227778b2616c3f86
 https://dash.djjc.cfd/api/v1/client/subscribe?token=2c22e0ff0a5bf92f0d2a8d2b28f8c563
 https://gates.djjc.cfd/api/v1/client/subscribe?token=2a6942998f33b7db181b9e7340f590de
@@ -913,6 +913,7 @@ https://cc.dreamlinkc.top/api/v1/client/subscribe?token=987b22ff8c11b66ac674ce29
 https://cdn-web-api.moeu.top/api/v1/client/subscribe?token=2f0e724f9b0be6a6028d3b358bfca666
 https://cdn.1454250.xyz/api/v1/client/subscribe?token=65189ddf67a9d6eebafc2c3469ad74ef
 https://cdn.fraternizey.com/api/v1/client/subscribe?token=de6452de3a631d1006da3981fef4430a
+https://cdn.pikayun.com/s/d27d6e1214b90b2d7349c07bd2c00859
 https://cdn.qfyun.me/api/v1/client/subscribe?token=7d1e74940c3961bf80e8ba8ff1ccc605
 https://cdn.wumaojichang.com/api/v1/client/subscribe?token=13265d30fe79134cd221c48b546ca9ad
 https://cdn1.xr56385d.qianglie.cloud/link/ukPlvBCb3gT8hN0G?clash=1
