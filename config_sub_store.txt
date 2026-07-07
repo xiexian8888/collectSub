@@ -1,9 +1,9 @@
 -- play_list --
 
-可用流量: 1.5 GB https://w1.wanhdy.com/s/9b11e950654c15adac2b0fe1d6fa12e7
-可用流量: 172.63 GB https://cdn.pikayun.com/s/d27d6e1214b90b2d7349c07bd2c00859
+可用流量: 171.02 GB https://cdn.pikayun.com/s/d27d6e1214b90b2d7349c07bd2c00859
+可用流量: 1.41 GB https://w1.wanhdy.com/s/9b11e950654c15adac2b0fe1d6fa12e7
 
 -- sub_list --
 
-https://w1.wanhdy.com/s/9b11e950654c15adac2b0fe1d6fa12e7
 https://cdn.pikayun.com/s/d27d6e1214b90b2d7349c07bd2c00859
+https://w1.wanhdy.com/s/9b11e950654c15adac2b0fe1d6fa12e7
