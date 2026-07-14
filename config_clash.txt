@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 https://w1.wanhdy.com/s/9b11e950654c15adac2b0fe1d6fa12e7
+https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 https://proxypool.dmit.dpdns.org/clash/proxies
