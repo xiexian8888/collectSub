@@ -9,6 +9,7 @@ https://guolicheng.cfd/api/v1/client/subscribe?token=96a35a4d5c8bd511c52cbfa1bf3
 https://guolicheng.cfd/api/v1/client/subscribe?token=ef6515bb0da83bcdc986f9d046ef72ef
 https://platform.djjc.cfd/api/v1/client/subscribe?token=78e9584e3441954bea5ac3d00a43b27d&amp;flag=meta
 https://repzt3P1yq.qinyues4.cc/b9a2764314df60c151fbd511f37a1b82
+https://cdn.pikayun.com/s/39cd0ff176734be4e540ae0f0fad3d3b
 https://ymjc.cfd/api/v1/client/subscribe?token=c059e92bab1fbb45334f987a38dd2772
 https://bujidao.cc/sub?key=XOfnIze0b27ESmztFIuLkfwF4XHZ7qSA
 https://bujidao.cc/sub?key=vt8Qlku9OczyJt6JI1Eqb6ZeQlgehqEo
@@ -913,6 +914,7 @@ https://cc.dreamlinkc.top/api/v1/client/subscribe?token=987b22ff8c11b66ac674ce29
 https://cdn-web-api.moeu.top/api/v1/client/subscribe?token=2f0e724f9b0be6a6028d3b358bfca666
 https://cdn.1454250.xyz/api/v1/client/subscribe?token=65189ddf67a9d6eebafc2c3469ad74ef
 https://cdn.fraternizey.com/api/v1/client/subscribe?token=de6452de3a631d1006da3981fef4430a
+https://cdn.pikayun.com/s/39cd0ff176734be4e540ae0f0fad3d3b
 https://cdn.pikayun.com/s/d27d6e1214b90b2d7349c07bd2c00859
 https://cdn.qfyun.me/api/v1/client/subscribe?token=7d1e74940c3961bf80e8ba8ff1ccc605
 https://cdn.wumaojichang.com/api/v1/client/subscribe?token=13265d30fe79134cd221c48b546ca9ad
