@@ -1,6 +1,6 @@
 -- play_list --
 
-可用流量: 5.04 GB https://cdn.pikayun.com/s/39cd0ff176734be4e540ae0f0fad3d3b
+可用流量: 4.87 GB https://cdn.pikayun.com/s/39cd0ff176734be4e540ae0f0fad3d3b
 
 -- sub_list --
 
