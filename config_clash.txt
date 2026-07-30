@@ -1,2 +1,2 @@
-https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 https://proxypool.dmit.dpdns.org/clash/proxies
+https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
