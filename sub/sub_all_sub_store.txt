@@ -1,7 +1,6 @@
 -- play_list --
 
 
-https://caystc.cc/s/3c4dc2c31d39ed4f698d086723981d68
 https://ninjasub.com/link/XuJjIoZPaC1puYCe?clash=1
 https://ninjasub.com/link/b1UjtCoAZeyyCFqE?clash=1
 https://ninjasub.com/link/b1UjtCoAZeyyCFqE?sub=1
@@ -25,10 +24,10 @@ https://zero.76898102.xyz/link/CsElTBN1F3RqmjjQ?list=shadowrocket
 https://zero.76898102.xyz/link/T0MDjg1bJK13JKbv?list=shadowrocket
 https://zero.76898102.xyz/link/VJ93O5K98PneMoAA?list=shadowrocket
 https://zero.76898102.xyz/link/tm3RQPCHyZNqnEjg?list=shadowrocket
-https://s1.byte16.com/api/v1/client/subscribe?token=ffc05e97d39d2efbdba15693857014a0
 https://jsjc.cfd/api/v1/client/subscribe?token=3fec5e3f0a6b55da227778b2616c3f86
 https://app.nextvpn.xyz/api/sub/c0ea398d509d1536367199a64cd5828101f975eb
 https://dash.djjc.cfd/api/v1/client/subscribe?token=2c22e0ff0a5bf92f0d2a8d2b28f8c563
+https://s1.byte16.com/api/v1/client/subscribe?token=ffc05e97d39d2efbdba15693857014a0
 https://gates.djjc.cfd/api/v1/client/subscribe?token=2a6942998f33b7db181b9e7340f590de
 https://xship.top/v1/subscribe?starlink=ZIXQa-7pg0vPahuyi8bABhob
 https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
