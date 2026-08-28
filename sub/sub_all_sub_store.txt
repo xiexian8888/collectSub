@@ -20,10 +20,6 @@ https://jsjc.cfd/api/v1/client/subscribe?token=431255bc7920f793d7699a38d937b6f9
 https://jsjc.cfd/api/v1/client/subscribe?token=70e468efdcf48393fcea004ee0d3cf01
 https://jsjc.cfd/api/v1/client/subscribe?token=ea26d45de3c8208c5c5ba38cd312e7f9
 https://login.djjc.cfd/api/v1/client/subscribe?token=7e9be9daa6c53871645227a10e53c26f
-https://zero.76898102.xyz/link/CsElTBN1F3RqmjjQ?list=shadowrocket
-https://zero.76898102.xyz/link/T0MDjg1bJK13JKbv?list=shadowrocket
-https://zero.76898102.xyz/link/VJ93O5K98PneMoAA?list=shadowrocket
-https://zero.76898102.xyz/link/tm3RQPCHyZNqnEjg?list=shadowrocket
 https://jsjc.cfd/api/v1/client/subscribe?token=3fec5e3f0a6b55da227778b2616c3f86
 https://app.nextvpn.xyz/api/sub/c0ea398d509d1536367199a64cd5828101f975eb
 https://dash.djjc.cfd/api/v1/client/subscribe?token=2c22e0ff0a5bf92f0d2a8d2b28f8c563
