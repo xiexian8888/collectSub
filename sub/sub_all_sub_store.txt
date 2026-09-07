@@ -3,7 +3,6 @@
 
 https://ninjasub.com/link/XuJjIoZPaC1puYCe?clash=1
 https://ninjasub.com/link/b1UjtCoAZeyyCFqE?clash=1
-https://ninjasub.com/link/b1UjtCoAZeyyCFqE?sub=1
 https://guolicheng.cfd/api/v1/client/subscribe?token=96a35a4d5c8bd511c52cbfa1bf3f9f5c
 https://guolicheng.cfd/api/v1/client/subscribe?token=96a35a4d5c8bd511c52cbfa1bf3f9f5c&amp;flag=meta
 https://guolicheng.cfd/api/v1/client/subscribe?token=ef6515bb0da83bcdc986f9d046ef72ef
