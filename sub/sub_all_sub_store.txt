@@ -1,7 +1,6 @@
 -- play_list --
 
 
-https://ninjasub.com/link/XuJjIoZPaC1puYCe?clash=1
 https://ninjasub.com/link/b1UjtCoAZeyyCFqE?clash=1
 https://ninjasub.com/link/b1UjtCoAZeyyCFqE?sub=1
 https://update.glados-config.com/clash/453205/fa870f5/25488/glados.yaml
